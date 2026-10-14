@@ -1,0 +1,996 @@
+---
+{
+  "language": "ur",
+  "material": "questionnaire",
+  "data": {
+    "id": "unitybc-companion-v1-ur-questionnaire",
+    "mode": "questionnaire",
+    "defaults": {
+      "ui": "en",
+      "language": "ur",
+      "sidebarCollapsed": true
+    },
+    "units": [
+      {
+        "id": "questionnaire-s0014",
+        "titles": {
+          "en": "Mammographic screening",
+          "cs": "Mammographic screening"
+        },
+        "text": {
+          "en": "Have you ever attended for a screening mammogram?\nYes, every time I have been invited\nYes, sometimes when I have been invited\nNo, I have never attended\nDo not know\nPrefer not to say",
+          "ur": "کیا آپ کبھی اسکریننگ کے لیے میموگرام کروانے گئی ہیں؟\nجی ہاں، جب بھی مجھے مدعو کیا گیا ہے\nجی ہاں، کبھی کبھار جب مجھے مدعو کیا گیا ہے\nنہیں، میں کبھی نہیں گئی\nمعلوم نہیں\nبتانا پسند نہیں کروں گی"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "h2",
+              "text": "Have you ever attended for a screening mammogram?"
+            },
+            {
+              "type": "option",
+              "text": "Yes, every time I have been invited"
+            },
+            {
+              "type": "option",
+              "text": "Yes, sometimes when I have been invited"
+            },
+            {
+              "type": "option",
+              "text": "No, I have never attended"
+            },
+            {
+              "type": "option",
+              "text": "Do not know"
+            },
+            {
+              "type": "option",
+              "text": "Prefer not to say"
+            }
+          ],
+          "ur": [
+            {
+              "type": "h2",
+              "text": "کیا آپ کبھی اسکریننگ کے لیے میموگرام کروانے گئی ہیں؟"
+            },
+            {
+              "type": "option",
+              "text": "جی ہاں، جب بھی مجھے مدعو کیا گیا ہے"
+            },
+            {
+              "type": "option",
+              "text": "جی ہاں، کبھی کبھار جب مجھے مدعو کیا گیا ہے"
+            },
+            {
+              "type": "option",
+              "text": "نہیں، میں کبھی نہیں گئی"
+            },
+            {
+              "type": "option",
+              "text": "معلوم نہیں"
+            },
+            {
+              "type": "option",
+              "text": "بتانا پسند نہیں کروں گی"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "کیا آپ کبھی اسکریننگ کے لیے میموگرام کروانے گئی ہیں؟\nجی ہاں، جب بھی مجھے مدعو کیا گیا ہے\nجی ہاں، کبھی کبھار جب مجھے مدعو کیا گیا ہے\nنہیں، میں کبھی نہیں گئی\nمعلوم نہیں\nبتانا پسند نہیں کروں گی",
+            "sentences": [
+              {
+                "text": "کیا آپ کبھی اسکریننگ کے لیے میموگرام کروانے گئی ہیں؟",
+                "charStart": 0,
+                "charEnd": 52,
+                "start": 0.0,
+                "end": 3.6
+              },
+              {
+                "text": "جی ہاں، جب بھی مجھے مدعو کیا گیا ہے",
+                "charStart": 53,
+                "charEnd": 88,
+                "start": 3.61,
+                "end": 6.31
+              },
+              {
+                "text": "جی ہاں، کبھی کبھار جب مجھے مدعو کیا گیا ہے",
+                "charStart": 89,
+                "charEnd": 131,
+                "start": 6.32,
+                "end": 9.62
+              },
+              {
+                "text": "نہیں، میں کبھی نہیں گئی",
+                "charStart": 132,
+                "charEnd": 155,
+                "start": 9.63,
+                "end": 11.88
+              },
+              {
+                "text": "معلوم نہیں",
+                "charStart": 156,
+                "charEnd": 166,
+                "start": 11.89,
+                "end": 13.19
+              },
+              {
+                "text": "بتانا پسند نہیں کروں گی",
+                "charStart": 167,
+                "charEnd": 190,
+                "start": 13.2,
+                "end": 15.25
+              }
+            ],
+            "duration": 15.26
+          },
+          "en": {
+            "text": "Have you ever attended for a screening mammogram?\nYes, every time I have been invited\nYes, sometimes when I have been invited\nNo, I have never attended\nDo not know\nPrefer not to say",
+            "sentences": [
+              {
+                "text": "Have you ever attended for a screening mammogram?",
+                "charStart": 0,
+                "charEnd": 49,
+                "clip": "645565965b5f4e5a592157759c81c68c730e06cfd988afd035840f8c003789d0",
+                "start": 0.0,
+                "end": 3.1
+              },
+              {
+                "text": "Yes, every time I have been invited",
+                "charStart": 50,
+                "charEnd": 85,
+                "clip": "5900773cedba24ebe160ee84abc22eaf253f4a7c142e1b823e55272d3e306b7d",
+                "start": 3.11,
+                "end": 5.91
+              },
+              {
+                "text": "Yes, sometimes when I have been invited",
+                "charStart": 86,
+                "charEnd": 125,
+                "clip": "212140bc271852bf034abfae04026fde39a12e435a1614398c6b99a902b7ef11",
+                "start": 5.92,
+                "end": 8.92
+              },
+              {
+                "text": "No, I have never attended",
+                "charStart": 126,
+                "charEnd": 151,
+                "clip": "56e15b55982cacb0cd7ff70b4614e4732237e90d521013f5002395236fb91db2",
+                "start": 8.93,
+                "end": 11.73
+              },
+              {
+                "text": "Do not know",
+                "charStart": 152,
+                "charEnd": 163,
+                "clip": "f9e1641aabd6b137b7637114d77b50d8d9c1ed97a30dbe07032db2db7c89831c",
+                "start": 11.74,
+                "end": 13.39
+              },
+              {
+                "text": "Prefer not to say",
+                "charStart": 164,
+                "charEnd": 181,
+                "clip": "51fcc57e9bf9e07daec711378ec1eed588eadb2d0dc0fbaf4b06ff9e019024f8",
+                "start": 13.4,
+                "end": 15.0
+              }
+            ],
+            "duration": 15.01
+          }
+        },
+        "type": "radio",
+        "question": {
+          "en": "Have you ever attended for a screening mammogram?",
+          "ur": "کیا آپ کبھی اسکریننگ کے لیے میموگرام کروانے گئی ہیں؟"
+        },
+        "options": {
+          "en": [
+            "Yes, every time I have been invited",
+            "Yes, sometimes when I have been invited",
+            "No, I have never attended",
+            "Do not know",
+            "Prefer not to say"
+          ],
+          "ur": [
+            "جی ہاں، جب بھی مجھے مدعو کیا گیا ہے",
+            "جی ہاں، کبھی کبھار جب مجھے مدعو کیا گیا ہے",
+            "نہیں، میں کبھی نہیں گئی",
+            "معلوم نہیں",
+            "بتانا پسند نہیں کروں گی"
+          ]
+        },
+        "help": {
+          "en": "",
+          "ur": ""
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 49,
+              "end": 3.1
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 52,
+              "end": 3.6
+            }
+          },
+          {
+            "en": {
+              "charStart": 50,
+              "start": 3.11,
+              "charEnd": 85,
+              "end": 5.91
+            },
+            "ur": {
+              "charStart": 53,
+              "start": 3.61,
+              "charEnd": 88,
+              "end": 6.31
+            }
+          },
+          {
+            "en": {
+              "charStart": 86,
+              "start": 5.92,
+              "charEnd": 125,
+              "end": 8.92
+            },
+            "ur": {
+              "charStart": 89,
+              "start": 6.32,
+              "charEnd": 131,
+              "end": 9.62
+            }
+          },
+          {
+            "en": {
+              "charStart": 126,
+              "start": 8.93,
+              "charEnd": 151,
+              "end": 11.73
+            },
+            "ur": {
+              "charStart": 132,
+              "start": 9.63,
+              "charEnd": 155,
+              "end": 11.88
+            }
+          },
+          {
+            "en": {
+              "charStart": 152,
+              "start": 11.74,
+              "charEnd": 163,
+              "end": 13.39
+            },
+            "ur": {
+              "charStart": 156,
+              "start": 11.89,
+              "charEnd": 166,
+              "end": 13.19
+            }
+          },
+          {
+            "en": {
+              "charStart": 164,
+              "start": 13.4,
+              "charEnd": 181,
+              "end": 15.0
+            },
+            "ur": {
+              "charStart": 167,
+              "start": 13.2,
+              "charEnd": 190,
+              "end": 15.25
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-18a99d842c3870c39bf5.mp3",
+          "en": "/assets/audio/en-35033969564cd6524d91.mp3"
+        }
+      },
+      {
+        "id": "questionnaire-s0018",
+        "titles": {
+          "en": "Paying for private healthcare",
+          "cs": "Paying for private healthcare"
+        },
+        "text": {
+          "en": "How is your private healthcare paid for? (tick all that apply)\nI have private health insurance that I pay for\nI have private health insurance through my employer (or a partner's employer)\nI pay for individual treatments when needed\nDo not know\nPrefer not to say",
+          "ur": "آپ کی نجی صحت کی دیکھ بھال کے اخراجات کیسے ادا کیے جاتے ہیں؟ (جو بھی لاگو ہوں، ان سب پر نشان لگائیں)\nمیرے پاس نجی صحت کا بیمہ ہے، جس کی ادائیگی میں خود کرتی ہوں\nمیرے پاس اپنے آجر (یا اپنے شریکِ حیات کے آجر) کے ذریعے نجی صحت کا بیمہ ہے\nضرورت پڑنے پر میں انفرادی علاج کے لیے خود ادائیگی کرتی ہوں\nمعلوم نہیں\nبتانا پسند نہیں کرتی"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "h2",
+              "text": "How is your private healthcare paid for? (tick all that apply)"
+            },
+            {
+              "type": "option",
+              "text": "I have private health insurance that I pay for"
+            },
+            {
+              "type": "option",
+              "text": "I have private health insurance through my employer (or a partner's employer)"
+            },
+            {
+              "type": "option",
+              "text": "I pay for individual treatments when needed"
+            },
+            {
+              "type": "option",
+              "text": "Do not know"
+            },
+            {
+              "type": "option",
+              "text": "Prefer not to say"
+            }
+          ],
+          "ur": [
+            {
+              "type": "h2",
+              "text": "آپ کی نجی صحت کی دیکھ بھال کے اخراجات کیسے ادا کیے جاتے ہیں؟ (جو بھی لاگو ہوں، ان سب پر نشان لگائیں)"
+            },
+            {
+              "type": "option",
+              "text": "میرے پاس نجی صحت کا بیمہ ہے، جس کی ادائیگی میں خود کرتی ہوں"
+            },
+            {
+              "type": "option",
+              "text": "میرے پاس اپنے آجر (یا اپنے شریکِ حیات کے آجر) کے ذریعے نجی صحت کا بیمہ ہے"
+            },
+            {
+              "type": "option",
+              "text": "ضرورت پڑنے پر میں انفرادی علاج کے لیے خود ادائیگی کرتی ہوں"
+            },
+            {
+              "type": "option",
+              "text": "معلوم نہیں"
+            },
+            {
+              "type": "option",
+              "text": "بتانا پسند نہیں کرتی"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "آپ کی نجی صحت کی دیکھ بھال کے اخراجات کیسے ادا کیے جاتے ہیں؟ (جو بھی لاگو ہوں، ان سب پر نشان لگائیں)\nمیرے پاس نجی صحت کا بیمہ ہے، جس کی ادائیگی میں خود کرتی ہوں\nمیرے پاس اپنے آجر (یا اپنے شریکِ حیات کے آجر) کے ذریعے نجی صحت کا بیمہ ہے\nضرورت پڑنے پر میں انفرادی علاج کے لیے خود ادائیگی کرتی ہوں\nمعلوم نہیں\nبتانا پسند نہیں کرتی",
+            "sentences": [
+              {
+                "text": "آپ کی نجی صحت کی دیکھ بھال کے اخراجات کیسے ادا کیے جاتے ہیں؟ (جو بھی لاگو ہوں، ان سب پر نشان لگائیں)",
+                "charStart": 0,
+                "charEnd": 100,
+                "start": 0.0,
+                "end": 7.1
+              },
+              {
+                "text": "میرے پاس نجی صحت کا بیمہ ہے، جس کی ادائیگی میں خود کرتی ہوں",
+                "charStart": 101,
+                "charEnd": 160,
+                "start": 7.11,
+                "end": 12.06
+              },
+              {
+                "text": "میرے پاس اپنے آجر (یا اپنے شریکِ حیات کے آجر) کے ذریعے نجی صحت کا بیمہ ہے",
+                "charStart": 161,
+                "charEnd": 234,
+                "start": 12.07,
+                "end": 17.17
+              },
+              {
+                "text": "ضرورت پڑنے پر میں انفرادی علاج کے لیے خود ادائیگی کرتی ہوں",
+                "charStart": 235,
+                "charEnd": 293,
+                "start": 17.18,
+                "end": 21.78
+              },
+              {
+                "text": "معلوم نہیں",
+                "charStart": 294,
+                "charEnd": 304,
+                "start": 21.79,
+                "end": 23.29
+              },
+              {
+                "text": "بتانا پسند نہیں کرتی",
+                "charStart": 305,
+                "charEnd": 325,
+                "start": 23.3,
+                "end": 25.45
+              }
+            ],
+            "duration": 25.46
+          },
+          "en": {
+            "text": "How is your private healthcare paid for? (tick all that apply)\nI have private health insurance that I pay for\nI have private health insurance through my employer (or a partner's employer)\nI pay for individual treatments when needed\nDo not know\nPrefer not to say",
+            "sentences": [
+              {
+                "text": "How is your private healthcare paid for?",
+                "charStart": 0,
+                "charEnd": 40,
+                "clip": "5e9d7c2fba33aa7b7dd71f52735fae189546ace0a98a6f7ae968d75e1ca19068",
+                "start": 0.0,
+                "end": 3.0
+              },
+              {
+                "text": "(tick all that apply)",
+                "charStart": 41,
+                "charEnd": 62,
+                "clip": "6146c4c135ee4b7fcccc4e11f5d5a670f4f23831608bedf397dca286cda4d4df",
+                "start": 3.01,
+                "end": 4.86
+              },
+              {
+                "text": "I have private health insurance that I pay for",
+                "charStart": 63,
+                "charEnd": 109,
+                "clip": "43bb3c93d474f68a702e049e1f335e499069d40b654b41982462876e02dafbd4",
+                "start": 4.87,
+                "end": 7.97
+              },
+              {
+                "text": "I have private health insurance through my employer (or a partner's employer)",
+                "charStart": 110,
+                "charEnd": 187,
+                "clip": "a21652961b7e3363b592022473e1a8e3dc450501f6e46669cbe0aa3050160c84",
+                "start": 7.98,
+                "end": 12.98
+              },
+              {
+                "text": "I pay for individual treatments when needed",
+                "charStart": 188,
+                "charEnd": 231,
+                "clip": "28e0a1ee5c75426845cdfcd6b1cb355753ef0f9691faef8efd513bad34c38324",
+                "start": 12.99,
+                "end": 15.89
+              },
+              {
+                "text": "Do not know",
+                "charStart": 232,
+                "charEnd": 243,
+                "clip": "f9e1641aabd6b137b7637114d77b50d8d9c1ed97a30dbe07032db2db7c89831c",
+                "start": 15.9,
+                "end": 17.55
+              },
+              {
+                "text": "Prefer not to say",
+                "charStart": 244,
+                "charEnd": 261,
+                "clip": "51fcc57e9bf9e07daec711378ec1eed588eadb2d0dc0fbaf4b06ff9e019024f8",
+                "start": 17.56,
+                "end": 19.16
+              }
+            ],
+            "duration": 19.17
+          }
+        },
+        "type": "checkbox",
+        "question": {
+          "en": "How is your private healthcare paid for? (tick all that apply)",
+          "ur": "آپ کی نجی صحت کی دیکھ بھال کے اخراجات کیسے ادا کیے جاتے ہیں؟ (جو بھی لاگو ہوں، ان سب پر نشان لگائیں)"
+        },
+        "options": {
+          "en": [
+            "I have private health insurance that I pay for",
+            "I have private health insurance through my employer (or a partner's employer)",
+            "I pay for individual treatments when needed",
+            "Do not know",
+            "Prefer not to say"
+          ],
+          "ur": [
+            "میرے پاس نجی صحت کا بیمہ ہے، جس کی ادائیگی میں خود کرتی ہوں",
+            "میرے پاس اپنے آجر (یا اپنے شریکِ حیات کے آجر) کے ذریعے نجی صحت کا بیمہ ہے",
+            "ضرورت پڑنے پر میں انفرادی علاج کے لیے خود ادائیگی کرتی ہوں",
+            "معلوم نہیں",
+            "بتانا پسند نہیں کرتی"
+          ]
+        },
+        "help": {
+          "en": "",
+          "ur": ""
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 62,
+              "end": 4.86
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 100,
+              "end": 7.1
+            }
+          },
+          {
+            "en": {
+              "charStart": 63,
+              "start": 4.87,
+              "charEnd": 109,
+              "end": 7.97
+            },
+            "ur": {
+              "charStart": 101,
+              "start": 7.11,
+              "charEnd": 160,
+              "end": 12.06
+            }
+          },
+          {
+            "en": {
+              "charStart": 110,
+              "start": 7.98,
+              "charEnd": 187,
+              "end": 12.98
+            },
+            "ur": {
+              "charStart": 161,
+              "start": 12.07,
+              "charEnd": 234,
+              "end": 17.17
+            }
+          },
+          {
+            "en": {
+              "charStart": 188,
+              "start": 12.99,
+              "charEnd": 231,
+              "end": 15.89
+            },
+            "ur": {
+              "charStart": 235,
+              "start": 17.18,
+              "charEnd": 293,
+              "end": 21.78
+            }
+          },
+          {
+            "en": {
+              "charStart": 232,
+              "start": 15.9,
+              "charEnd": 243,
+              "end": 17.55
+            },
+            "ur": {
+              "charStart": 294,
+              "start": 21.79,
+              "charEnd": 304,
+              "end": 23.29
+            }
+          },
+          {
+            "en": {
+              "charStart": 244,
+              "start": 17.56,
+              "charEnd": 261,
+              "end": 19.16
+            },
+            "ur": {
+              "charStart": 305,
+              "start": 23.3,
+              "charEnd": 325,
+              "end": 25.45
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-1219f7e1d16cb996fe5d.mp3",
+          "en": "/assets/audio/en-95977e71f12539f1a283.mp3"
+        }
+      },
+      {
+        "id": "questionnaire-s0019",
+        "titles": {
+          "en": "Breast cancer diagnosis",
+          "cs": "Breast cancer diagnosis"
+        },
+        "text": {
+          "en": "How was your breast cancer diagnosed? (Most women go for a screening mammogram after receiving an invitation from the NHS or occasionally from their workplace)\nI had a symptom e.g., lump, skin changes\nI went for a screening mammogram\nI had another scan e.g., CT scan and then was referred to the breast clinic\nOther (not listed)\nPrefer not to say",
+          "ur": "آپ کے چھاتی کے کینسر کی تشخیص کیسے ہوئی؟ (زیادہ تر خواتین NHS یا کبھی کبھار اپنے کام کی جگہ سے دعوت نامہ ملنے کے بعد اسکریننگ کے لیے میموگرام کروانے جاتی ہیں)\nمجھے کوئی علامت تھی، مثلاً گانٹھ یا جلد میں تبدیلی\nمیں اسکریننگ کے لیے میموگرام کروانے گئی تھی\nمیرا کوئی اور سکین ہوا، مثلاً CT سکین، اور پھر مجھے چھاتی کے کلینک بھیجا گیا\nدیگر (فہرست میں شامل نہیں)\nبتانا پسند نہیں کروں گی"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "h2",
+              "text": "How was your breast cancer diagnosed? (Most women go for a screening mammogram after receiving an invitation from the NHS or occasionally from their workplace)"
+            },
+            {
+              "type": "option",
+              "text": "I had a symptom e.g., lump, skin changes"
+            },
+            {
+              "type": "option",
+              "text": "I went for a screening mammogram"
+            },
+            {
+              "type": "option",
+              "text": "I had another scan e.g., CT scan and then was referred to the breast clinic"
+            },
+            {
+              "type": "option",
+              "text": "Other (not listed)"
+            },
+            {
+              "type": "option",
+              "text": "Prefer not to say"
+            }
+          ],
+          "ur": [
+            {
+              "type": "h2",
+              "text": "آپ کے چھاتی کے کینسر کی تشخیص کیسے ہوئی؟ (زیادہ تر خواتین NHS یا کبھی کبھار اپنے کام کی جگہ سے دعوت نامہ ملنے کے بعد اسکریننگ کے لیے میموگرام کروانے جاتی ہیں)"
+            },
+            {
+              "type": "option",
+              "text": "مجھے کوئی علامت تھی، مثلاً گانٹھ یا جلد میں تبدیلی"
+            },
+            {
+              "type": "option",
+              "text": "میں اسکریننگ کے لیے میموگرام کروانے گئی تھی"
+            },
+            {
+              "type": "option",
+              "text": "میرا کوئی اور سکین ہوا، مثلاً CT سکین، اور پھر مجھے چھاتی کے کلینک بھیجا گیا"
+            },
+            {
+              "type": "option",
+              "text": "دیگر (فہرست میں شامل نہیں)"
+            },
+            {
+              "type": "option",
+              "text": "بتانا پسند نہیں کروں گی"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "آپ کے چھاتی کے کینسر کی تشخیص کیسے ہوئی؟ (زیادہ تر خواتین NHS یا کبھی کبھار اپنے کام کی جگہ سے دعوت نامہ ملنے کے بعد اسکریننگ کے لیے میموگرام کروانے جاتی ہیں)\nمجھے کوئی علامت تھی، مثلاً گانٹھ یا جلد میں تبدیلی\nمیں اسکریننگ کے لیے میموگرام کروانے گئی تھی\nمیرا کوئی اور سکین ہوا، مثلاً CT سکین، اور پھر مجھے چھاتی کے کلینک بھیجا گیا\nدیگر (فہرست میں شامل نہیں)\nبتانا پسند نہیں کروں گی",
+            "sentences": [
+              {
+                "text": "آپ کے چھاتی کے کینسر کی تشخیص کیسے ہوئی؟ (زیادہ تر خواتین NHS یا کبھی کبھار اپنے کام کی جگہ سے دعوت نامہ ملنے کے بعد اسکریننگ کے لیے میموگرام کروانے جاتی ہیں)",
+                "charStart": 0,
+                "charEnd": 158,
+                "start": 0.0,
+                "end": 11.8
+              },
+              {
+                "text": "مجھے کوئی علامت تھی، مثلاً گانٹھ یا جلد میں تبدیلی",
+                "charStart": 159,
+                "charEnd": 209,
+                "start": 11.81,
+                "end": 16.01
+              },
+              {
+                "text": "میں اسکریننگ کے لیے میموگرام کروانے گئی تھی",
+                "charStart": 210,
+                "charEnd": 253,
+                "start": 16.02,
+                "end": 19.62
+              },
+              {
+                "text": "میرا کوئی اور سکین ہوا، مثلاً CT سکین، اور پھر مجھے چھاتی کے کلینک بھیجا گیا",
+                "charStart": 254,
+                "charEnd": 330,
+                "start": 19.63,
+                "end": 25.08
+              },
+              {
+                "text": "دیگر (فہرست میں شامل نہیں)",
+                "charStart": 331,
+                "charEnd": 357,
+                "start": 25.09,
+                "end": 28.09
+              },
+              {
+                "text": "بتانا پسند نہیں کروں گی",
+                "charStart": 358,
+                "charEnd": 381,
+                "start": 28.1,
+                "end": 30.1
+              }
+            ],
+            "duration": 30.11
+          },
+          "en": {
+            "text": "How was your breast cancer diagnosed? (Most women go for a screening mammogram after receiving an invitation from the NHS or occasionally from their workplace)\nI had a symptom e.g., lump, skin changes\nI went for a screening mammogram\nI had another scan e.g., CT scan and then was referred to the breast clinic\nOther (not listed)\nPrefer not to say",
+            "sentences": [
+              {
+                "text": "How was your breast cancer diagnosed?",
+                "charStart": 0,
+                "charEnd": 37,
+                "clip": "1db1002d9f02460f0dd42486233f926916415c14cdd8be4809768624428fc9b4",
+                "start": 0.0,
+                "end": 2.45
+              },
+              {
+                "text": "(Most women go for a screening mammogram after receiving an invitation from the NHS or occasionally from their workplace)",
+                "charStart": 38,
+                "charEnd": 159,
+                "clip": "d8bcf872a0f88f85fb8e63cdd9de8453dabb8c965a6784e1e7315c10f49eee4f",
+                "start": 2.46,
+                "end": 9.86
+              },
+              {
+                "text": "I had a symptom e.g., lump, skin changes",
+                "charStart": 160,
+                "charEnd": 200,
+                "clip": "e2efd839c3fc67ebc288833e52424fe89d7040aa4a379900bce71a6cfd88ec69",
+                "start": 9.87,
+                "end": 13.57
+              },
+              {
+                "text": "I went for a screening mammogram",
+                "charStart": 201,
+                "charEnd": 233,
+                "clip": "efcc20ab903726542af6f4a6eaa85f33befd165f5244c179ea277ce037e366a0",
+                "start": 13.58,
+                "end": 15.93
+              },
+              {
+                "text": "I had another scan e.g., CT scan and then was referred to the breast clinic",
+                "charStart": 234,
+                "charEnd": 309,
+                "clip": "de075bc544fccee0d28e6ca423f4c86c4db78628e4d48d50ac380f0064604171",
+                "start": 15.94,
+                "end": 21.34
+              },
+              {
+                "text": "Other (not listed)",
+                "charStart": 310,
+                "charEnd": 328,
+                "clip": "0bf2c498f1e3f81ced1046145a4b5bfb006b662e1eea0319693f2ab518ed1a74",
+                "start": 21.35,
+                "end": 23.15
+              },
+              {
+                "text": "Prefer not to say",
+                "charStart": 329,
+                "charEnd": 346,
+                "clip": "51fcc57e9bf9e07daec711378ec1eed588eadb2d0dc0fbaf4b06ff9e019024f8",
+                "start": 23.16,
+                "end": 24.76
+              }
+            ],
+            "duration": 24.77
+          }
+        },
+        "type": "radio",
+        "question": {
+          "en": "How was your breast cancer diagnosed? (Most women go for a screening mammogram after receiving an invitation from the NHS or occasionally from their workplace)",
+          "ur": "آپ کے چھاتی کے کینسر کی تشخیص کیسے ہوئی؟ (زیادہ تر خواتین NHS یا کبھی کبھار اپنے کام کی جگہ سے دعوت نامہ ملنے کے بعد اسکریننگ کے لیے میموگرام کروانے جاتی ہیں)"
+        },
+        "options": {
+          "en": [
+            "I had a symptom e.g., lump, skin changes",
+            "I went for a screening mammogram",
+            "I had another scan e.g., CT scan and then was referred to the breast clinic",
+            "Other (not listed)",
+            "Prefer not to say"
+          ],
+          "ur": [
+            "مجھے کوئی علامت تھی، مثلاً گانٹھ یا جلد میں تبدیلی",
+            "میں اسکریننگ کے لیے میموگرام کروانے گئی تھی",
+            "میرا کوئی اور سکین ہوا، مثلاً CT سکین، اور پھر مجھے چھاتی کے کلینک بھیجا گیا",
+            "دیگر (فہرست میں شامل نہیں)",
+            "بتانا پسند نہیں کروں گی"
+          ]
+        },
+        "help": {
+          "en": "",
+          "ur": ""
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 159,
+              "end": 9.86
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 158,
+              "end": 11.8
+            }
+          },
+          {
+            "en": {
+              "charStart": 160,
+              "start": 9.87,
+              "charEnd": 200,
+              "end": 13.57
+            },
+            "ur": {
+              "charStart": 159,
+              "start": 11.81,
+              "charEnd": 209,
+              "end": 16.01
+            }
+          },
+          {
+            "en": {
+              "charStart": 201,
+              "start": 13.58,
+              "charEnd": 233,
+              "end": 15.93
+            },
+            "ur": {
+              "charStart": 210,
+              "start": 16.02,
+              "charEnd": 253,
+              "end": 19.62
+            }
+          },
+          {
+            "en": {
+              "charStart": 234,
+              "start": 15.94,
+              "charEnd": 309,
+              "end": 21.34
+            },
+            "ur": {
+              "charStart": 254,
+              "start": 19.63,
+              "charEnd": 330,
+              "end": 25.08
+            }
+          },
+          {
+            "en": {
+              "charStart": 310,
+              "start": 21.35,
+              "charEnd": 328,
+              "end": 23.15
+            },
+            "ur": {
+              "charStart": 331,
+              "start": 25.09,
+              "charEnd": 357,
+              "end": 28.09
+            }
+          },
+          {
+            "en": {
+              "charStart": 329,
+              "start": 23.16,
+              "charEnd": 346,
+              "end": 24.76
+            },
+            "ur": {
+              "charStart": 358,
+              "start": 28.1,
+              "charEnd": 381,
+              "end": 30.1
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-f18eda06c7271edc1e73.mp3",
+          "en": "/assets/audio/en-0c99e18a77d6e215bab6.mp3"
+        }
+      }
+    ],
+    "icons": {
+      "Play": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 5a2 2 0 0 1 3.008-1.728l11.997 6.998a2 2 0 0 1 .003 3.458l-12 7A2 2 0 0 1 5 19z\" /></svg>",
+      "Pause": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"14\" y=\"3\" width=\"5\" height=\"18\" rx=\"1\" /><rect x=\"5\" y=\"3\" width=\"5\" height=\"18\" rx=\"1\" /></svg>",
+      "RotateCcw": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8\" /><path d=\"M3 3v5h5\" /></svg>",
+      "Rewind": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 6a2 2 0 0 0-3.414-1.414l-6 6a2 2 0 0 0 0 2.828l6 6A2 2 0 0 0 12 18z\" /><path d=\"M22 6a2 2 0 0 0-3.414-1.414l-6 6a2 2 0 0 0 0 2.828l6 6A2 2 0 0 0 22 18z\" /></svg>",
+      "CircleHelp": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"10\" /><path d=\"M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3\" /><path d=\"M12 17h.01\" /></svg>",
+      "ListMusic": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M16 5H3\" /><path d=\"M11 12H3\" /><path d=\"M11 19H3\" /><path d=\"M21 16V5\" /><circle cx=\"18\" cy=\"16\" r=\"3\" /></svg>",
+      "Download": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 15V3\" /><path d=\"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4\" /><path d=\"m7 10 5 5 5-5\" /></svg>",
+      "ChevronLeft": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m15 18-6-6 6-6\" /></svg>",
+      "ChevronRight": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m9 18 6-6-6-6\" /></svg>",
+      "Bookmark": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z\"/></svg>",
+      "X": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M18 6 6 18\"/><path d=\"m6 6 12 12\"/></svg>",
+      "Headphones": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 14v-3a9 9 0 0 1 18 0v3\"/><rect x=\"3\" y=\"12\" width=\"4\" height=\"8\" rx=\"2\"/><rect x=\"17\" y=\"12\" width=\"4\" height=\"8\" rx=\"2\"/></svg>",
+      "Languages": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m5 8 6 6m-7 0 6-6m-7-3h12M8 3v2m4 16 5-11 5 11m-8-4h6\"/></svg>",
+      "Panel": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/></svg>",
+      "Columns": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><path d=\"M12 4v16\"/></svg>"
+    },
+    "languageLabels": {
+      "en": "English",
+      "ur": "Urdu"
+    }
+  },
+  "copy": {
+    "en": {
+      "title": "Plain language summary",
+      "questionnaireTitle": "Questionnaire examples",
+      "uiLanguage": "Interface",
+      "contentLanguage": "Recording and active text",
+      "english": "English",
+      "czech": "Czech",
+      "preview": "Research demonstration. Translations and AI-generated recordings are awaiting language review. Notes and example answers remain in this browser.",
+      "listen": "Listen",
+      "pause": "Pause",
+      "resume": "Resume",
+      "speed": "Speed",
+      "normal": "Normal (1×)",
+      "slower": "Slower (0.85×)",
+      "slowest": "Slower (0.7×)",
+      "progress": "Playback position",
+      "missing": "No recording is available for this text.",
+      "help": "Save",
+      "markSaved": "This passage has been marked.",
+      "marks": "Notes",
+      "export": "Download marks",
+      "next": "Next section",
+      "previous": "Previous section",
+      "settings": "Playback settings",
+      "questionHelp": "Choose one answer.",
+      "multiHelp": "Select all that apply.",
+      "answered": "Answered",
+      "notAnswered": "Not answered",
+      "error": "The recording could not load. Check your connection and press Play to try again. You can still read the text.",
+      "textOnly": "Czech text is available; Czech recordings have not been generated.",
+      "empty": "No passages marked yet.",
+      "remove": "Remove",
+      "replayMark": "Listen from this point",
+      "local": "Your place is saved in this browser.",
+      "saveError": "Saving is unavailable. Download your marks before closing.",
+      "position": "Section {number} of {total}",
+      "languageLabel": "Recording language",
+      "back5": "Back 5 seconds",
+      "faster": "Faster (1.25×)",
+      "fastest": "Faster (1.5×)",
+      "previousSentence": "Previous sentence or option",
+      "nextSentence": "Next sentence or option",
+      "selectText": "Select text to save a passage or add a note.",
+      "showPassage": "Show passage",
+      "noteLabel": "Your note (optional)",
+      "playbackTitle": "Playback",
+      "parallelView": "English beside translation",
+      "singleView": "One language",
+      "readingMode": "Text view",
+      "oneLanguage": "One language",
+      "sideBySide": "Two languages",
+      "parallelTranslation": "Parallel translation",
+      "order": "Order",
+      "nowReading": "Now reading",
+      "nextLanguage": "Next",
+      "pairProgress": "Passage {number} of {total}",
+      "repeatPair": "Repeat passage",
+      "previousPair": "Previous passage",
+      "nextPair": "Next passage",
+      "sectionComplete": "Section complete",
+      "sections": "Sections",
+      "interpreterHelp": "Each passage is read in both languages. Playback stops at the end of this section.",
+      "passage": "Passage",
+      "followReading": "Follow reading",
+      "focusView": "Focus view",
+      "showSidebar": "Show notes",
+      "hideSidebar": "Hide notes",
+      "playbackSpeed": "Playback speed",
+      "originalFirst": "Original first",
+      "audioReading": "Audio reading",
+      "selectedLanguage": "Selected language",
+      "closeSelection": "Dismiss selection",
+      "listenTo": "Listen to:",
+      "displayOptions": "Display options",
+      "bothLanguages": "Both",
+      "bothHint": "Both is available with two languages displayed. English is read first.",
+      "pausedReading": "Paused ·",
+      "playThrough": "Play through",
+      "pauseEachSegment": "Pause after each segment",
+      "switchPlayThrough": "Switch to play through",
+      "switchPauseSegments": "Switch to pause after each segment",
+      "followShort": "Follow",
+      "previousShort": "Previous",
+      "nextShort": "Next",
+      "pauseSegmentShort": "Pause per segment"
+    }
+  }
+}
+---
+
+Fixed demonstration content. Edit this source and rebuild. Translation, speech and passage alignment still require language review.

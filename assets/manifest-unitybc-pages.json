@@ -1,0 +1,107 @@
+[
+  {
+    "file": "index.html",
+    "language": "en",
+    "material": "lay-summary",
+    "sections": 1,
+    "bytes": 56898
+  },
+  {
+    "file": "en-pis.html",
+    "language": "en",
+    "material": "pis",
+    "sections": 12,
+    "bytes": 329991
+  },
+  {
+    "file": "en-questionnaire.html",
+    "language": "en",
+    "material": "questionnaire",
+    "sections": 3,
+    "bytes": 45388
+  },
+  {
+    "file": "bn-lay-summary.html",
+    "language": "bn",
+    "material": "lay-summary",
+    "sections": 1,
+    "bytes": 56911
+  },
+  {
+    "file": "bn-pis.html",
+    "language": "bn",
+    "material": "pis",
+    "sections": 12,
+    "bytes": 329995
+  },
+  {
+    "file": "bn-questionnaire.html",
+    "language": "bn",
+    "material": "questionnaire",
+    "sections": 3,
+    "bytes": 45392
+  },
+  {
+    "file": "ur-lay-summary.html",
+    "language": "ur",
+    "material": "lay-summary",
+    "sections": 1,
+    "bytes": 49568
+  },
+  {
+    "file": "ur-pis.html",
+    "language": "ur",
+    "material": "pis",
+    "sections": 12,
+    "bytes": 280113
+  },
+  {
+    "file": "ur-questionnaire.html",
+    "language": "ur",
+    "material": "questionnaire",
+    "sections": 3,
+    "bytes": 41659
+  },
+  {
+    "file": "gu-lay-summary.html",
+    "language": "gu",
+    "material": "lay-summary",
+    "sections": 1,
+    "bytes": 54562
+  },
+  {
+    "file": "gu-pis.html",
+    "language": "gu",
+    "material": "pis",
+    "sections": 12,
+    "bytes": 329427
+  },
+  {
+    "file": "gu-questionnaire.html",
+    "language": "gu",
+    "material": "questionnaire",
+    "sections": 3,
+    "bytes": 46217
+  },
+  {
+    "file": "cs-lay-summary.html",
+    "language": "cs",
+    "material": "lay-summary",
+    "sections": 1,
+    "bytes": 45050
+  },
+  {
+    "file": "cs-pis.html",
+    "language": "cs",
+    "material": "pis",
+    "sections": 12,
+    "bytes": 237350
+  },
+  {
+    "file": "cs-questionnaire.html",
+    "language": "cs",
+    "material": "questionnaire",
+    "sections": 3,
+    "bytes": 39179
+  }
+]

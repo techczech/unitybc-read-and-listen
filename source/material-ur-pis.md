@@ -1,0 +1,6044 @@
+---
+{
+  "language": "ur",
+  "material": "pis",
+  "data": {
+    "id": "unitybc-companion-v1-ur-pis",
+    "mode": "reading",
+    "defaults": {
+      "ui": "en",
+      "language": "ur",
+      "sidebarCollapsed": true
+    },
+    "units": [
+      {
+        "id": "pis-s0001",
+        "titles": {
+          "en": "Welcome and about the study",
+          "cs": "Informace pro účastnice · 1"
+        },
+        "text": {
+          "en": "PARTICIPANT INFORMATION SHEET\nThe Unity Breast Cancer Study _ understanding inequities in breast cancer\nWelcome and thank you for considering taking part in UnityBC!\nUnityBC is a new and important research study designed to collect information from women with breast cancer, with a focus on women from certain ethnic groups.\nThis Participant Information Sheet is designed to inform you about the research study, how we will collect and store information you provide us with and what we will do to protect that information throughout the lifecycle of this research study.\nBefore you decide whether to take part or not, it is important that you understand why the research is being done and what it would involve for you.  Please take time to read this information, and discuss it with others if you wish.\nIf anything is not clear, or you would like more information, please contact the UnityBC team:\nEmail: unitybc@ndph.ox.ac.uk\nIf you would like to arrange a telephone interpreter to help you understand the information in this booklet, please contact the UnityBC team at the telephone number below.\nWhat is the UnityBC research study, and why is it important?\nBreast cancer is the most common cancer in women, yet outcomes are not the same for everyone.\nAround 50,000 women are diagnosed with breast cancer each year in UK, of which around 2150 women are from Asian backgrounds and 1300 women from Black backgrounds.",
+          "ur": "شرکاء کی معلوماتی شیٹ\nThe Unity Breast Cancer Study _ چھاتی کے کینسر میں عدم مساوات کو سمجھنا\nUnityBC میں حصہ لینے پر غور کرنے کے لیے خوش آمدید اور شکریہ!\nUnityBC ایک نئی اور اہم ریسرچ اسٹڈی ہے جس کا مقصد چھاتی کے کینسر والی خواتین سے معلومات جمع کرنا ہے، خاص طور پر بعض نسلی گروہوں سے تعلق رکھنے والی خواتین سے۔\nیہ شرکاء کی معلوماتی شیٹ آپ کو اس ریسرچ اسٹڈی کے بارے میں بتانے کے لیے ہے، جس میں یہ شامل ہے کہ ہم آپ کی فراہم کردہ معلومات کیسے جمع اور محفوظ کریں گے، اور اس ریسرچ اسٹڈی کے پورے عرصے کے دوران ان معلومات کی حفاظت کے لیے کیا کریں گے۔\nاس سے پہلے کہ آپ فیصلہ کریں کہ آپ حصہ لینا چاہتی ہیں یا نہیں، یہ ضروری ہے کہ آپ سمجھیں کہ یہ تحقیق کیوں کی جا رہی ہے اور اس میں آپ کو کیا کرنا ہوگا۔ براہ کرم اس معلومات کو پڑھنے کے لیے وقت نکالیں، اور اگر آپ چاہیں تو دوسروں سے اس پر بات کریں۔\nاگر کوئی بات واضح نہ ہو، یا آپ مزید معلومات چاہیں، تو براہ کرم UnityBC ٹیم سے رابطہ کریں:\nای میل: unitybc@ndph.ox.ac.uk\nاگر آپ اس معلوماتی شیٹ میں دی گئی معلومات کو سمجھنے میں مدد کے لیے ٹیلیفون مترجم کا بندوبست کرنا چاہتی ہیں، تو براہ کرم نیچے دیے گئے فون نمبر پر UnityBC ٹیم سے رابطہ کریں۔\nUnityBC ریسرچ اسٹڈی کیا ہے، اور یہ کیوں اہم ہے؟\nچھاتی کا کینسر خواتین میں سب سے عام کینسر ہے، لیکن نتائج سب کے لیے یکساں نہیں ہوتے۔\nUK میں ہر سال تقریباً 50,000 خواتین میں چھاتی کے کینسر کی تشخیص ہوتی ہے، جن میں سے تقریباً 2150 خواتین ایشیائی نسلی پس منظر سے اور 1300 خواتین سیاہ فام نسلی پس منظر سے تعلق رکھتی ہیں۔"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "p",
+              "text": "PARTICIPANT INFORMATION SHEET"
+            },
+            {
+              "type": "p",
+              "text": "The Unity Breast Cancer Study _ understanding inequities in breast cancer"
+            },
+            {
+              "type": "p",
+              "text": "Welcome and thank you for considering taking part in UnityBC!"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC is a new and important research study designed to collect information from women with breast cancer, with a focus on women from certain ethnic groups."
+            },
+            {
+              "type": "p",
+              "text": "This Participant Information Sheet is designed to inform you about the research study, how we will collect and store information you provide us with and what we will do to protect that information throughout the lifecycle of this research study."
+            },
+            {
+              "type": "p",
+              "text": "Before you decide whether to take part or not, it is important that you understand why the research is being done and what it would involve for you.  Please take time to read this information, and discuss it with others if you wish."
+            },
+            {
+              "type": "p",
+              "text": "If anything is not clear, or you would like more information, please contact the UnityBC team:"
+            },
+            {
+              "type": "p",
+              "text": "Email: unitybc@ndph.ox.ac.uk"
+            },
+            {
+              "type": "p",
+              "text": "If you would like to arrange a telephone interpreter to help you understand the information in this booklet, please contact the UnityBC team at the telephone number below."
+            },
+            {
+              "type": "p",
+              "text": "What is the UnityBC research study, and why is it important?"
+            },
+            {
+              "type": "p",
+              "text": "Breast cancer is the most common cancer in women, yet outcomes are not the same for everyone."
+            },
+            {
+              "type": "p",
+              "text": "Around 50,000 women are diagnosed with breast cancer each year in UK, of which around 2150 women are from Asian backgrounds and 1300 women from Black backgrounds."
+            }
+          ],
+          "ur": [
+            {
+              "type": "p",
+              "text": "شرکاء کی معلوماتی شیٹ"
+            },
+            {
+              "type": "p",
+              "text": "The Unity Breast Cancer Study _ چھاتی کے کینسر میں عدم مساوات کو سمجھنا"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC میں حصہ لینے پر غور کرنے کے لیے خوش آمدید اور شکریہ!"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC ایک نئی اور اہم ریسرچ اسٹڈی ہے جس کا مقصد چھاتی کے کینسر والی خواتین سے معلومات جمع کرنا ہے، خاص طور پر بعض نسلی گروہوں سے تعلق رکھنے والی خواتین سے۔"
+            },
+            {
+              "type": "p",
+              "text": "یہ شرکاء کی معلوماتی شیٹ آپ کو اس ریسرچ اسٹڈی کے بارے میں بتانے کے لیے ہے، جس میں یہ شامل ہے کہ ہم آپ کی فراہم کردہ معلومات کیسے جمع اور محفوظ کریں گے، اور اس ریسرچ اسٹڈی کے پورے عرصے کے دوران ان معلومات کی حفاظت کے لیے کیا کریں گے۔"
+            },
+            {
+              "type": "p",
+              "text": "اس سے پہلے کہ آپ فیصلہ کریں کہ آپ حصہ لینا چاہتی ہیں یا نہیں، یہ ضروری ہے کہ آپ سمجھیں کہ یہ تحقیق کیوں کی جا رہی ہے اور اس میں آپ کو کیا کرنا ہوگا۔ براہ کرم اس معلومات کو پڑھنے کے لیے وقت نکالیں، اور اگر آپ چاہیں تو دوسروں سے اس پر بات کریں۔"
+            },
+            {
+              "type": "p",
+              "text": "اگر کوئی بات واضح نہ ہو، یا آپ مزید معلومات چاہیں، تو براہ کرم UnityBC ٹیم سے رابطہ کریں:"
+            },
+            {
+              "type": "p",
+              "text": "ای میل: unitybc@ndph.ox.ac.uk"
+            },
+            {
+              "type": "p",
+              "text": "اگر آپ اس معلوماتی شیٹ میں دی گئی معلومات کو سمجھنے میں مدد کے لیے ٹیلیفون مترجم کا بندوبست کرنا چاہتی ہیں، تو براہ کرم نیچے دیے گئے فون نمبر پر UnityBC ٹیم سے رابطہ کریں۔"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC ریسرچ اسٹڈی کیا ہے، اور یہ کیوں اہم ہے؟"
+            },
+            {
+              "type": "p",
+              "text": "چھاتی کا کینسر خواتین میں سب سے عام کینسر ہے، لیکن نتائج سب کے لیے یکساں نہیں ہوتے۔"
+            },
+            {
+              "type": "p",
+              "text": "UK میں ہر سال تقریباً 50,000 خواتین میں چھاتی کے کینسر کی تشخیص ہوتی ہے، جن میں سے تقریباً 2150 خواتین ایشیائی نسلی پس منظر سے اور 1300 خواتین سیاہ فام نسلی پس منظر سے تعلق رکھتی ہیں۔"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "شرکاء کی معلوماتی شیٹ\nThe Unity Breast Cancer Study _ چھاتی کے کینسر میں عدم مساوات کو سمجھنا\nUnityBC میں حصہ لینے پر غور کرنے کے لیے خوش آمدید اور شکریہ!\nUnityBC ایک نئی اور اہم ریسرچ اسٹڈی ہے جس کا مقصد چھاتی کے کینسر والی خواتین سے معلومات جمع کرنا ہے، خاص طور پر بعض نسلی گروہوں سے تعلق رکھنے والی خواتین سے۔\nیہ شرکاء کی معلوماتی شیٹ آپ کو اس ریسرچ اسٹڈی کے بارے میں بتانے کے لیے ہے، جس میں یہ شامل ہے کہ ہم آپ کی فراہم کردہ معلومات کیسے جمع اور محفوظ کریں گے، اور اس ریسرچ اسٹڈی کے پورے عرصے کے دوران ان معلومات کی حفاظت کے لیے کیا کریں گے۔\nاس سے پہلے کہ آپ فیصلہ کریں کہ آپ حصہ لینا چاہتی ہیں یا نہیں، یہ ضروری ہے کہ آپ سمجھیں کہ یہ تحقیق کیوں کی جا رہی ہے اور اس میں آپ کو کیا کرنا ہوگا۔ براہ کرم اس معلومات کو پڑھنے کے لیے وقت نکالیں، اور اگر آپ چاہیں تو دوسروں سے اس پر بات کریں۔\nاگر کوئی بات واضح نہ ہو، یا آپ مزید معلومات چاہیں، تو براہ کرم UnityBC ٹیم سے رابطہ کریں:\nای میل: unitybc@ndph.ox.ac.uk\nاگر آپ اس معلوماتی شیٹ میں دی گئی معلومات کو سمجھنے میں مدد کے لیے ٹیلیفون مترجم کا بندوبست کرنا چاہتی ہیں، تو براہ کرم نیچے دیے گئے فون نمبر پر UnityBC ٹیم سے رابطہ کریں۔\nUnityBC ریسرچ اسٹڈی کیا ہے، اور یہ کیوں اہم ہے؟\nچھاتی کا کینسر خواتین میں سب سے عام کینسر ہے، لیکن نتائج سب کے لیے یکساں نہیں ہوتے۔\nUK میں ہر سال تقریباً 50,000 خواتین میں چھاتی کے کینسر کی تشخیص ہوتی ہے، جن میں سے تقریباً 2150 خواتین ایشیائی نسلی پس منظر سے اور 1300 خواتین سیاہ فام نسلی پس منظر سے تعلق رکھتی ہیں۔",
+            "sentences": [
+              {
+                "text": "شرکاء کی معلوماتی شیٹ",
+                "charStart": 0,
+                "charEnd": 21,
+                "start": 0.0,
+                "end": 2.65
+              },
+              {
+                "text": "The Unity Breast Cancer Study _ چھاتی کے کینسر میں عدم مساوات کو سمجھنا",
+                "charStart": 22,
+                "charEnd": 93,
+                "start": 2.66,
+                "end": 7.86
+              },
+              {
+                "text": "UnityBC میں حصہ لینے پر غور کرنے کے لیے خوش آمدید اور شکریہ!",
+                "charStart": 94,
+                "charEnd": 154,
+                "start": 7.87,
+                "end": 12.67
+              },
+              {
+                "text": "UnityBC ایک نئی اور اہم ریسرچ اسٹڈی ہے جس کا مقصد چھاتی کے کینسر والی خواتین سے معلومات جمع کرنا ہے، خاص طور پر بعض نسلی گروہوں سے تعلق رکھنے والی خواتین سے۔",
+                "charStart": 155,
+                "charEnd": 312,
+                "start": 12.68,
+                "end": 22.73
+              },
+              {
+                "text": "یہ شرکاء کی معلوماتی شیٹ آپ کو اس ریسرچ اسٹڈی کے بارے میں بتانے کے لیے ہے، جس میں یہ شامل ہے کہ ہم آپ کی فراہم کردہ معلومات کیسے جمع اور محفوظ کریں گے، اور اس ریسرچ اسٹڈی کے پورے عرصے کے دوران ان معلومات کی حفاظت کے لیے کیا کریں گے۔",
+                "charStart": 313,
+                "charEnd": 545,
+                "start": 22.74,
+                "end": 38.19
+              },
+              {
+                "text": "اس سے پہلے کہ آپ فیصلہ کریں کہ آپ حصہ لینا چاہتی ہیں یا نہیں، یہ ضروری ہے کہ آپ سمجھیں کہ یہ تحقیق کیوں کی جا رہی ہے اور اس میں آپ کو کیا کرنا ہوگا۔",
+                "charStart": 546,
+                "charEnd": 694,
+                "start": 38.2,
+                "end": 47.1
+              },
+              {
+                "text": "براہ کرم اس معلومات کو پڑھنے کے لیے وقت نکالیں، اور اگر آپ چاہیں تو دوسروں سے اس پر بات کریں۔",
+                "charStart": 695,
+                "charEnd": 788,
+                "start": 47.11,
+                "end": 53.36
+              },
+              {
+                "text": "اگر کوئی بات واضح نہ ہو، یا آپ مزید معلومات چاہیں، تو براہ کرم UnityBC ٹیم سے رابطہ کریں:",
+                "charStart": 789,
+                "charEnd": 878,
+                "start": 53.37,
+                "end": 59.57
+              },
+              {
+                "text": "ای میل: unitybc@ndph.ox.ac.uk",
+                "charStart": 879,
+                "charEnd": 908,
+                "start": 59.58,
+                "end": 65.58
+              },
+              {
+                "text": "اگر آپ اس معلوماتی شیٹ میں دی گئی معلومات کو سمجھنے میں مدد کے لیے ٹیلیفون مترجم کا بندوبست کرنا چاہتی ہیں، تو براہ کرم نیچے دیے گئے فون نمبر پر UnityBC ٹیم سے رابطہ کریں۔",
+                "charStart": 909,
+                "charEnd": 1080,
+                "start": 65.59,
+                "end": 76.79
+              },
+              {
+                "text": "UnityBC ریسرچ اسٹڈی کیا ہے، اور یہ کیوں اہم ہے؟",
+                "charStart": 1081,
+                "charEnd": 1128,
+                "start": 76.8,
+                "end": 81.15
+              },
+              {
+                "text": "چھاتی کا کینسر خواتین میں سب سے عام کینسر ہے، لیکن نتائج سب کے لیے یکساں نہیں ہوتے۔",
+                "charStart": 1129,
+                "charEnd": 1212,
+                "start": 81.16,
+                "end": 87.81
+              },
+              {
+                "text": "UK میں ہر سال تقریباً 50,000 خواتین میں چھاتی کے کینسر کی تشخیص ہوتی ہے، جن میں سے تقریباً 2150 خواتین ایشیائی نسلی پس منظر سے اور 1300 خواتین سیاہ فام نسلی پس منظر سے تعلق رکھتی ہیں۔",
+                "charStart": 1213,
+                "charEnd": 1396,
+                "start": 87.82,
+                "end": 101.22
+              }
+            ],
+            "duration": 101.23
+          },
+          "en": {
+            "text": "PARTICIPANT INFORMATION SHEET\nThe Unity Breast Cancer Study _ understanding inequities in breast cancer\nWelcome and thank you for considering taking part in UnityBC!\nUnityBC is a new and important research study designed to collect information from women with breast cancer, with a focus on women from certain ethnic groups.\nThis Participant Information Sheet is designed to inform you about the research study, how we will collect and store information you provide us with and what we will do to protect that information throughout the lifecycle of this research study.\nBefore you decide whether to take part or not, it is important that you understand why the research is being done and what it would involve for you.  Please take time to read this information, and discuss it with others if you wish.\nIf anything is not clear, or you would like more information, please contact the UnityBC team:\nEmail: unitybc@ndph.ox.ac.uk\nIf you would like to arrange a telephone interpreter to help you understand the information in this booklet, please contact the UnityBC team at the telephone number below.\nWhat is the UnityBC research study, and why is it important?\nBreast cancer is the most common cancer in women, yet outcomes are not the same for everyone.\nAround 50,000 women are diagnosed with breast cancer each year in UK, of which around 2150 women are from Asian backgrounds and 1300 women from Black backgrounds.",
+            "sentences": [
+              {
+                "text": "PARTICIPANT INFORMATION SHEET",
+                "charStart": 0,
+                "charEnd": 29,
+                "clip": "dde6b9c01280c30919ff6d3a1dca6792061d106da42f94cc9e2626635442dcc2",
+                "start": 0.0,
+                "end": 2.45
+              },
+              {
+                "text": "The Unity Breast Cancer Study _ understanding inequities in breast cancer",
+                "charStart": 30,
+                "charEnd": 103,
+                "clip": "5904d34faa203ba3a89b85eb8893e04f15b11875f0298fbe16a892a40e6b69f0",
+                "start": 2.46,
+                "end": 7.46
+              },
+              {
+                "text": "Welcome and thank you for considering taking part in UnityBC!",
+                "charStart": 104,
+                "charEnd": 165,
+                "clip": "f29998e7c85e60f7a9e1500766ca5508d526429e400dac05147065554911378a",
+                "start": 7.47,
+                "end": 11.72
+              },
+              {
+                "text": "UnityBC is a new and important research study designed to collect information from women with breast cancer, with a focus on women from certain ethnic groups.",
+                "charStart": 166,
+                "charEnd": 324,
+                "clip": "5c5d91b405aa6ca88464909403d179165e9be7307568c65ae94b1127f7d48042",
+                "start": 11.73,
+                "end": 21.28
+              },
+              {
+                "text": "This Participant Information Sheet is designed to inform you about the research study, how we will collect and store information you provide us with and what we will do to protect that information throughout the lifecycle of this research study.",
+                "charStart": 325,
+                "charEnd": 570,
+                "clip": "42d8037a3949db993825aed6230d2b425463e0bd9d720b7ea471ad4fd399ae3c",
+                "start": 21.29,
+                "end": 34.69
+              },
+              {
+                "text": "Before you decide whether to take part or not, it is important that you understand why the research is being done and what it would involve for you.",
+                "charStart": 571,
+                "charEnd": 719,
+                "clip": "69a75fc17eefbdb58b1c1d81e042d14ab11dd996b9f1ccb49e102e23dc780282",
+                "start": 34.7,
+                "end": 43.95
+              },
+              {
+                "text": "Please take time to read this information, and discuss it with others if you wish.",
+                "charStart": 721,
+                "charEnd": 803,
+                "clip": "a684298168ad6a1d98f385f0de44dccf0a2b7be16579650b79454ae16e83acc9",
+                "start": 43.96,
+                "end": 48.91
+              },
+              {
+                "text": "If anything is not clear, or you would like more information, please contact the UnityBC team:",
+                "charStart": 804,
+                "charEnd": 898,
+                "clip": "4475c9687325c88c7f0ff2f259b9d917b51f47961bf423a0c6220e5bc71af266",
+                "start": 48.92,
+                "end": 54.82
+              },
+              {
+                "text": "Email: unitybc@ndph.ox.ac.uk",
+                "charStart": 899,
+                "charEnd": 927,
+                "clip": "43c34feb1895252ef1541d9086152f404785bfbf1302b0ba37aa6e5c0da57082",
+                "start": 54.83,
+                "end": 60.43
+              },
+              {
+                "text": "If you would like to arrange a telephone interpreter to help you understand the information in this booklet, please contact the UnityBC team at the telephone number below.",
+                "charStart": 928,
+                "charEnd": 1099,
+                "clip": "55bc39ab6e98c8f0dca6bf79d53e8916441a27abb0169430ec528544296e8f12",
+                "start": 60.44,
+                "end": 70.24
+              },
+              {
+                "text": "What is the UnityBC research study, and why is it important?",
+                "charStart": 1100,
+                "charEnd": 1160,
+                "clip": "53267fed697e9ed3132692acf779aa4c42e4bb50f7c9408e4ef12c0bc6380a4b",
+                "start": 70.25,
+                "end": 74.8
+              },
+              {
+                "text": "Breast cancer is the most common cancer in women, yet outcomes are not the same for everyone.",
+                "charStart": 1161,
+                "charEnd": 1254,
+                "clip": "c18791747fc592deaa80d8b0417a81d16c381b16517dca58f45b3979df861166",
+                "start": 74.81,
+                "end": 80.51
+              },
+              {
+                "text": "Around 50,000 women are diagnosed with breast cancer each year in UK, of which around 2150 women are from Asian backgrounds and 1300 women from Black backgrounds.",
+                "charStart": 1255,
+                "charEnd": 1417,
+                "clip": "1ef5db515dd259487f24f0f4c943978785b8ea1c1934fe0de1796ef026f6d9f3",
+                "start": 80.52,
+                "end": 91.47
+              }
+            ],
+            "duration": 91.48
+          }
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 29,
+              "end": 2.45
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 21,
+              "end": 2.65
+            }
+          },
+          {
+            "en": {
+              "charStart": 30,
+              "start": 2.46,
+              "charEnd": 103,
+              "end": 7.46
+            },
+            "ur": {
+              "charStart": 22,
+              "start": 2.66,
+              "charEnd": 93,
+              "end": 7.86
+            }
+          },
+          {
+            "en": {
+              "charStart": 104,
+              "start": 7.47,
+              "charEnd": 165,
+              "end": 11.72
+            },
+            "ur": {
+              "charStart": 94,
+              "start": 7.87,
+              "charEnd": 154,
+              "end": 12.67
+            }
+          },
+          {
+            "en": {
+              "charStart": 166,
+              "start": 11.73,
+              "charEnd": 324,
+              "end": 21.28
+            },
+            "ur": {
+              "charStart": 155,
+              "start": 12.68,
+              "charEnd": 312,
+              "end": 22.73
+            }
+          },
+          {
+            "en": {
+              "charStart": 325,
+              "start": 21.29,
+              "charEnd": 570,
+              "end": 34.69
+            },
+            "ur": {
+              "charStart": 313,
+              "start": 22.74,
+              "charEnd": 545,
+              "end": 38.19
+            }
+          },
+          {
+            "en": {
+              "charStart": 571,
+              "start": 34.7,
+              "charEnd": 719,
+              "end": 43.95
+            },
+            "ur": {
+              "charStart": 546,
+              "start": 38.2,
+              "charEnd": 694,
+              "end": 47.1
+            }
+          },
+          {
+            "en": {
+              "charStart": 721,
+              "start": 43.96,
+              "charEnd": 803,
+              "end": 48.91
+            },
+            "ur": {
+              "charStart": 695,
+              "start": 47.11,
+              "charEnd": 788,
+              "end": 53.36
+            }
+          },
+          {
+            "en": {
+              "charStart": 804,
+              "start": 48.92,
+              "charEnd": 898,
+              "end": 54.82
+            },
+            "ur": {
+              "charStart": 789,
+              "start": 53.37,
+              "charEnd": 878,
+              "end": 59.57
+            }
+          },
+          {
+            "en": {
+              "charStart": 899,
+              "start": 54.83,
+              "charEnd": 927,
+              "end": 60.43
+            },
+            "ur": {
+              "charStart": 879,
+              "start": 59.58,
+              "charEnd": 908,
+              "end": 65.58
+            }
+          },
+          {
+            "en": {
+              "charStart": 928,
+              "start": 60.44,
+              "charEnd": 1099,
+              "end": 70.24
+            },
+            "ur": {
+              "charStart": 909,
+              "start": 65.59,
+              "charEnd": 1080,
+              "end": 76.79
+            }
+          },
+          {
+            "en": {
+              "charStart": 1100,
+              "start": 70.25,
+              "charEnd": 1160,
+              "end": 74.8
+            },
+            "ur": {
+              "charStart": 1081,
+              "start": 76.8,
+              "charEnd": 1128,
+              "end": 81.15
+            }
+          },
+          {
+            "en": {
+              "charStart": 1161,
+              "start": 74.81,
+              "charEnd": 1254,
+              "end": 80.51
+            },
+            "ur": {
+              "charStart": 1129,
+              "start": 81.16,
+              "charEnd": 1212,
+              "end": 87.81
+            }
+          },
+          {
+            "en": {
+              "charStart": 1255,
+              "start": 80.52,
+              "charEnd": 1417,
+              "end": 91.47
+            },
+            "ur": {
+              "charStart": 1213,
+              "start": 87.82,
+              "charEnd": 1396,
+              "end": 101.22
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-07f9d8d50521ab36376f.mp3",
+          "en": "/assets/audio/en-23513165780e36d5e264.mp3"
+        }
+      },
+      {
+        "id": "pis-s0002",
+        "titles": {
+          "en": "Study aims and eligibility",
+          "cs": "Informace pro účastnice · 2"
+        },
+        "text": {
+          "en": "In the UK, women from minority ethnic backgrounds are diagnosed with breast cancer less often than white women but they generally have poorer outcomes. We want to find out why.\nOther studies have shown that women from Asian and Black backgrounds are under-represented in health research, but the reasons why are not fully understood.\nTo improve breast cancer outcomes for all women, it is very important that women from all backgrounds have equal opportunity to take part in breast cancer research studies.\nWhat are the aims of Unity BC?\nThe overall aim of UnityBC is to improve breast cancer outcomes for women, particularly those from different ethnic groups, through understanding variations in breast cancer care and outcomes.\nTo achieve this, we will collect information using an online questionnaire from women with breast cancer from all backgrounds, but we particularly want women from the five large ethnic groups in England to take part. These ethnic groups are Black African, Black Caribbean, Indian, Pakistani and White British.\nWe will test different ways to make women aware of the opportunity to take part, as we want to make taking part in a research study a straightforward and positive experience for women from different ethnic backgrounds.\nWe want UnityBC to become a large, inclusive research study that helps improve breast cancer care and outcomes for all women.\nCan I take part?\nYou can take part if you are a woman aged 18 years or over, living in the UK, who has been diagnosed with breast cancer in the last 13 months.",
+          "ur": "برطانیہ میں اقلیتی نسلی پس منظر کی خواتین میں سفید فام خواتین کے مقابلے میں چھاتی کے کینسر کی تشخیص کم ہوتی ہے، لیکن عموماً ان کے نتائج زیادہ خراب ہوتے ہیں۔ ہم یہ جاننا چاہتے ہیں کہ ایسا کیوں ہے۔\n\nدیگر ریسرچ اسٹڈیز سے معلوم ہوا ہے کہ ایشیائی اور سیاہ فام پس منظر کی خواتین کی صحت سے متعلق تحقیق میں نمائندگی کم ہے، لیکن اس کی وجوہات پوری طرح معلوم نہیں ہیں۔\n\nتمام خواتین کے لیے چھاتی کے کینسر کے نتائج بہتر بنانے کے لیے یہ بہت ضروری ہے کہ ہر پس منظر کی خواتین کو چھاتی کے کینسر کی ریسرچ اسٹڈیز میں حصہ لینے کا برابر موقع ملے۔\n\nUnityBC کے مقاصد کیا ہیں؟\n\nUnityBC کا مجموعی مقصد چھاتی کے کینسر کی دیکھ بھال اور نتائج میں فرق کو سمجھ کر خواتین کے لیے چھاتی کے کینسر کے نتائج بہتر بنانا ہے، خاص طور پر مختلف نسلی گروہوں سے تعلق رکھنے والی خواتین کے لیے۔\n\nاس مقصد کے لیے، ہم ہر پس منظر کی ان خواتین سے آن لائن سوالنامے کے ذریعے معلومات جمع کریں گے جنہیں چھاتی کا کینسر ہے، لیکن ہم خاص طور پر چاہتے ہیں کہ انگلینڈ کے پانچ بڑے نسلی گروہوں کی خواتین حصہ لیں۔ یہ نسلی گروہ سیاہ فام افریقی، سیاہ فام کیریبین، بھارتی، پاکستانی اور سفید فام برطانوی ہیں۔\n\nہم خواتین کو حصہ لینے کے موقع سے آگاہ کرنے کے مختلف طریقوں کو آزمائیں گے، کیونکہ ہم چاہتے ہیں کہ مختلف نسلی پس منظر کی خواتین کے لیے ریسرچ اسٹڈی میں حصہ لینا ایک آسان اور مثبت تجربہ ہو۔\n\nہم چاہتے ہیں کہ UnityBC ایک بڑی، سب کو شامل کرنے والی ریسرچ اسٹڈی بنے، جو تمام خواتین کے لیے چھاتی کے کینسر کی دیکھ بھال اور نتائج بہتر بنانے میں مدد دے۔\n\nکیا میں حصہ لے سکتی ہوں؟\n\nآپ حصہ لے سکتی ہیں اگر آپ کی عمر 18 سال یا اس سے زیادہ ہے، آپ برطانیہ میں رہتی ہیں، اور گزشتہ 13 ماہ میں آپ میں چھاتی کے کینسر کی تشخیص ہوئی ہے۔"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "p",
+              "text": "In the UK, women from minority ethnic backgrounds are diagnosed with breast cancer less often than white women but they generally have poorer outcomes. We want to find out why."
+            },
+            {
+              "type": "p",
+              "text": "Other studies have shown that women from Asian and Black backgrounds are under-represented in health research, but the reasons why are not fully understood."
+            },
+            {
+              "type": "p",
+              "text": "To improve breast cancer outcomes for all women, it is very important that women from all backgrounds have equal opportunity to take part in breast cancer research studies."
+            },
+            {
+              "type": "p",
+              "text": "What are the aims of Unity BC?"
+            },
+            {
+              "type": "p",
+              "text": "The overall aim of UnityBC is to improve breast cancer outcomes for women, particularly those from different ethnic groups, through understanding variations in breast cancer care and outcomes."
+            },
+            {
+              "type": "p",
+              "text": "To achieve this, we will collect information using an online questionnaire from women with breast cancer from all backgrounds, but we particularly want women from the five large ethnic groups in England to take part. These ethnic groups are Black African, Black Caribbean, Indian, Pakistani and White British."
+            },
+            {
+              "type": "p",
+              "text": "We will test different ways to make women aware of the opportunity to take part, as we want to make taking part in a research study a straightforward and positive experience for women from different ethnic backgrounds."
+            },
+            {
+              "type": "p",
+              "text": "We want UnityBC to become a large, inclusive research study that helps improve breast cancer care and outcomes for all women."
+            },
+            {
+              "type": "p",
+              "text": "Can I take part?"
+            },
+            {
+              "type": "p",
+              "text": "You can take part if you are a woman aged 18 years or over, living in the UK, who has been diagnosed with breast cancer in the last 13 months."
+            }
+          ],
+          "ur": [
+            {
+              "type": "p",
+              "text": "برطانیہ میں اقلیتی نسلی پس منظر کی خواتین میں سفید فام خواتین کے مقابلے میں چھاتی کے کینسر کی تشخیص کم ہوتی ہے، لیکن عموماً ان کے نتائج زیادہ خراب ہوتے ہیں۔ ہم یہ جاننا چاہتے ہیں کہ ایسا کیوں ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "دیگر ریسرچ اسٹڈیز سے معلوم ہوا ہے کہ ایشیائی اور سیاہ فام پس منظر کی خواتین کی صحت سے متعلق تحقیق میں نمائندگی کم ہے، لیکن اس کی وجوہات پوری طرح معلوم نہیں ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "تمام خواتین کے لیے چھاتی کے کینسر کے نتائج بہتر بنانے کے لیے یہ بہت ضروری ہے کہ ہر پس منظر کی خواتین کو چھاتی کے کینسر کی ریسرچ اسٹڈیز میں حصہ لینے کا برابر موقع ملے۔"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC کے مقاصد کیا ہیں؟"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC کا مجموعی مقصد چھاتی کے کینسر کی دیکھ بھال اور نتائج میں فرق کو سمجھ کر خواتین کے لیے چھاتی کے کینسر کے نتائج بہتر بنانا ہے، خاص طور پر مختلف نسلی گروہوں سے تعلق رکھنے والی خواتین کے لیے۔"
+            },
+            {
+              "type": "p",
+              "text": "اس مقصد کے لیے، ہم ہر پس منظر کی ان خواتین سے آن لائن سوالنامے کے ذریعے معلومات جمع کریں گے جنہیں چھاتی کا کینسر ہے، لیکن ہم خاص طور پر چاہتے ہیں کہ انگلینڈ کے پانچ بڑے نسلی گروہوں کی خواتین حصہ لیں۔ یہ نسلی گروہ سیاہ فام افریقی، سیاہ فام کیریبین، بھارتی، پاکستانی اور سفید فام برطانوی ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "ہم خواتین کو حصہ لینے کے موقع سے آگاہ کرنے کے مختلف طریقوں کو آزمائیں گے، کیونکہ ہم چاہتے ہیں کہ مختلف نسلی پس منظر کی خواتین کے لیے ریسرچ اسٹڈی میں حصہ لینا ایک آسان اور مثبت تجربہ ہو۔"
+            },
+            {
+              "type": "p",
+              "text": "ہم چاہتے ہیں کہ UnityBC ایک بڑی، سب کو شامل کرنے والی ریسرچ اسٹڈی بنے، جو تمام خواتین کے لیے چھاتی کے کینسر کی دیکھ بھال اور نتائج بہتر بنانے میں مدد دے۔"
+            },
+            {
+              "type": "p",
+              "text": "کیا میں حصہ لے سکتی ہوں؟"
+            },
+            {
+              "type": "p",
+              "text": "آپ حصہ لے سکتی ہیں اگر آپ کی عمر 18 سال یا اس سے زیادہ ہے، آپ برطانیہ میں رہتی ہیں، اور گزشتہ 13 ماہ میں آپ میں چھاتی کے کینسر کی تشخیص ہوئی ہے۔"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "برطانیہ میں اقلیتی نسلی پس منظر کی خواتین میں سفید فام خواتین کے مقابلے میں چھاتی کے کینسر کی تشخیص کم ہوتی ہے، لیکن عموماً ان کے نتائج زیادہ خراب ہوتے ہیں۔ ہم یہ جاننا چاہتے ہیں کہ ایسا کیوں ہے۔\n\nدیگر ریسرچ اسٹڈیز سے معلوم ہوا ہے کہ ایشیائی اور سیاہ فام پس منظر کی خواتین کی صحت سے متعلق تحقیق میں نمائندگی کم ہے، لیکن اس کی وجوہات پوری طرح معلوم نہیں ہیں۔\n\nتمام خواتین کے لیے چھاتی کے کینسر کے نتائج بہتر بنانے کے لیے یہ بہت ضروری ہے کہ ہر پس منظر کی خواتین کو چھاتی کے کینسر کی ریسرچ اسٹڈیز میں حصہ لینے کا برابر موقع ملے۔\n\nUnityBC کے مقاصد کیا ہیں؟\n\nUnityBC کا مجموعی مقصد چھاتی کے کینسر کی دیکھ بھال اور نتائج میں فرق کو سمجھ کر خواتین کے لیے چھاتی کے کینسر کے نتائج بہتر بنانا ہے، خاص طور پر مختلف نسلی گروہوں سے تعلق رکھنے والی خواتین کے لیے۔\n\nاس مقصد کے لیے، ہم ہر پس منظر کی ان خواتین سے آن لائن سوالنامے کے ذریعے معلومات جمع کریں گے جنہیں چھاتی کا کینسر ہے، لیکن ہم خاص طور پر چاہتے ہیں کہ انگلینڈ کے پانچ بڑے نسلی گروہوں کی خواتین حصہ لیں۔ یہ نسلی گروہ سیاہ فام افریقی، سیاہ فام کیریبین، بھارتی، پاکستانی اور سفید فام برطانوی ہیں۔\n\nہم خواتین کو حصہ لینے کے موقع سے آگاہ کرنے کے مختلف طریقوں کو آزمائیں گے، کیونکہ ہم چاہتے ہیں کہ مختلف نسلی پس منظر کی خواتین کے لیے ریسرچ اسٹڈی میں حصہ لینا ایک آسان اور مثبت تجربہ ہو۔\n\nہم چاہتے ہیں کہ UnityBC ایک بڑی، سب کو شامل کرنے والی ریسرچ اسٹڈی بنے، جو تمام خواتین کے لیے چھاتی کے کینسر کی دیکھ بھال اور نتائج بہتر بنانے میں مدد دے۔\n\nکیا میں حصہ لے سکتی ہوں؟\n\nآپ حصہ لے سکتی ہیں اگر آپ کی عمر 18 سال یا اس سے زیادہ ہے، آپ برطانیہ میں رہتی ہیں، اور گزشتہ 13 ماہ میں آپ میں چھاتی کے کینسر کی تشخیص ہوئی ہے۔",
+            "sentences": [
+              {
+                "text": "برطانیہ میں اقلیتی نسلی پس منظر کی خواتین میں سفید فام خواتین کے مقابلے میں چھاتی کے کینسر کی تشخیص کم ہوتی ہے، لیکن عموماً ان کے نتائج زیادہ خراب ہوتے ہیں۔",
+                "charStart": 0,
+                "charEnd": 156,
+                "start": 0.0,
+                "end": 11.1
+              },
+              {
+                "text": "ہم یہ جاننا چاہتے ہیں کہ ایسا کیوں ہے۔",
+                "charStart": 157,
+                "charEnd": 195,
+                "start": 11.11,
+                "end": 14.16
+              },
+              {
+                "text": "دیگر ریسرچ اسٹڈیز سے معلوم ہوا ہے کہ ایشیائی اور سیاہ فام پس منظر کی خواتین کی صحت سے متعلق تحقیق میں نمائندگی کم ہے، لیکن اس کی وجوہات پوری طرح معلوم نہیں ہیں۔",
+                "charStart": 197,
+                "charEnd": 357,
+                "start": 14.17,
+                "end": 25.07
+              },
+              {
+                "text": "تمام خواتین کے لیے چھاتی کے کینسر کے نتائج بہتر بنانے کے لیے یہ بہت ضروری ہے کہ ہر پس منظر کی خواتین کو چھاتی کے کینسر کی ریسرچ اسٹڈیز میں حصہ لینے کا برابر موقع ملے۔",
+                "charStart": 359,
+                "charEnd": 525,
+                "start": 25.08,
+                "end": 36.38
+              },
+              {
+                "text": "UnityBC کے مقاصد کیا ہیں؟",
+                "charStart": 527,
+                "charEnd": 552,
+                "start": 36.39,
+                "end": 39.19
+              },
+              {
+                "text": "UnityBC کا مجموعی مقصد چھاتی کے کینسر کی دیکھ بھال اور نتائج میں فرق کو سمجھ کر خواتین کے لیے چھاتی کے کینسر کے نتائج بہتر بنانا ہے، خاص طور پر مختلف نسلی گروہوں سے تعلق رکھنے والی خواتین کے لیے۔",
+                "charStart": 554,
+                "charEnd": 749,
+                "start": 39.2,
+                "end": 53.65
+              },
+              {
+                "text": "اس مقصد کے لیے، ہم ہر پس منظر کی ان خواتین سے آن لائن سوالنامے کے ذریعے معلومات جمع کریں گے جنہیں چھاتی کا کینسر ہے، لیکن ہم خاص طور پر چاہتے ہیں کہ انگلینڈ کے پانچ بڑے نسلی گروہوں کی خواتین حصہ لیں۔",
+                "charStart": 751,
+                "charEnd": 950,
+                "start": 53.66,
+                "end": 67.01
+              },
+              {
+                "text": "یہ نسلی گروہ سیاہ فام افریقی، سیاہ فام کیریبین، بھارتی، پاکستانی اور سفید فام برطانوی ہیں۔",
+                "charStart": 951,
+                "charEnd": 1041,
+                "start": 67.02,
+                "end": 74.02
+              },
+              {
+                "text": "ہم خواتین کو حصہ لینے کے موقع سے آگاہ کرنے کے مختلف طریقوں کو آزمائیں گے، کیونکہ ہم چاہتے ہیں کہ مختلف نسلی پس منظر کی خواتین کے لیے ریسرچ اسٹڈی میں حصہ لینا ایک آسان اور مثبت تجربہ ہو۔",
+                "charStart": 1043,
+                "charEnd": 1228,
+                "start": 74.03,
+                "end": 86.83
+              },
+              {
+                "text": "ہم چاہتے ہیں کہ UnityBC ایک بڑی، سب کو شامل کرنے والی ریسرچ اسٹڈی بنے، جو تمام خواتین کے لیے چھاتی کے کینسر کی دیکھ بھال اور نتائج بہتر بنانے میں مدد دے۔",
+                "charStart": 1230,
+                "charEnd": 1383,
+                "start": 86.84,
+                "end": 98.19
+              },
+              {
+                "text": "کیا میں حصہ لے سکتی ہوں؟",
+                "charStart": 1385,
+                "charEnd": 1409,
+                "start": 98.2,
+                "end": 100.25
+              },
+              {
+                "text": "آپ حصہ لے سکتی ہیں اگر آپ کی عمر 18 سال یا اس سے زیادہ ہے، آپ برطانیہ میں رہتی ہیں، اور گزشتہ 13 ماہ میں آپ میں چھاتی کے کینسر کی تشخیص ہوئی ہے۔",
+                "charStart": 1411,
+                "charEnd": 1555,
+                "start": 100.26,
+                "end": 110.61
+              }
+            ],
+            "duration": 110.62
+          },
+          "en": {
+            "text": "In the UK, women from minority ethnic backgrounds are diagnosed with breast cancer less often than white women but they generally have poorer outcomes. We want to find out why.\nOther studies have shown that women from Asian and Black backgrounds are under-represented in health research, but the reasons why are not fully understood.\nTo improve breast cancer outcomes for all women, it is very important that women from all backgrounds have equal opportunity to take part in breast cancer research studies.\nWhat are the aims of Unity BC?\nThe overall aim of UnityBC is to improve breast cancer outcomes for women, particularly those from different ethnic groups, through understanding variations in breast cancer care and outcomes.\nTo achieve this, we will collect information using an online questionnaire from women with breast cancer from all backgrounds, but we particularly want women from the five large ethnic groups in England to take part. These ethnic groups are Black African, Black Caribbean, Indian, Pakistani and White British.\nWe will test different ways to make women aware of the opportunity to take part, as we want to make taking part in a research study a straightforward and positive experience for women from different ethnic backgrounds.\nWe want UnityBC to become a large, inclusive research study that helps improve breast cancer care and outcomes for all women.\nCan I take part?\nYou can take part if you are a woman aged 18 years or over, living in the UK, who has been diagnosed with breast cancer in the last 13 months.",
+            "sentences": [
+              {
+                "text": "In the UK, women from minority ethnic backgrounds are diagnosed with breast cancer less often than white women but they generally have poorer outcomes.",
+                "charStart": 0,
+                "charEnd": 151,
+                "clip": "4f7db65d5c94784472c0b8e040bdb429d480f57fc463086ee5be2144a3b2b4bd",
+                "start": 0.0,
+                "end": 9.4
+              },
+              {
+                "text": "We want to find out why.",
+                "charStart": 152,
+                "charEnd": 176,
+                "clip": "159820cd12d27dd1bdc126ef61a4e9b06e642088762fde8b9c88acfb9f1b2f00",
+                "start": 9.41,
+                "end": 11.76
+              },
+              {
+                "text": "Other studies have shown that women from Asian and Black backgrounds are under-represented in health research, but the reasons why are not fully understood.",
+                "charStart": 177,
+                "charEnd": 333,
+                "clip": "283a8023d9fbe3e147450263422366deaf56ea9c5ef810c4d3ef538b1049299f",
+                "start": 11.77,
+                "end": 20.32
+              },
+              {
+                "text": "To improve breast cancer outcomes for all women, it is very important that women from all backgrounds have equal opportunity to take part in breast cancer research studies.",
+                "charStart": 334,
+                "charEnd": 506,
+                "clip": "7857c7def923bb200081fe86eb13c023e6048c2e89072a7e71499627b09d879f",
+                "start": 20.33,
+                "end": 30.38
+              },
+              {
+                "text": "What are the aims of Unity BC?",
+                "charStart": 507,
+                "charEnd": 537,
+                "clip": "612334201e994fb185a9f4de38635f668d48107652a6c51813ad9b4720a2a77b",
+                "start": 30.39,
+                "end": 33.54
+              },
+              {
+                "text": "The overall aim of UnityBC is to improve breast cancer outcomes for women, particularly those from different ethnic groups, through understanding variations in breast cancer care and outcomes.",
+                "charStart": 538,
+                "charEnd": 730,
+                "clip": "49d0a203838c275de45e8fc2bd4e6c45a941ae9cdda1e695c79add1e1fc4a7fb",
+                "start": 33.55,
+                "end": 44.75
+              },
+              {
+                "text": "To achieve this, we will collect information using an online questionnaire from women with breast cancer from all backgrounds, but we particularly want women from the five large ethnic groups in England to take part.",
+                "charStart": 731,
+                "charEnd": 947,
+                "clip": "c456fb0331e600590634a4969983961ea17f220c5b3e473eac25547efbd64b80",
+                "start": 44.76,
+                "end": 56.56
+              },
+              {
+                "text": "These ethnic groups are Black African, Black Caribbean, Indian, Pakistani and White British.",
+                "charStart": 948,
+                "charEnd": 1040,
+                "clip": "3dd1e8c33466f72fd5efa75ff11333bc7fead368e622be1cd34092b8d47149d5",
+                "start": 56.57,
+                "end": 63.72
+              },
+              {
+                "text": "We will test different ways to make women aware of the opportunity to take part, as we want to make taking part in a research study a straightforward and positive experience for women from different ethnic backgrounds.",
+                "charStart": 1041,
+                "charEnd": 1259,
+                "clip": "2e995e154397e93d4a368f727e27b1d27b0aaf621d58f2a07d5401dc23526cf3",
+                "start": 63.73,
+                "end": 74.93
+              },
+              {
+                "text": "We want UnityBC to become a large, inclusive research study that helps improve breast cancer care and outcomes for all women.",
+                "charStart": 1260,
+                "charEnd": 1385,
+                "clip": "699d8f6f0f57a6dbf335ce640173d9a8f6e7ea836eed29805814e5e9ce374f5f",
+                "start": 74.94,
+                "end": 83.24
+              },
+              {
+                "text": "Can I take part?",
+                "charStart": 1386,
+                "charEnd": 1402,
+                "clip": "ca98360fe604eeaf0a51b604668280fe58c2f704b291d7448943cdf9773ff3e5",
+                "start": 83.25,
+                "end": 84.9
+              },
+              {
+                "text": "You can take part if you are a woman aged 18 years or over, living in the UK, who has been diagnosed with breast cancer in the last 13 months.",
+                "charStart": 1403,
+                "charEnd": 1545,
+                "clip": "06595227b5ac56561b873155d0ce3440d89eff09bd6656394c2cd5bcfef5cfd0",
+                "start": 84.91,
+                "end": 93.46
+              }
+            ],
+            "duration": 93.47
+          }
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 151,
+              "end": 9.4
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 156,
+              "end": 11.1
+            }
+          },
+          {
+            "en": {
+              "charStart": 152,
+              "start": 9.41,
+              "charEnd": 176,
+              "end": 11.76
+            },
+            "ur": {
+              "charStart": 157,
+              "start": 11.11,
+              "charEnd": 195,
+              "end": 14.16
+            }
+          },
+          {
+            "en": {
+              "charStart": 177,
+              "start": 11.77,
+              "charEnd": 333,
+              "end": 20.32
+            },
+            "ur": {
+              "charStart": 197,
+              "start": 14.17,
+              "charEnd": 357,
+              "end": 25.07
+            }
+          },
+          {
+            "en": {
+              "charStart": 334,
+              "start": 20.33,
+              "charEnd": 506,
+              "end": 30.38
+            },
+            "ur": {
+              "charStart": 359,
+              "start": 25.08,
+              "charEnd": 525,
+              "end": 36.38
+            }
+          },
+          {
+            "en": {
+              "charStart": 507,
+              "start": 30.39,
+              "charEnd": 537,
+              "end": 33.54
+            },
+            "ur": {
+              "charStart": 527,
+              "start": 36.39,
+              "charEnd": 552,
+              "end": 39.19
+            }
+          },
+          {
+            "en": {
+              "charStart": 538,
+              "start": 33.55,
+              "charEnd": 730,
+              "end": 44.75
+            },
+            "ur": {
+              "charStart": 554,
+              "start": 39.2,
+              "charEnd": 749,
+              "end": 53.65
+            }
+          },
+          {
+            "en": {
+              "charStart": 731,
+              "start": 44.76,
+              "charEnd": 947,
+              "end": 56.56
+            },
+            "ur": {
+              "charStart": 751,
+              "start": 53.66,
+              "charEnd": 950,
+              "end": 67.01
+            }
+          },
+          {
+            "en": {
+              "charStart": 948,
+              "start": 56.57,
+              "charEnd": 1040,
+              "end": 63.72
+            },
+            "ur": {
+              "charStart": 951,
+              "start": 67.02,
+              "charEnd": 1041,
+              "end": 74.02
+            }
+          },
+          {
+            "en": {
+              "charStart": 1041,
+              "start": 63.73,
+              "charEnd": 1259,
+              "end": 74.93
+            },
+            "ur": {
+              "charStart": 1043,
+              "start": 74.03,
+              "charEnd": 1228,
+              "end": 86.83
+            }
+          },
+          {
+            "en": {
+              "charStart": 1260,
+              "start": 74.94,
+              "charEnd": 1385,
+              "end": 83.24
+            },
+            "ur": {
+              "charStart": 1230,
+              "start": 86.84,
+              "charEnd": 1383,
+              "end": 98.19
+            }
+          },
+          {
+            "en": {
+              "charStart": 1386,
+              "start": 83.25,
+              "charEnd": 1402,
+              "end": 84.9
+            },
+            "ur": {
+              "charStart": 1385,
+              "start": 98.2,
+              "charEnd": 1409,
+              "end": 100.25
+            }
+          },
+          {
+            "en": {
+              "charStart": 1403,
+              "start": 84.91,
+              "charEnd": 1545,
+              "end": 93.46
+            },
+            "ur": {
+              "charStart": 1411,
+              "start": 100.26,
+              "charEnd": 1555,
+              "end": 110.61
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-c733862d2dcb5efe1f33.mp3",
+          "en": "/assets/audio/en-e5549d24f47b90e1c430.mp3"
+        }
+      },
+      {
+        "id": "pis-s0003",
+        "titles": {
+          "en": "Deciding whether to take part",
+          "cs": "Informace pro účastnice · 3"
+        },
+        "text": {
+          "en": "We particularly want to encourage women from Black African, Black Caribbean, Indian and Pakistani backgrounds to take part because they are underrepresented in breast cancer studies.  If you are a member of these communities, taking part will help the study and may improve breast cancer outcomes in the future by increasing our understanding of the variations in breast cancer.\nDo I have to take part?\nNo, taking part is entirely voluntary.\nIf you decide to take part and change your mind at any time, you can withdraw from UnityBC. You won’t have to give a reason why you’ve decided to withdraw. To withdraw, please email unitybc@ndph.ox.ac.uk from the email you used to register.\nIf you withdraw from UnityBC, unless you state otherwise, any data you have provided up to that point will still be stored for future research as detailed in this participant information sheet. If you do not want your data to be stored, you are free to request that it is deleted.\nWhat will happen to me if I decide to take part?\nIf you take part in UnityBC, your normal medical care will not be affected, and you will not need to attend any extra medical appointments.\nTaking part in UnityBC means providing consent and completing the online questionnaire.\nTo take part in UnityBC, you must have access to the internet via a smartphone or tablet or computer and an active email account.",
+          "ur": "ہم خاص طور پر سیاہ فام افریقی، سیاہ فام کیریبین، بھارتی اور پاکستانی نسلی پس منظر سے تعلق رکھنے والی خواتین کی حوصلہ افزائی کرنا چاہتے ہیں کہ وہ حصہ لیں، کیونکہ چھاتی کے کینسر سے متعلق تحقیق میں ان کی نمائندگی کم ہے۔ اگر آپ ان کمیونٹیز میں سے کسی سے تعلق رکھتی ہیں، تو آپ کا حصہ لینا اس ریسرچ اسٹڈی میں مدد دے گا اور چھاتی کے کینسر میں پائے جانے والے فرق کو بہتر طور پر سمجھنے کے ذریعے مستقبل میں چھاتی کے کینسر کے نتائج بہتر بنانے میں مدد کر سکتا ہے۔\n\nکیا مجھے حصہ لینا ضروری ہے؟\n\nنہیں، حصہ لینا مکمل طور پر آپ کی مرضی پر منحصر ہے۔\n\nاگر آپ حصہ لینے کا فیصلہ کرتی ہیں اور کسی بھی وقت آپ کی رائے بدل جائے، تو آپ UnityBC سے دستبردار ہو سکتی ہیں۔ آپ کو یہ بتانے کی ضرورت نہیں ہوگی کہ آپ نے دستبردار ہونے کا فیصلہ کیوں کیا ہے۔ دستبردار ہونے کے لیے، براہِ کرم اس ای میل پتے سے unitybc@ndph.ox.ac.uk پر ای میل کریں جس سے آپ نے رجسٹریشن کی تھی۔\n\nاگر آپ UnityBC سے دستبردار ہوتی ہیں، تو جب تک آپ اس کے برعکس نہ کہیں، اس وقت تک آپ کا فراہم کردہ کوئی بھی ڈیٹا مستقبل کی تحقیق کے لیے محفوظ رکھا جائے گا، جیسا کہ اس شرکاء کی معلوماتی شیٹ میں تفصیل سے بتایا گیا ہے۔ اگر آپ نہیں چاہتیں کہ آپ کا ڈیٹا محفوظ رکھا جائے، تو آپ درخواست کر سکتی ہیں کہ اسے حذف کر دیا جائے۔\n\nاگر میں حصہ لینے کا فیصلہ کروں تو میرے ساتھ کیا ہوگا؟\n\nاگر آپ UnityBC میں حصہ لیتی ہیں، تو آپ کی معمول کی طبی دیکھ بھال متاثر نہیں ہوگی، اور آپ کو کسی اضافی طبی اپوائنٹمنٹ میں جانے کی ضرورت نہیں ہوگی۔\n\nUnityBC میں حصہ لینے کا مطلب رضامندی دینا اور آن لائن سوالنامہ مکمل کرنا ہے۔\n\nUnityBC میں حصہ لینے کے لیے، آپ کے پاس اسمارٹ فون، ٹیبلٹ یا کمپیوٹر کے ذریعے انٹرنیٹ تک رسائی اور ایک فعال ای میل اکاؤنٹ ہونا ضروری ہے۔"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "p",
+              "text": "We particularly want to encourage women from Black African, Black Caribbean, Indian and Pakistani backgrounds to take part because they are underrepresented in breast cancer studies.  If you are a member of these communities, taking part will help the study and may improve breast cancer outcomes in the future by increasing our understanding of the variations in breast cancer."
+            },
+            {
+              "type": "p",
+              "text": "Do I have to take part?"
+            },
+            {
+              "type": "p",
+              "text": "No, taking part is entirely voluntary."
+            },
+            {
+              "type": "p",
+              "text": "If you decide to take part and change your mind at any time, you can withdraw from UnityBC. You won’t have to give a reason why you’ve decided to withdraw. To withdraw, please email unitybc@ndph.ox.ac.uk from the email you used to register."
+            },
+            {
+              "type": "p",
+              "text": "If you withdraw from UnityBC, unless you state otherwise, any data you have provided up to that point will still be stored for future research as detailed in this participant information sheet. If you do not want your data to be stored, you are free to request that it is deleted."
+            },
+            {
+              "type": "p",
+              "text": "What will happen to me if I decide to take part?"
+            },
+            {
+              "type": "p",
+              "text": "If you take part in UnityBC, your normal medical care will not be affected, and you will not need to attend any extra medical appointments."
+            },
+            {
+              "type": "p",
+              "text": "Taking part in UnityBC means providing consent and completing the online questionnaire."
+            },
+            {
+              "type": "p",
+              "text": "To take part in UnityBC, you must have access to the internet via a smartphone or tablet or computer and an active email account."
+            }
+          ],
+          "ur": [
+            {
+              "type": "p",
+              "text": "ہم خاص طور پر سیاہ فام افریقی، سیاہ فام کیریبین، بھارتی اور پاکستانی نسلی پس منظر سے تعلق رکھنے والی خواتین کی حوصلہ افزائی کرنا چاہتے ہیں کہ وہ حصہ لیں، کیونکہ چھاتی کے کینسر سے متعلق تحقیق میں ان کی نمائندگی کم ہے۔ اگر آپ ان کمیونٹیز میں سے کسی سے تعلق رکھتی ہیں، تو آپ کا حصہ لینا اس ریسرچ اسٹڈی میں مدد دے گا اور چھاتی کے کینسر میں پائے جانے والے فرق کو بہتر طور پر سمجھنے کے ذریعے مستقبل میں چھاتی کے کینسر کے نتائج بہتر بنانے میں مدد کر سکتا ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "کیا مجھے حصہ لینا ضروری ہے؟"
+            },
+            {
+              "type": "p",
+              "text": "نہیں، حصہ لینا مکمل طور پر آپ کی مرضی پر منحصر ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "اگر آپ حصہ لینے کا فیصلہ کرتی ہیں اور کسی بھی وقت آپ کی رائے بدل جائے، تو آپ UnityBC سے دستبردار ہو سکتی ہیں۔ آپ کو یہ بتانے کی ضرورت نہیں ہوگی کہ آپ نے دستبردار ہونے کا فیصلہ کیوں کیا ہے۔ دستبردار ہونے کے لیے، براہِ کرم اس ای میل پتے سے unitybc@ndph.ox.ac.uk پر ای میل کریں جس سے آپ نے رجسٹریشن کی تھی۔"
+            },
+            {
+              "type": "p",
+              "text": "اگر آپ UnityBC سے دستبردار ہوتی ہیں، تو جب تک آپ اس کے برعکس نہ کہیں، اس وقت تک آپ کا فراہم کردہ کوئی بھی ڈیٹا مستقبل کی تحقیق کے لیے محفوظ رکھا جائے گا، جیسا کہ اس شرکاء کی معلوماتی شیٹ میں تفصیل سے بتایا گیا ہے۔ اگر آپ نہیں چاہتیں کہ آپ کا ڈیٹا محفوظ رکھا جائے، تو آپ درخواست کر سکتی ہیں کہ اسے حذف کر دیا جائے۔"
+            },
+            {
+              "type": "p",
+              "text": "اگر میں حصہ لینے کا فیصلہ کروں تو میرے ساتھ کیا ہوگا؟"
+            },
+            {
+              "type": "p",
+              "text": "اگر آپ UnityBC میں حصہ لیتی ہیں، تو آپ کی معمول کی طبی دیکھ بھال متاثر نہیں ہوگی، اور آپ کو کسی اضافی طبی اپوائنٹمنٹ میں جانے کی ضرورت نہیں ہوگی۔"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC میں حصہ لینے کا مطلب رضامندی دینا اور آن لائن سوالنامہ مکمل کرنا ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC میں حصہ لینے کے لیے، آپ کے پاس اسمارٹ فون، ٹیبلٹ یا کمپیوٹر کے ذریعے انٹرنیٹ تک رسائی اور ایک فعال ای میل اکاؤنٹ ہونا ضروری ہے۔"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "ہم خاص طور پر سیاہ فام افریقی، سیاہ فام کیریبین، بھارتی اور پاکستانی نسلی پس منظر سے تعلق رکھنے والی خواتین کی حوصلہ افزائی کرنا چاہتے ہیں کہ وہ حصہ لیں، کیونکہ چھاتی کے کینسر سے متعلق تحقیق میں ان کی نمائندگی کم ہے۔ اگر آپ ان کمیونٹیز میں سے کسی سے تعلق رکھتی ہیں، تو آپ کا حصہ لینا اس ریسرچ اسٹڈی میں مدد دے گا اور چھاتی کے کینسر میں پائے جانے والے فرق کو بہتر طور پر سمجھنے کے ذریعے مستقبل میں چھاتی کے کینسر کے نتائج بہتر بنانے میں مدد کر سکتا ہے۔\n\nکیا مجھے حصہ لینا ضروری ہے؟\n\nنہیں، حصہ لینا مکمل طور پر آپ کی مرضی پر منحصر ہے۔\n\nاگر آپ حصہ لینے کا فیصلہ کرتی ہیں اور کسی بھی وقت آپ کی رائے بدل جائے، تو آپ UnityBC سے دستبردار ہو سکتی ہیں۔ آپ کو یہ بتانے کی ضرورت نہیں ہوگی کہ آپ نے دستبردار ہونے کا فیصلہ کیوں کیا ہے۔ دستبردار ہونے کے لیے، براہِ کرم اس ای میل پتے سے unitybc@ndph.ox.ac.uk پر ای میل کریں جس سے آپ نے رجسٹریشن کی تھی۔\n\nاگر آپ UnityBC سے دستبردار ہوتی ہیں، تو جب تک آپ اس کے برعکس نہ کہیں، اس وقت تک آپ کا فراہم کردہ کوئی بھی ڈیٹا مستقبل کی تحقیق کے لیے محفوظ رکھا جائے گا، جیسا کہ اس شرکاء کی معلوماتی شیٹ میں تفصیل سے بتایا گیا ہے۔ اگر آپ نہیں چاہتیں کہ آپ کا ڈیٹا محفوظ رکھا جائے، تو آپ درخواست کر سکتی ہیں کہ اسے حذف کر دیا جائے۔\n\nاگر میں حصہ لینے کا فیصلہ کروں تو میرے ساتھ کیا ہوگا؟\n\nاگر آپ UnityBC میں حصہ لیتی ہیں، تو آپ کی معمول کی طبی دیکھ بھال متاثر نہیں ہوگی، اور آپ کو کسی اضافی طبی اپوائنٹمنٹ میں جانے کی ضرورت نہیں ہوگی۔\n\nUnityBC میں حصہ لینے کا مطلب رضامندی دینا اور آن لائن سوالنامہ مکمل کرنا ہے۔\n\nUnityBC میں حصہ لینے کے لیے، آپ کے پاس اسمارٹ فون، ٹیبلٹ یا کمپیوٹر کے ذریعے انٹرنیٹ تک رسائی اور ایک فعال ای میل اکاؤنٹ ہونا ضروری ہے۔",
+            "sentences": [
+              {
+                "text": "ہم خاص طور پر سیاہ فام افریقی، سیاہ فام کیریبین، بھارتی اور پاکستانی نسلی پس منظر سے تعلق رکھنے والی خواتین کی حوصلہ افزائی کرنا چاہتے ہیں کہ وہ حصہ لیں، کیونکہ چھاتی کے کینسر سے متعلق تحقیق میں ان کی نمائندگی کم ہے۔",
+                "charStart": 0,
+                "charEnd": 216,
+                "start": 0.0,
+                "end": 14.8
+              },
+              {
+                "text": "اگر آپ ان کمیونٹیز میں سے کسی سے تعلق رکھتی ہیں، تو آپ کا حصہ لینا اس ریسرچ اسٹڈی میں مدد دے گا اور چھاتی کے کینسر میں پائے جانے والے فرق کو بہتر طور پر سمجھنے کے ذریعے مستقبل میں چھاتی کے کینسر کے نتائج بہتر بنانے میں مدد کر سکتا ہے۔",
+                "charStart": 217,
+                "charEnd": 451,
+                "start": 14.81,
+                "end": 30.21
+              },
+              {
+                "text": "کیا مجھے حصہ لینا ضروری ہے؟",
+                "charStart": 453,
+                "charEnd": 480,
+                "start": 30.22,
+                "end": 32.52
+              },
+              {
+                "text": "نہیں، حصہ لینا مکمل طور پر آپ کی مرضی پر منحصر ہے۔",
+                "charStart": 482,
+                "charEnd": 532,
+                "start": 32.53,
+                "end": 36.98
+              },
+              {
+                "text": "اگر آپ حصہ لینے کا فیصلہ کرتی ہیں اور کسی بھی وقت آپ کی رائے بدل جائے، تو آپ UnityBC سے دستبردار ہو سکتی ہیں۔",
+                "charStart": 534,
+                "charEnd": 643,
+                "start": 36.99,
+                "end": 44.39
+              },
+              {
+                "text": "آپ کو یہ بتانے کی ضرورت نہیں ہوگی کہ آپ نے دستبردار ہونے کا فیصلہ کیوں کیا ہے۔",
+                "charStart": 644,
+                "charEnd": 722,
+                "start": 44.4,
+                "end": 49.55
+              },
+              {
+                "text": "دستبردار ہونے کے لیے، براہِ کرم اس ای میل پتے سے unitybc@ndph.ox.ac.uk پر ای میل کریں جس سے آپ نے رجسٹریشن کی تھی۔",
+                "charStart": 723,
+                "charEnd": 837,
+                "start": 49.56,
+                "end": 60.41
+              },
+              {
+                "text": "اگر آپ UnityBC سے دستبردار ہوتی ہیں، تو جب تک آپ اس کے برعکس نہ کہیں، اس وقت تک آپ کا فراہم کردہ کوئی بھی ڈیٹا مستقبل کی تحقیق کے لیے محفوظ رکھا جائے گا، جیسا کہ اس شرکاء کی معلوماتی شیٹ میں تفصیل سے بتایا گیا ہے۔",
+                "charStart": 839,
+                "charEnd": 1052,
+                "start": 60.42,
+                "end": 74.82
+              },
+              {
+                "text": "اگر آپ نہیں چاہتیں کہ آپ کا ڈیٹا محفوظ رکھا جائے، تو آپ درخواست کر سکتی ہیں کہ اسے حذف کر دیا جائے۔",
+                "charStart": 1053,
+                "charEnd": 1152,
+                "start": 74.83,
+                "end": 81.13
+              },
+              {
+                "text": "اگر میں حصہ لینے کا فیصلہ کروں تو میرے ساتھ کیا ہوگا؟",
+                "charStart": 1154,
+                "charEnd": 1207,
+                "start": 81.14,
+                "end": 84.64
+              },
+              {
+                "text": "اگر آپ UnityBC میں حصہ لیتی ہیں، تو آپ کی معمول کی طبی دیکھ بھال متاثر نہیں ہوگی، اور آپ کو کسی اضافی طبی اپوائنٹمنٹ میں جانے کی ضرورت نہیں ہوگی۔",
+                "charStart": 1209,
+                "charEnd": 1354,
+                "start": 84.65,
+                "end": 94.0
+              },
+              {
+                "text": "UnityBC میں حصہ لینے کا مطلب رضامندی دینا اور آن لائن سوالنامہ مکمل کرنا ہے۔",
+                "charStart": 1356,
+                "charEnd": 1432,
+                "start": 94.01,
+                "end": 99.91
+              },
+              {
+                "text": "UnityBC میں حصہ لینے کے لیے، آپ کے پاس اسمارٹ فون، ٹیبلٹ یا کمپیوٹر کے ذریعے انٹرنیٹ تک رسائی اور ایک فعال ای میل اکاؤنٹ ہونا ضروری ہے۔",
+                "charStart": 1434,
+                "charEnd": 1569,
+                "start": 99.92,
+                "end": 110.07
+              }
+            ],
+            "duration": 110.08
+          },
+          "en": {
+            "text": "We particularly want to encourage women from Black African, Black Caribbean, Indian and Pakistani backgrounds to take part because they are underrepresented in breast cancer studies.  If you are a member of these communities, taking part will help the study and may improve breast cancer outcomes in the future by increasing our understanding of the variations in breast cancer.\nDo I have to take part?\nNo, taking part is entirely voluntary.\nIf you decide to take part and change your mind at any time, you can withdraw from UnityBC. You won’t have to give a reason why you’ve decided to withdraw. To withdraw, please email unitybc@ndph.ox.ac.uk from the email you used to register.\nIf you withdraw from UnityBC, unless you state otherwise, any data you have provided up to that point will still be stored for future research as detailed in this participant information sheet. If you do not want your data to be stored, you are free to request that it is deleted.\nWhat will happen to me if I decide to take part?\nIf you take part in UnityBC, your normal medical care will not be affected, and you will not need to attend any extra medical appointments.\nTaking part in UnityBC means providing consent and completing the online questionnaire.\nTo take part in UnityBC, you must have access to the internet via a smartphone or tablet or computer and an active email account.",
+            "sentences": [
+              {
+                "text": "We particularly want to encourage women from Black African, Black Caribbean, Indian and Pakistani backgrounds to take part because they are underrepresented in breast cancer studies.",
+                "charStart": 0,
+                "charEnd": 182,
+                "clip": "759f5d2c1dbb072ed9b1b2e83270432d50bc2115b8068f46aa147a78439d0248",
+                "start": 0.0,
+                "end": 10.6
+              },
+              {
+                "text": "If you are a member of these communities, taking part will help the study and may improve breast cancer outcomes in the future by increasing our understanding of the variations in breast cancer.",
+                "charStart": 184,
+                "charEnd": 378,
+                "clip": "f66f2ad92003e7bf89867165e7e48202025cac017efbc48f6ab567926ace0824",
+                "start": 10.61,
+                "end": 21.41
+              },
+              {
+                "text": "Do I have to take part?",
+                "charStart": 379,
+                "charEnd": 402,
+                "clip": "55a0b6381651df9844acd56cb35019644fa20b53d2a0fbfe5fcdb58a1b171a47",
+                "start": 21.42,
+                "end": 23.22
+              },
+              {
+                "text": "No, taking part is entirely voluntary.",
+                "charStart": 403,
+                "charEnd": 441,
+                "clip": "e31351d9aeb93a00c6bbfd80428e85fba3c77d60ded881a89d42ca0ab3940662",
+                "start": 23.23,
+                "end": 26.98
+              },
+              {
+                "text": "If you decide to take part and change your mind at any time, you can withdraw from UnityBC.",
+                "charStart": 442,
+                "charEnd": 533,
+                "clip": "1960cb90fea0dfedede9bc8dd0360435ed75583c6aca0c62ee9226da8a770e4b",
+                "start": 26.99,
+                "end": 32.94
+              },
+              {
+                "text": "You won’t have to give a reason why you’ve decided to withdraw.",
+                "charStart": 534,
+                "charEnd": 597,
+                "clip": "557d3a382f31fb7cb307fe9b28c40526c9d907f561ca9b73a67d34c7215e4bce",
+                "start": 32.95,
+                "end": 36.7
+              },
+              {
+                "text": "To withdraw, please email unitybc@ndph.ox.ac.uk from the email you used to register.",
+                "charStart": 598,
+                "charEnd": 682,
+                "clip": "785f2c6d003110230e5be8ec85825ccb3df0ae8a466986a82010642ed2d06925",
+                "start": 36.71,
+                "end": 45.76
+              },
+              {
+                "text": "If you withdraw from UnityBC, unless you state otherwise, any data you have provided up to that point will still be stored for future research as detailed in this participant information sheet.",
+                "charStart": 683,
+                "charEnd": 876,
+                "clip": "79a7d2d36f8ceb16030490b3ec3f19b948b6e8beaf025947c0d8efb53edf36c1",
+                "start": 45.77,
+                "end": 57.42
+              },
+              {
+                "text": "If you do not want your data to be stored, you are free to request that it is deleted.",
+                "charStart": 877,
+                "charEnd": 963,
+                "clip": "c61ced91abc11f03765dd30fae3180c423036a601930b0346d7312ed317de654",
+                "start": 57.43,
+                "end": 63.58
+              },
+              {
+                "text": "What will happen to me if I decide to take part?",
+                "charStart": 964,
+                "charEnd": 1012,
+                "clip": "868efbb50d75699ab53a98bf4b6a655643a06ef98693963a32be32742f9259a5",
+                "start": 63.59,
+                "end": 66.89
+              },
+              {
+                "text": "If you take part in UnityBC, your normal medical care will not be affected, and you will not need to attend any extra medical appointments.",
+                "charStart": 1013,
+                "charEnd": 1152,
+                "clip": "f3057fae2edf76ae019b8a79214f92b55ccdd9df4353b94362728b5d06d8bc87",
+                "start": 66.9,
+                "end": 74.75
+              },
+              {
+                "text": "Taking part in UnityBC means providing consent and completing the online questionnaire.",
+                "charStart": 1153,
+                "charEnd": 1240,
+                "clip": "f9a589061aaf6f83984dae870297db50b1a949a823d890ec018cb0e2b8502453",
+                "start": 74.76,
+                "end": 80.86
+              },
+              {
+                "text": "To take part in UnityBC, you must have access to the internet via a smartphone or tablet or computer and an active email account.",
+                "charStart": 1241,
+                "charEnd": 1370,
+                "clip": "52e298b0392f382fa2dced40e317860d5b95d88ddbf7fbef1a5bb6448309a407",
+                "start": 80.87,
+                "end": 89.62
+              }
+            ],
+            "duration": 89.63
+          }
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 182,
+              "end": 10.6
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 216,
+              "end": 14.8
+            }
+          },
+          {
+            "en": {
+              "charStart": 184,
+              "start": 10.61,
+              "charEnd": 378,
+              "end": 21.41
+            },
+            "ur": {
+              "charStart": 217,
+              "start": 14.81,
+              "charEnd": 451,
+              "end": 30.21
+            }
+          },
+          {
+            "en": {
+              "charStart": 379,
+              "start": 21.42,
+              "charEnd": 402,
+              "end": 23.22
+            },
+            "ur": {
+              "charStart": 453,
+              "start": 30.22,
+              "charEnd": 480,
+              "end": 32.52
+            }
+          },
+          {
+            "en": {
+              "charStart": 403,
+              "start": 23.23,
+              "charEnd": 441,
+              "end": 26.98
+            },
+            "ur": {
+              "charStart": 482,
+              "start": 32.53,
+              "charEnd": 532,
+              "end": 36.98
+            }
+          },
+          {
+            "en": {
+              "charStart": 442,
+              "start": 26.99,
+              "charEnd": 533,
+              "end": 32.94
+            },
+            "ur": {
+              "charStart": 534,
+              "start": 36.99,
+              "charEnd": 643,
+              "end": 44.39
+            }
+          },
+          {
+            "en": {
+              "charStart": 534,
+              "start": 32.95,
+              "charEnd": 597,
+              "end": 36.7
+            },
+            "ur": {
+              "charStart": 644,
+              "start": 44.4,
+              "charEnd": 722,
+              "end": 49.55
+            }
+          },
+          {
+            "en": {
+              "charStart": 598,
+              "start": 36.71,
+              "charEnd": 682,
+              "end": 45.76
+            },
+            "ur": {
+              "charStart": 723,
+              "start": 49.56,
+              "charEnd": 837,
+              "end": 60.41
+            }
+          },
+          {
+            "en": {
+              "charStart": 683,
+              "start": 45.77,
+              "charEnd": 876,
+              "end": 57.42
+            },
+            "ur": {
+              "charStart": 839,
+              "start": 60.42,
+              "charEnd": 1052,
+              "end": 74.82
+            }
+          },
+          {
+            "en": {
+              "charStart": 877,
+              "start": 57.43,
+              "charEnd": 963,
+              "end": 63.58
+            },
+            "ur": {
+              "charStart": 1053,
+              "start": 74.83,
+              "charEnd": 1152,
+              "end": 81.13
+            }
+          },
+          {
+            "en": {
+              "charStart": 964,
+              "start": 63.59,
+              "charEnd": 1012,
+              "end": 66.89
+            },
+            "ur": {
+              "charStart": 1154,
+              "start": 81.14,
+              "charEnd": 1207,
+              "end": 84.64
+            }
+          },
+          {
+            "en": {
+              "charStart": 1013,
+              "start": 66.9,
+              "charEnd": 1152,
+              "end": 74.75
+            },
+            "ur": {
+              "charStart": 1209,
+              "start": 84.65,
+              "charEnd": 1354,
+              "end": 94.0
+            }
+          },
+          {
+            "en": {
+              "charStart": 1153,
+              "start": 74.76,
+              "charEnd": 1240,
+              "end": 80.86
+            },
+            "ur": {
+              "charStart": 1356,
+              "start": 94.01,
+              "charEnd": 1432,
+              "end": 99.91
+            }
+          },
+          {
+            "en": {
+              "charStart": 1241,
+              "start": 80.87,
+              "charEnd": 1370,
+              "end": 89.62
+            },
+            "ur": {
+              "charStart": 1434,
+              "start": 99.92,
+              "charEnd": 1569,
+              "end": 110.07
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-b0a4de20a0b26438b815.mp3",
+          "en": "/assets/audio/en-05cfc23584c3bbac6e02.mp3"
+        }
+      },
+      {
+        "id": "pis-s0004",
+        "titles": {
+          "en": "Joining online",
+          "cs": "Informace pro účastnice · 4"
+        },
+        "text": {
+          "en": "If you do not have direct access to the internet or a device, you can ask a family member or friend, who has access, to help you enter your information.\nWe need you to have access to an email address  because the study team will email you to confirm your participation and provide with your study participation number.\nWe need you to have access to the internet because the questionnaire can only be done online.\nOnline consent form\nTo take part in UnityBC you will complete an online consent form.\nSix of the consent questions are compulsory and you need to agree to them to take part in UnityBC.\nThere are further optional consent questions which you can choose to accept or not. You will be asked if:\nThe research team can contact you again by email to share study updates and you agree to providing relevant contact information to do so.\nThe research team can contact you again by email to tell you about opportunities to participate in related but different studies and you agree to providing relevant contact information to do so. Contact about any related but different studies will only come from the UnityBC research team in the first instance. Agreeing to be contacted does not oblige you to take part in future research. You would also be able to withdraw from email recontact at any time.",
+          "ur": "اگر آپ کو براہِ راست انٹرنیٹ یا کسی ڈیوائس تک رسائی حاصل نہیں ہے، تو آپ خاندان کے کسی ایسے فرد یا دوست سے اپنی معلومات درج کرنے میں مدد مانگ سکتی ہیں جسے انٹرنیٹ تک رسائی حاصل ہو۔\n\nآپ کے لیے ایک ای میل ایڈریس تک رسائی ہونا ضروری ہے کیونکہ ریسرچ ٹیم آپ کی شرکت کی تصدیق کرنے اور آپ کو اسٹڈی میں شرکت کا نمبر فراہم کرنے کے لیے آپ کو ای میل کرے گی۔\n\nآپ کے لیے انٹرنیٹ تک رسائی ہونا ضروری ہے کیونکہ سوالنامہ صرف آن لائن مکمل کیا جا سکتا ہے۔\n\nآن لائن رضامندی کا فارم\n\nUnityBC میں حصہ لینے کے لیے آپ ایک آن لائن رضامندی کا فارم مکمل کریں گی۔\n\nرضامندی کے چھ سوالات لازمی ہیں اور UnityBC میں حصہ لینے کے لیے آپ کو ان سے اتفاق کرنا ضروری ہے۔\n\nرضامندی سے متعلق مزید اختیاری سوالات بھی ہیں، جنہیں آپ قبول کرنے یا نہ کرنے کا انتخاب کر سکتی ہیں۔ آپ سے پوچھا جائے گا کہ آیا:\n\nریسرچ ٹیم آپ سے دوبارہ ای میل کے ذریعے رابطہ کر سکتی ہے تاکہ اسٹڈی کی تازہ معلومات آپ کے ساتھ شیئر کر سکے، اور آپ اس مقصد کے لیے متعلقہ رابطے کی معلومات فراہم کرنے پر رضامند ہیں۔\n\nریسرچ ٹیم آپ سے دوبارہ ای میل کے ذریعے رابطہ کر سکتی ہے تاکہ آپ کو متعلقہ مگر مختلف اسٹڈیز میں حصہ لینے کے مواقع کے بارے میں بتا سکے، اور آپ اس مقصد کے لیے متعلقہ رابطے کی معلومات فراہم کرنے پر رضامند ہیں۔ متعلقہ مگر مختلف اسٹڈیز کے بارے میں ابتدائی طور پر رابطہ صرف UnityBC کی ریسرچ ٹیم کی طرف سے کیا جائے گا۔ رابطہ کیے جانے پر رضامندی دینے کا مطلب یہ نہیں کہ آپ آئندہ تحقیق میں حصہ لینے کی پابند ہوں گی۔ آپ کسی بھی وقت ای میل کے ذریعے دوبارہ رابطے کی اجازت واپس لے سکیں گی۔"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "p",
+              "text": "If you do not have direct access to the internet or a device, you can ask a family member or friend, who has access, to help you enter your information."
+            },
+            {
+              "type": "p",
+              "text": "We need you to have access to an email address  because the study team will email you to confirm your participation and provide with your study participation number."
+            },
+            {
+              "type": "p",
+              "text": "We need you to have access to the internet because the questionnaire can only be done online."
+            },
+            {
+              "type": "p",
+              "text": "Online consent form"
+            },
+            {
+              "type": "p",
+              "text": "To take part in UnityBC you will complete an online consent form."
+            },
+            {
+              "type": "p",
+              "text": "Six of the consent questions are compulsory and you need to agree to them to take part in UnityBC."
+            },
+            {
+              "type": "p",
+              "text": "There are further optional consent questions which you can choose to accept or not. You will be asked if:"
+            },
+            {
+              "type": "p",
+              "text": "The research team can contact you again by email to share study updates and you agree to providing relevant contact information to do so."
+            },
+            {
+              "type": "p",
+              "text": "The research team can contact you again by email to tell you about opportunities to participate in related but different studies and you agree to providing relevant contact information to do so. Contact about any related but different studies will only come from the UnityBC research team in the first instance. Agreeing to be contacted does not oblige you to take part in future research. You would also be able to withdraw from email recontact at any time."
+            }
+          ],
+          "ur": [
+            {
+              "type": "p",
+              "text": "اگر آپ کو براہِ راست انٹرنیٹ یا کسی ڈیوائس تک رسائی حاصل نہیں ہے، تو آپ خاندان کے کسی ایسے فرد یا دوست سے اپنی معلومات درج کرنے میں مدد مانگ سکتی ہیں جسے انٹرنیٹ تک رسائی حاصل ہو۔"
+            },
+            {
+              "type": "p",
+              "text": "آپ کے لیے ایک ای میل ایڈریس تک رسائی ہونا ضروری ہے کیونکہ ریسرچ ٹیم آپ کی شرکت کی تصدیق کرنے اور آپ کو اسٹڈی میں شرکت کا نمبر فراہم کرنے کے لیے آپ کو ای میل کرے گی۔"
+            },
+            {
+              "type": "p",
+              "text": "آپ کے لیے انٹرنیٹ تک رسائی ہونا ضروری ہے کیونکہ سوالنامہ صرف آن لائن مکمل کیا جا سکتا ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "آن لائن رضامندی کا فارم"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC میں حصہ لینے کے لیے آپ ایک آن لائن رضامندی کا فارم مکمل کریں گی۔"
+            },
+            {
+              "type": "p",
+              "text": "رضامندی کے چھ سوالات لازمی ہیں اور UnityBC میں حصہ لینے کے لیے آپ کو ان سے اتفاق کرنا ضروری ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "رضامندی سے متعلق مزید اختیاری سوالات بھی ہیں، جنہیں آپ قبول کرنے یا نہ کرنے کا انتخاب کر سکتی ہیں۔ آپ سے پوچھا جائے گا کہ آیا:"
+            },
+            {
+              "type": "p",
+              "text": "ریسرچ ٹیم آپ سے دوبارہ ای میل کے ذریعے رابطہ کر سکتی ہے تاکہ اسٹڈی کی تازہ معلومات آپ کے ساتھ شیئر کر سکے، اور آپ اس مقصد کے لیے متعلقہ رابطے کی معلومات فراہم کرنے پر رضامند ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "ریسرچ ٹیم آپ سے دوبارہ ای میل کے ذریعے رابطہ کر سکتی ہے تاکہ آپ کو متعلقہ مگر مختلف اسٹڈیز میں حصہ لینے کے مواقع کے بارے میں بتا سکے، اور آپ اس مقصد کے لیے متعلقہ رابطے کی معلومات فراہم کرنے پر رضامند ہیں۔ متعلقہ مگر مختلف اسٹڈیز کے بارے میں ابتدائی طور پر رابطہ صرف UnityBC کی ریسرچ ٹیم کی طرف سے کیا جائے گا۔ رابطہ کیے جانے پر رضامندی دینے کا مطلب یہ نہیں کہ آپ آئندہ تحقیق میں حصہ لینے کی پابند ہوں گی۔ آپ کسی بھی وقت ای میل کے ذریعے دوبارہ رابطے کی اجازت واپس لے سکیں گی۔"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "اگر آپ کو براہِ راست انٹرنیٹ یا کسی ڈیوائس تک رسائی حاصل نہیں ہے، تو آپ خاندان کے کسی ایسے فرد یا دوست سے اپنی معلومات درج کرنے میں مدد مانگ سکتی ہیں جسے انٹرنیٹ تک رسائی حاصل ہو۔\n\nآپ کے لیے ایک ای میل ایڈریس تک رسائی ہونا ضروری ہے کیونکہ ریسرچ ٹیم آپ کی شرکت کی تصدیق کرنے اور آپ کو اسٹڈی میں شرکت کا نمبر فراہم کرنے کے لیے آپ کو ای میل کرے گی۔\n\nآپ کے لیے انٹرنیٹ تک رسائی ہونا ضروری ہے کیونکہ سوالنامہ صرف آن لائن مکمل کیا جا سکتا ہے۔\n\nآن لائن رضامندی کا فارم\n\nUnityBC میں حصہ لینے کے لیے آپ ایک آن لائن رضامندی کا فارم مکمل کریں گی۔\n\nرضامندی کے چھ سوالات لازمی ہیں اور UnityBC میں حصہ لینے کے لیے آپ کو ان سے اتفاق کرنا ضروری ہے۔\n\nرضامندی سے متعلق مزید اختیاری سوالات بھی ہیں، جنہیں آپ قبول کرنے یا نہ کرنے کا انتخاب کر سکتی ہیں۔ آپ سے پوچھا جائے گا کہ آیا:\n\nریسرچ ٹیم آپ سے دوبارہ ای میل کے ذریعے رابطہ کر سکتی ہے تاکہ اسٹڈی کی تازہ معلومات آپ کے ساتھ شیئر کر سکے، اور آپ اس مقصد کے لیے متعلقہ رابطے کی معلومات فراہم کرنے پر رضامند ہیں۔\n\nریسرچ ٹیم آپ سے دوبارہ ای میل کے ذریعے رابطہ کر سکتی ہے تاکہ آپ کو متعلقہ مگر مختلف اسٹڈیز میں حصہ لینے کے مواقع کے بارے میں بتا سکے، اور آپ اس مقصد کے لیے متعلقہ رابطے کی معلومات فراہم کرنے پر رضامند ہیں۔ متعلقہ مگر مختلف اسٹڈیز کے بارے میں ابتدائی طور پر رابطہ صرف UnityBC کی ریسرچ ٹیم کی طرف سے کیا جائے گا۔ رابطہ کیے جانے پر رضامندی دینے کا مطلب یہ نہیں کہ آپ آئندہ تحقیق میں حصہ لینے کی پابند ہوں گی۔ آپ کسی بھی وقت ای میل کے ذریعے دوبارہ رابطے کی اجازت واپس لے سکیں گی۔",
+            "sentences": [
+              {
+                "text": "اگر آپ کو براہِ راست انٹرنیٹ یا کسی ڈیوائس تک رسائی حاصل نہیں ہے، تو آپ خاندان کے کسی ایسے فرد یا دوست سے اپنی معلومات درج کرنے میں مدد مانگ سکتی ہیں جسے انٹرنیٹ تک رسائی حاصل ہو۔",
+                "charStart": 0,
+                "charEnd": 179,
+                "start": 0.0,
+                "end": 12.1
+              },
+              {
+                "text": "آپ کے لیے ایک ای میل ایڈریس تک رسائی ہونا ضروری ہے کیونکہ ریسرچ ٹیم آپ کی شرکت کی تصدیق کرنے اور آپ کو اسٹڈی میں شرکت کا نمبر فراہم کرنے کے لیے آپ کو ای میل کرے گی۔",
+                "charStart": 181,
+                "charEnd": 345,
+                "start": 12.11,
+                "end": 22.51
+              },
+              {
+                "text": "آپ کے لیے انٹرنیٹ تک رسائی ہونا ضروری ہے کیونکہ سوالنامہ صرف آن لائن مکمل کیا جا سکتا ہے۔",
+                "charStart": 347,
+                "charEnd": 436,
+                "start": 22.52,
+                "end": 28.77
+              },
+              {
+                "text": "آن لائن رضامندی کا فارم",
+                "charStart": 438,
+                "charEnd": 461,
+                "start": 28.78,
+                "end": 30.98
+              },
+              {
+                "text": "UnityBC میں حصہ لینے کے لیے آپ ایک آن لائن رضامندی کا فارم مکمل کریں گی۔",
+                "charStart": 463,
+                "charEnd": 535,
+                "start": 30.99,
+                "end": 36.89
+              },
+              {
+                "text": "رضامندی کے چھ سوالات لازمی ہیں اور UnityBC میں حصہ لینے کے لیے آپ کو ان سے اتفاق کرنا ضروری ہے۔",
+                "charStart": 537,
+                "charEnd": 632,
+                "start": 36.9,
+                "end": 44.05
+              },
+              {
+                "text": "رضامندی سے متعلق مزید اختیاری سوالات بھی ہیں، جنہیں آپ قبول کرنے یا نہ کرنے کا انتخاب کر سکتی ہیں۔",
+                "charStart": 634,
+                "charEnd": 732,
+                "start": 44.06,
+                "end": 50.76
+              },
+              {
+                "text": "آپ سے پوچھا جائے گا کہ آیا:",
+                "charStart": 733,
+                "charEnd": 760,
+                "start": 50.77,
+                "end": 52.87
+              },
+              {
+                "text": "ریسرچ ٹیم آپ سے دوبارہ ای میل کے ذریعے رابطہ کر سکتی ہے تاکہ اسٹڈی کی تازہ معلومات آپ کے ساتھ شیئر کر سکے، اور آپ اس مقصد کے لیے متعلقہ رابطے کی معلومات فراہم کرنے پر رضامند ہیں۔",
+                "charStart": 762,
+                "charEnd": 940,
+                "start": 52.88,
+                "end": 64.53
+              },
+              {
+                "text": "ریسرچ ٹیم آپ سے دوبارہ ای میل کے ذریعے رابطہ کر سکتی ہے تاکہ آپ کو متعلقہ مگر مختلف اسٹڈیز میں حصہ لینے کے مواقع کے بارے میں بتا سکے، اور آپ اس مقصد کے لیے متعلقہ رابطے کی معلومات فراہم کرنے پر رضامند ہیں۔",
+                "charStart": 942,
+                "charEnd": 1147,
+                "start": 64.54,
+                "end": 77.84
+              },
+              {
+                "text": "متعلقہ مگر مختلف اسٹڈیز کے بارے میں ابتدائی طور پر رابطہ صرف UnityBC کی ریسرچ ٹیم کی طرف سے کیا جائے گا۔",
+                "charStart": 1148,
+                "charEnd": 1252,
+                "start": 77.85,
+                "end": 85.75
+              },
+              {
+                "text": "رابطہ کیے جانے پر رضامندی دینے کا مطلب یہ نہیں کہ آپ آئندہ تحقیق میں حصہ لینے کی پابند ہوں گی۔",
+                "charStart": 1253,
+                "charEnd": 1347,
+                "start": 85.76,
+                "end": 92.26
+              },
+              {
+                "text": "آپ کسی بھی وقت ای میل کے ذریعے دوبارہ رابطے کی اجازت واپس لے سکیں گی۔",
+                "charStart": 1348,
+                "charEnd": 1417,
+                "start": 92.27,
+                "end": 97.07
+              }
+            ],
+            "duration": 97.08
+          },
+          "en": {
+            "text": "If you do not have direct access to the internet or a device, you can ask a family member or friend, who has access, to help you enter your information.\nWe need you to have access to an email address  because the study team will email you to confirm your participation and provide with your study participation number.\nWe need you to have access to the internet because the questionnaire can only be done online.\nOnline consent form\nTo take part in UnityBC you will complete an online consent form.\nSix of the consent questions are compulsory and you need to agree to them to take part in UnityBC.\nThere are further optional consent questions which you can choose to accept or not. You will be asked if:\nThe research team can contact you again by email to share study updates and you agree to providing relevant contact information to do so.\nThe research team can contact you again by email to tell you about opportunities to participate in related but different studies and you agree to providing relevant contact information to do so. Contact about any related but different studies will only come from the UnityBC research team in the first instance. Agreeing to be contacted does not oblige you to take part in future research. You would also be able to withdraw from email recontact at any time.",
+            "sentences": [
+              {
+                "text": "If you do not have direct access to the internet or a device, you can ask a family member or friend, who has access, to help you enter your information.",
+                "charStart": 0,
+                "charEnd": 152,
+                "clip": "d538462519ea415a0f05f69e73f26f90d072d93c25dc93637a4825035b270e6d",
+                "start": 0.0,
+                "end": 8.7
+              },
+              {
+                "text": "We need you to have access to an email address  because the study team will email you to confirm your participation and provide with your study participation number.",
+                "charStart": 153,
+                "charEnd": 318,
+                "clip": "1ef0d044e2b20df1424b1984ae7134c2b21df86540410bd04cae006eb287e76f",
+                "start": 8.71,
+                "end": 17.71
+              },
+              {
+                "text": "We need you to have access to the internet because the questionnaire can only be done online.",
+                "charStart": 319,
+                "charEnd": 412,
+                "clip": "41ca9f7900c0c2cad1d3df0e0cbbd972c78f1b2c096e1d199e3e163a752eea6f",
+                "start": 17.72,
+                "end": 23.67
+              },
+              {
+                "text": "Online consent form",
+                "charStart": 413,
+                "charEnd": 432,
+                "clip": "80007291b69f104dad3d1e603b9518fa14bbe98d0cfa6a1b816be35f7f8f65bb",
+                "start": 23.68,
+                "end": 25.63
+              },
+              {
+                "text": "To take part in UnityBC you will complete an online consent form.",
+                "charStart": 433,
+                "charEnd": 498,
+                "clip": "04344b1a398b846fd4221ef05280183a50ba8b396cf740e11634bf7e422d3165",
+                "start": 25.64,
+                "end": 30.99
+              },
+              {
+                "text": "Six of the consent questions are compulsory and you need to agree to them to take part in UnityBC.",
+                "charStart": 499,
+                "charEnd": 597,
+                "clip": "7040054cab88c8e7d141a9a0e991a5777242ee3d1e905c5e7b2f56c0b20a0c59",
+                "start": 31.0,
+                "end": 37.3
+              },
+              {
+                "text": "There are further optional consent questions which you can choose to accept or not.",
+                "charStart": 598,
+                "charEnd": 681,
+                "clip": "954d8f8220cec261e8a7a7f582ddf443b80f63830a4c49ea4eed87877e5e041a",
+                "start": 37.31,
+                "end": 42.61
+              },
+              {
+                "text": "You will be asked if:",
+                "charStart": 682,
+                "charEnd": 703,
+                "clip": "9cb0185a9550e87a1a88b8718075e946fbdb3c763f0af764f644bfdd5fbad733",
+                "start": 42.62,
+                "end": 44.37
+              },
+              {
+                "text": "The research team can contact you again by email to share study updates and you agree to providing relevant contact information to do so.",
+                "charStart": 704,
+                "charEnd": 841,
+                "clip": "52925539cf019568161bb11b182e2cec021da10d33b8d43e7bab6dc713cf1a37",
+                "start": 44.38,
+                "end": 52.28
+              },
+              {
+                "text": "The research team can contact you again by email to tell you about opportunities to participate in related but different studies and you agree to providing relevant contact information to do so.",
+                "charStart": 842,
+                "charEnd": 1036,
+                "clip": "ac9e001e64dc1be89675bdfa207d778153642cdf266836a197c4a4e5a5ba0944",
+                "start": 52.29,
+                "end": 63.04
+              },
+              {
+                "text": "Contact about any related but different studies will only come from the UnityBC research team in the first instance.",
+                "charStart": 1037,
+                "charEnd": 1153,
+                "clip": "40925a5e7b86256286faf79cd0240139ff4e1f3122bc4763745266480715915b",
+                "start": 63.05,
+                "end": 70.1
+              },
+              {
+                "text": "Agreeing to be contacted does not oblige you to take part in future research.",
+                "charStart": 1154,
+                "charEnd": 1231,
+                "clip": "8b3f2e6ef8bba25aa124f1a638cf69829163077ac5be62e07e9c90ac3a981c3e",
+                "start": 70.11,
+                "end": 74.66
+              },
+              {
+                "text": "You would also be able to withdraw from email recontact at any time.",
+                "charStart": 1232,
+                "charEnd": 1300,
+                "clip": "3233caab717295f3fda3c27c84224fe6ea638917abac5b083f2deb10a5f0b18d",
+                "start": 74.67,
+                "end": 79.37
+              }
+            ],
+            "duration": 79.38
+          }
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 152,
+              "end": 8.7
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 179,
+              "end": 12.1
+            }
+          },
+          {
+            "en": {
+              "charStart": 153,
+              "start": 8.71,
+              "charEnd": 318,
+              "end": 17.71
+            },
+            "ur": {
+              "charStart": 181,
+              "start": 12.11,
+              "charEnd": 345,
+              "end": 22.51
+            }
+          },
+          {
+            "en": {
+              "charStart": 319,
+              "start": 17.72,
+              "charEnd": 412,
+              "end": 23.67
+            },
+            "ur": {
+              "charStart": 347,
+              "start": 22.52,
+              "charEnd": 436,
+              "end": 28.77
+            }
+          },
+          {
+            "en": {
+              "charStart": 413,
+              "start": 23.68,
+              "charEnd": 432,
+              "end": 25.63
+            },
+            "ur": {
+              "charStart": 438,
+              "start": 28.78,
+              "charEnd": 461,
+              "end": 30.98
+            }
+          },
+          {
+            "en": {
+              "charStart": 433,
+              "start": 25.64,
+              "charEnd": 498,
+              "end": 30.99
+            },
+            "ur": {
+              "charStart": 463,
+              "start": 30.99,
+              "charEnd": 535,
+              "end": 36.89
+            }
+          },
+          {
+            "en": {
+              "charStart": 499,
+              "start": 31.0,
+              "charEnd": 597,
+              "end": 37.3
+            },
+            "ur": {
+              "charStart": 537,
+              "start": 36.9,
+              "charEnd": 632,
+              "end": 44.05
+            }
+          },
+          {
+            "en": {
+              "charStart": 598,
+              "start": 37.31,
+              "charEnd": 681,
+              "end": 42.61
+            },
+            "ur": {
+              "charStart": 634,
+              "start": 44.06,
+              "charEnd": 732,
+              "end": 50.76
+            }
+          },
+          {
+            "en": {
+              "charStart": 682,
+              "start": 42.62,
+              "charEnd": 703,
+              "end": 44.37
+            },
+            "ur": {
+              "charStart": 733,
+              "start": 50.77,
+              "charEnd": 760,
+              "end": 52.87
+            }
+          },
+          {
+            "en": {
+              "charStart": 704,
+              "start": 44.38,
+              "charEnd": 841,
+              "end": 52.28
+            },
+            "ur": {
+              "charStart": 762,
+              "start": 52.88,
+              "charEnd": 940,
+              "end": 64.53
+            }
+          },
+          {
+            "en": {
+              "charStart": 842,
+              "start": 52.29,
+              "charEnd": 1036,
+              "end": 63.04
+            },
+            "ur": {
+              "charStart": 942,
+              "start": 64.54,
+              "charEnd": 1147,
+              "end": 77.84
+            }
+          },
+          {
+            "en": {
+              "charStart": 1037,
+              "start": 63.05,
+              "charEnd": 1153,
+              "end": 70.1
+            },
+            "ur": {
+              "charStart": 1148,
+              "start": 77.85,
+              "charEnd": 1252,
+              "end": 85.75
+            }
+          },
+          {
+            "en": {
+              "charStart": 1154,
+              "start": 70.11,
+              "charEnd": 1231,
+              "end": 74.66
+            },
+            "ur": {
+              "charStart": 1253,
+              "start": 85.76,
+              "charEnd": 1347,
+              "end": 92.26
+            }
+          },
+          {
+            "en": {
+              "charStart": 1232,
+              "start": 74.67,
+              "charEnd": 1300,
+              "end": 79.37
+            },
+            "ur": {
+              "charStart": 1348,
+              "start": 92.27,
+              "charEnd": 1417,
+              "end": 97.07
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-46b59a3dcaf7b00a1062.mp3",
+          "en": "/assets/audio/en-282c1514d8a085576a91.mp3"
+        }
+      },
+      {
+        "id": "pis-s0005",
+        "titles": {
+          "en": "Questionnaire and medical reports",
+          "cs": "Informace pro účastnice · 5"
+        },
+        "text": {
+          "en": "You are happy to share your medical reports summarising your diagnosis and treatment with us yourself by scanning and uploading them to the UnityBC database. You can still sign-up and complete the UnityBC questionnaire without agreeing to upload copies of your reports. You can remove your name, date of birth, NHS number and any other personal identifiers prior to uploading the documents.\nAfter you have completed and signed the consent form you will be able to download a copy for your records.\nOnline questionnaire\nAfter you have given your consent, you will be able to complete the online questionnaire.\nThe questionnaire consists of 9 sections which cover a range of topics including information about you, your family background and your health, including your recent breast cancer diagnosis and treatment, and your views on taking part in research.\nThe questionnaire should take about 30-40 minutes to complete, and no more than 60 minutes in total. It can be completed on any computer, tablet or smartphone. Please give yourself enough time to complete the questionnaire in one sitting, however if needed you can save your progress and return later.\nThe questionnaire has been developed with individuals who have lived experience of breast cancer and members of the public. This is to help ensure that the questions being asked in UnityBC are relevant, easy to understand, and acceptable.\nAre there any possible disadvantages and risks of taking part?\nUnityBC does not involve any procedures or tests and so the risks of taking part are minimal.",
+          "ur": "اگر آپ چاہیں تو آپ اپنی تشخیص اور علاج کا خلاصہ کرنے والی طبی رپورٹس خود سکین کر کے UnityBC کے ڈیٹا بیس میں اپ لوڈ کر کے ہمارے ساتھ شیئر کر سکتی ہیں۔ آپ اپنی رپورٹس کی نقول اپ لوڈ کرنے پر رضامند ہوئے بغیر بھی UnityBC میں شامل ہو سکتی ہیں اور UnityBC کا سوالنامہ مکمل کر سکتی ہیں۔ دستاویزات اپ لوڈ کرنے سے پہلے آپ اپنا نام، تاریخِ پیدائش، NHS نمبر اور اپنی شناخت ظاہر کرنے والی کوئی بھی دوسری معلومات ہٹا سکتی ہیں۔\n\nرضامندی کا فارم مکمل کر کے اس پر دستخط کرنے کے بعد، آپ اپنے ریکارڈ کے لیے اس کی ایک نقل ڈاؤن لوڈ کر سکیں گی۔\n\nآن لائن سوالنامہ\n\nاپنی رضامندی دینے کے بعد، آپ آن لائن سوالنامہ مکمل کر سکیں گی۔\n\nسوالنامے میں 9 حصے ہیں، جن میں مختلف موضوعات شامل ہیں، مثلاً آپ، آپ کے خاندانی پس منظر اور آپ کی صحت سے متعلق معلومات، جن میں آپ کے چھاتی کے کینسر کی حالیہ تشخیص اور علاج بھی شامل ہیں، اور تحقیق میں حصہ لینے کے بارے میں آپ کی رائے۔\n\nسوالنامہ مکمل کرنے میں تقریباً 30 سے 40 منٹ لگ سکتے ہیں، اور مجموعی طور پر 60 منٹ سے زیادہ نہیں لگنے چاہییں۔ اسے کسی بھی کمپیوٹر، ٹیبلٹ یا اسمارٹ فون پر مکمل کیا جا سکتا ہے۔ براہِ کرم ایک ہی نشست میں سوالنامہ مکمل کرنے کے لیے کافی وقت نکالیں، تاہم اگر ضرورت ہو تو آپ اپنی پیش رفت محفوظ کر کے بعد میں واپس آ سکتی ہیں۔\n\nیہ سوالنامہ ان افراد اور عام لوگوں کے ساتھ مل کر تیار کیا گیا ہے جنہیں چھاتی کے کینسر کا ذاتی تجربہ ہے۔ اس کا مقصد یہ یقینی بنانے میں مدد کرنا ہے کہ UnityBC میں پوچھے جانے والے سوالات متعلقہ، سمجھنے میں آسان اور قابل قبول ہوں۔\n\nکیا حصہ لینے کے کوئی ممکنہ نقصانات یا خطرات ہیں؟\n\nUnityBC میں کوئی طبی طریقۂ کار یا ٹیسٹ شامل نہیں ہوتا، اس لیے حصہ لینے کے خطرات بہت کم ہیں۔"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "p",
+              "text": "You are happy to share your medical reports summarising your diagnosis and treatment with us yourself by scanning and uploading them to the UnityBC database. You can still sign-up and complete the UnityBC questionnaire without agreeing to upload copies of your reports. You can remove your name, date of birth, NHS number and any other personal identifiers prior to uploading the documents."
+            },
+            {
+              "type": "p",
+              "text": "After you have completed and signed the consent form you will be able to download a copy for your records."
+            },
+            {
+              "type": "p",
+              "text": "Online questionnaire"
+            },
+            {
+              "type": "p",
+              "text": "After you have given your consent, you will be able to complete the online questionnaire."
+            },
+            {
+              "type": "p",
+              "text": "The questionnaire consists of 9 sections which cover a range of topics including information about you, your family background and your health, including your recent breast cancer diagnosis and treatment, and your views on taking part in research."
+            },
+            {
+              "type": "p",
+              "text": "The questionnaire should take about 30-40 minutes to complete, and no more than 60 minutes in total. It can be completed on any computer, tablet or smartphone. Please give yourself enough time to complete the questionnaire in one sitting, however if needed you can save your progress and return later."
+            },
+            {
+              "type": "p",
+              "text": "The questionnaire has been developed with individuals who have lived experience of breast cancer and members of the public. This is to help ensure that the questions being asked in UnityBC are relevant, easy to understand, and acceptable."
+            },
+            {
+              "type": "p",
+              "text": "Are there any possible disadvantages and risks of taking part?"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC does not involve any procedures or tests and so the risks of taking part are minimal."
+            }
+          ],
+          "ur": [
+            {
+              "type": "p",
+              "text": "اگر آپ چاہیں تو آپ اپنی تشخیص اور علاج کا خلاصہ کرنے والی طبی رپورٹس خود سکین کر کے UnityBC کے ڈیٹا بیس میں اپ لوڈ کر کے ہمارے ساتھ شیئر کر سکتی ہیں۔ آپ اپنی رپورٹس کی نقول اپ لوڈ کرنے پر رضامند ہوئے بغیر بھی UnityBC میں شامل ہو سکتی ہیں اور UnityBC کا سوالنامہ مکمل کر سکتی ہیں۔ دستاویزات اپ لوڈ کرنے سے پہلے آپ اپنا نام، تاریخِ پیدائش، NHS نمبر اور اپنی شناخت ظاہر کرنے والی کوئی بھی دوسری معلومات ہٹا سکتی ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "رضامندی کا فارم مکمل کر کے اس پر دستخط کرنے کے بعد، آپ اپنے ریکارڈ کے لیے اس کی ایک نقل ڈاؤن لوڈ کر سکیں گی۔"
+            },
+            {
+              "type": "p",
+              "text": "آن لائن سوالنامہ"
+            },
+            {
+              "type": "p",
+              "text": "اپنی رضامندی دینے کے بعد، آپ آن لائن سوالنامہ مکمل کر سکیں گی۔"
+            },
+            {
+              "type": "p",
+              "text": "سوالنامے میں 9 حصے ہیں، جن میں مختلف موضوعات شامل ہیں، مثلاً آپ، آپ کے خاندانی پس منظر اور آپ کی صحت سے متعلق معلومات، جن میں آپ کے چھاتی کے کینسر کی حالیہ تشخیص اور علاج بھی شامل ہیں، اور تحقیق میں حصہ لینے کے بارے میں آپ کی رائے۔"
+            },
+            {
+              "type": "p",
+              "text": "سوالنامہ مکمل کرنے میں تقریباً 30 سے 40 منٹ لگ سکتے ہیں، اور مجموعی طور پر 60 منٹ سے زیادہ نہیں لگنے چاہییں۔ اسے کسی بھی کمپیوٹر، ٹیبلٹ یا اسمارٹ فون پر مکمل کیا جا سکتا ہے۔ براہِ کرم ایک ہی نشست میں سوالنامہ مکمل کرنے کے لیے کافی وقت نکالیں، تاہم اگر ضرورت ہو تو آپ اپنی پیش رفت محفوظ کر کے بعد میں واپس آ سکتی ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "یہ سوالنامہ ان افراد اور عام لوگوں کے ساتھ مل کر تیار کیا گیا ہے جنہیں چھاتی کے کینسر کا ذاتی تجربہ ہے۔ اس کا مقصد یہ یقینی بنانے میں مدد کرنا ہے کہ UnityBC میں پوچھے جانے والے سوالات متعلقہ، سمجھنے میں آسان اور قابل قبول ہوں۔"
+            },
+            {
+              "type": "p",
+              "text": "کیا حصہ لینے کے کوئی ممکنہ نقصانات یا خطرات ہیں؟"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC میں کوئی طبی طریقۂ کار یا ٹیسٹ شامل نہیں ہوتا، اس لیے حصہ لینے کے خطرات بہت کم ہیں۔"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "اگر آپ چاہیں تو آپ اپنی تشخیص اور علاج کا خلاصہ کرنے والی طبی رپورٹس خود سکین کر کے UnityBC کے ڈیٹا بیس میں اپ لوڈ کر کے ہمارے ساتھ شیئر کر سکتی ہیں۔ آپ اپنی رپورٹس کی نقول اپ لوڈ کرنے پر رضامند ہوئے بغیر بھی UnityBC میں شامل ہو سکتی ہیں اور UnityBC کا سوالنامہ مکمل کر سکتی ہیں۔ دستاویزات اپ لوڈ کرنے سے پہلے آپ اپنا نام، تاریخِ پیدائش، NHS نمبر اور اپنی شناخت ظاہر کرنے والی کوئی بھی دوسری معلومات ہٹا سکتی ہیں۔\n\nرضامندی کا فارم مکمل کر کے اس پر دستخط کرنے کے بعد، آپ اپنے ریکارڈ کے لیے اس کی ایک نقل ڈاؤن لوڈ کر سکیں گی۔\n\nآن لائن سوالنامہ\n\nاپنی رضامندی دینے کے بعد، آپ آن لائن سوالنامہ مکمل کر سکیں گی۔\n\nسوالنامے میں 9 حصے ہیں، جن میں مختلف موضوعات شامل ہیں، مثلاً آپ، آپ کے خاندانی پس منظر اور آپ کی صحت سے متعلق معلومات، جن میں آپ کے چھاتی کے کینسر کی حالیہ تشخیص اور علاج بھی شامل ہیں، اور تحقیق میں حصہ لینے کے بارے میں آپ کی رائے۔\n\nسوالنامہ مکمل کرنے میں تقریباً 30 سے 40 منٹ لگ سکتے ہیں، اور مجموعی طور پر 60 منٹ سے زیادہ نہیں لگنے چاہییں۔ اسے کسی بھی کمپیوٹر، ٹیبلٹ یا اسمارٹ فون پر مکمل کیا جا سکتا ہے۔ براہِ کرم ایک ہی نشست میں سوالنامہ مکمل کرنے کے لیے کافی وقت نکالیں، تاہم اگر ضرورت ہو تو آپ اپنی پیش رفت محفوظ کر کے بعد میں واپس آ سکتی ہیں۔\n\nیہ سوالنامہ ان افراد اور عام لوگوں کے ساتھ مل کر تیار کیا گیا ہے جنہیں چھاتی کے کینسر کا ذاتی تجربہ ہے۔ اس کا مقصد یہ یقینی بنانے میں مدد کرنا ہے کہ UnityBC میں پوچھے جانے والے سوالات متعلقہ، سمجھنے میں آسان اور قابل قبول ہوں۔\n\nکیا حصہ لینے کے کوئی ممکنہ نقصانات یا خطرات ہیں؟\n\nUnityBC میں کوئی طبی طریقۂ کار یا ٹیسٹ شامل نہیں ہوتا، اس لیے حصہ لینے کے خطرات بہت کم ہیں۔",
+            "sentences": [
+              {
+                "text": "اگر آپ چاہیں تو آپ اپنی تشخیص اور علاج کا خلاصہ کرنے والی طبی رپورٹس خود سکین کر کے UnityBC کے ڈیٹا بیس میں اپ لوڈ کر کے ہمارے ساتھ شیئر کر سکتی ہیں۔",
+                "charStart": 0,
+                "charEnd": 149,
+                "start": 0.0,
+                "end": 9.95
+              },
+              {
+                "text": "آپ اپنی رپورٹس کی نقول اپ لوڈ کرنے پر رضامند ہوئے بغیر بھی UnityBC میں شامل ہو سکتی ہیں اور UnityBC کا سوالنامہ مکمل کر سکتی ہیں۔",
+                "charStart": 150,
+                "charEnd": 279,
+                "start": 9.96,
+                "end": 19.11
+              },
+              {
+                "text": "دستاویزات اپ لوڈ کرنے سے پہلے آپ اپنا نام، تاریخِ پیدائش، NHS نمبر اور اپنی شناخت ظاہر کرنے والی کوئی بھی دوسری معلومات ہٹا سکتی ہیں۔",
+                "charStart": 280,
+                "charEnd": 413,
+                "start": 19.12,
+                "end": 29.07
+              },
+              {
+                "text": "رضامندی کا فارم مکمل کر کے اس پر دستخط کرنے کے بعد، آپ اپنے ریکارڈ کے لیے اس کی ایک نقل ڈاؤن لوڈ کر سکیں گی۔",
+                "charStart": 415,
+                "charEnd": 523,
+                "start": 29.08,
+                "end": 36.23
+              },
+              {
+                "text": "آن لائن سوالنامہ",
+                "charStart": 525,
+                "charEnd": 541,
+                "start": 36.24,
+                "end": 38.39
+              },
+              {
+                "text": "اپنی رضامندی دینے کے بعد، آپ آن لائن سوالنامہ مکمل کر سکیں گی۔",
+                "charStart": 543,
+                "charEnd": 605,
+                "start": 38.4,
+                "end": 43.15
+              },
+              {
+                "text": "سوالنامے میں 9 حصے ہیں، جن میں مختلف موضوعات شامل ہیں، مثلاً آپ، آپ کے خاندانی پس منظر اور آپ کی صحت سے متعلق معلومات، جن میں آپ کے چھاتی کے کینسر کی حالیہ تشخیص اور علاج بھی شامل ہیں، اور تحقیق میں حصہ لینے کے بارے میں آپ کی رائے۔",
+                "charStart": 607,
+                "charEnd": 838,
+                "start": 43.16,
+                "end": 59.46
+              },
+              {
+                "text": "سوالنامہ مکمل کرنے میں تقریباً 30 سے 40 منٹ لگ سکتے ہیں، اور مجموعی طور پر 60 منٹ سے زیادہ نہیں لگنے چاہییں۔",
+                "charStart": 840,
+                "charEnd": 948,
+                "start": 59.47,
+                "end": 67.12
+              },
+              {
+                "text": "اسے کسی بھی کمپیوٹر، ٹیبلٹ یا اسمارٹ فون پر مکمل کیا جا سکتا ہے۔",
+                "charStart": 949,
+                "charEnd": 1013,
+                "start": 67.13,
+                "end": 72.43
+              },
+              {
+                "text": "براہِ کرم ایک ہی نشست میں سوالنامہ مکمل کرنے کے لیے کافی وقت نکالیں، تاہم اگر ضرورت ہو تو آپ اپنی پیش رفت محفوظ کر کے بعد میں واپس آ سکتی ہیں۔",
+                "charStart": 1014,
+                "charEnd": 1156,
+                "start": 72.44,
+                "end": 82.19
+              },
+              {
+                "text": "یہ سوالنامہ ان افراد اور عام لوگوں کے ساتھ مل کر تیار کیا گیا ہے جنہیں چھاتی کے کینسر کا ذاتی تجربہ ہے۔",
+                "charStart": 1158,
+                "charEnd": 1261,
+                "start": 82.2,
+                "end": 89.6
+              },
+              {
+                "text": "اس کا مقصد یہ یقینی بنانے میں مدد کرنا ہے کہ UnityBC میں پوچھے جانے والے سوالات متعلقہ، سمجھنے میں آسان اور قابل قبول ہوں۔",
+                "charStart": 1262,
+                "charEnd": 1384,
+                "start": 89.61,
+                "end": 98.41
+              },
+              {
+                "text": "کیا حصہ لینے کے کوئی ممکنہ نقصانات یا خطرات ہیں؟",
+                "charStart": 1386,
+                "charEnd": 1434,
+                "start": 98.42,
+                "end": 102.52
+              },
+              {
+                "text": "UnityBC میں کوئی طبی طریقۂ کار یا ٹیسٹ شامل نہیں ہوتا، اس لیے حصہ لینے کے خطرات بہت کم ہیں۔",
+                "charStart": 1436,
+                "charEnd": 1527,
+                "start": 102.53,
+                "end": 109.78
+              }
+            ],
+            "duration": 109.79
+          },
+          "en": {
+            "text": "You are happy to share your medical reports summarising your diagnosis and treatment with us yourself by scanning and uploading them to the UnityBC database. You can still sign-up and complete the UnityBC questionnaire without agreeing to upload copies of your reports. You can remove your name, date of birth, NHS number and any other personal identifiers prior to uploading the documents.\nAfter you have completed and signed the consent form you will be able to download a copy for your records.\nOnline questionnaire\nAfter you have given your consent, you will be able to complete the online questionnaire.\nThe questionnaire consists of 9 sections which cover a range of topics including information about you, your family background and your health, including your recent breast cancer diagnosis and treatment, and your views on taking part in research.\nThe questionnaire should take about 30-40 minutes to complete, and no more than 60 minutes in total. It can be completed on any computer, tablet or smartphone. Please give yourself enough time to complete the questionnaire in one sitting, however if needed you can save your progress and return later.\nThe questionnaire has been developed with individuals who have lived experience of breast cancer and members of the public. This is to help ensure that the questions being asked in UnityBC are relevant, easy to understand, and acceptable.\nAre there any possible disadvantages and risks of taking part?\nUnityBC does not involve any procedures or tests and so the risks of taking part are minimal.",
+            "sentences": [
+              {
+                "text": "You are happy to share your medical reports summarising your diagnosis and treatment with us yourself by scanning and uploading them to the UnityBC database.",
+                "charStart": 0,
+                "charEnd": 157,
+                "clip": "16c7a28ec5504f8b5398c7c20fd2c7aea2733afddab231fdbb7cd953fc1029f0",
+                "start": 0.0,
+                "end": 8.55
+              },
+              {
+                "text": "You can still sign-up and complete the UnityBC questionnaire without agreeing to upload copies of your reports.",
+                "charStart": 158,
+                "charEnd": 269,
+                "clip": "cf4b8bfe29e8573454d3c9f84e44464d9fe4a283985f3efca5eaca06a1f2afab",
+                "start": 8.56,
+                "end": 15.21
+              },
+              {
+                "text": "You can remove your name, date of birth, NHS number and any other personal identifiers prior to uploading the documents.",
+                "charStart": 270,
+                "charEnd": 390,
+                "clip": "898ed14b284d1da9218fe0b787c4dcc803eacf5174bfff05534896516c36096b",
+                "start": 15.22,
+                "end": 22.37
+              },
+              {
+                "text": "After you have completed and signed the consent form you will be able to download a copy for your records.",
+                "charStart": 391,
+                "charEnd": 497,
+                "clip": "68f4df536565850f89ac2939a68460933cf3730396f608d969ec616eae96f7d1",
+                "start": 22.38,
+                "end": 28.93
+              },
+              {
+                "text": "Online questionnaire",
+                "charStart": 498,
+                "charEnd": 518,
+                "clip": "dd51b11c21c04d5d994c781d9c37108c0867b2103821f8fb66bb49ed55014a29",
+                "start": 28.94,
+                "end": 31.04
+              },
+              {
+                "text": "After you have given your consent, you will be able to complete the online questionnaire.",
+                "charStart": 519,
+                "charEnd": 608,
+                "clip": "3ab3fb162001a3ba2ff017fb0ac3ba2e8feb8bce34fce248e1ba4c513fc30e70",
+                "start": 31.05,
+                "end": 35.9
+              },
+              {
+                "text": "The questionnaire consists of 9 sections which cover a range of topics including information about you, your family background and your health, including your recent breast cancer diagnosis and treatment, and your views on taking part in research.",
+                "charStart": 609,
+                "charEnd": 856,
+                "clip": "ad995e03a833a57ec06bdfd3ba7ffaf89efb2815aaba865a1f1ba8ef95a3b7f9",
+                "start": 35.91,
+                "end": 49.81
+              },
+              {
+                "text": "The questionnaire should take about 30-40 minutes to complete, and no more than 60 minutes in total.",
+                "charStart": 857,
+                "charEnd": 957,
+                "clip": "a3f5dc2e8952ff3e17cc4f398746ea440f7daaa46f9719bf806b86061ebaf329",
+                "start": 49.82,
+                "end": 56.22
+              },
+              {
+                "text": "It can be completed on any computer, tablet or smartphone.",
+                "charStart": 958,
+                "charEnd": 1016,
+                "clip": "c4aa82c4667b29261a40f4dafdf6e1f74532bf352006652ff1ce30910d8730ce",
+                "start": 56.23,
+                "end": 61.23
+              },
+              {
+                "text": "Please give yourself enough time to complete the questionnaire in one sitting, however if needed you can save your progress and return later.",
+                "charStart": 1017,
+                "charEnd": 1158,
+                "clip": "b532914d38bfb0662439d82fc716ba9f21a802b183767ec0d821fba35771ca60",
+                "start": 61.24,
+                "end": 69.59
+              },
+              {
+                "text": "The questionnaire has been developed with individuals who have lived experience of breast cancer and members of the public.",
+                "charStart": 1159,
+                "charEnd": 1282,
+                "clip": "1eea2a6b54b496580fc84352646854ffe3f6fc99c85f6d7aaca283796a85a756",
+                "start": 69.6,
+                "end": 76.3
+              },
+              {
+                "text": "This is to help ensure that the questions being asked in UnityBC are relevant, easy to understand, and acceptable.",
+                "charStart": 1283,
+                "charEnd": 1397,
+                "clip": "60f3f07c8a0bf4285389d32179157945418198c851bf62a6109a442cde3484c0",
+                "start": 76.31,
+                "end": 84.06
+              },
+              {
+                "text": "Are there any possible disadvantages and risks of taking part?",
+                "charStart": 1398,
+                "charEnd": 1460,
+                "clip": "2606af797b0795873264a20f67da3c140f41b871b89b9862ac593c55399fac2f",
+                "start": 84.07,
+                "end": 88.57
+              },
+              {
+                "text": "UnityBC does not involve any procedures or tests and so the risks of taking part are minimal.",
+                "charStart": 1461,
+                "charEnd": 1554,
+                "clip": "ad050c09976c9c17ac7082ed33f0a56f32688f33e3189368f55b251a72fb871d",
+                "start": 88.58,
+                "end": 94.38
+              }
+            ],
+            "duration": 94.39
+          }
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 157,
+              "end": 8.55
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 149,
+              "end": 9.95
+            }
+          },
+          {
+            "en": {
+              "charStart": 158,
+              "start": 8.56,
+              "charEnd": 269,
+              "end": 15.21
+            },
+            "ur": {
+              "charStart": 150,
+              "start": 9.96,
+              "charEnd": 279,
+              "end": 19.11
+            }
+          },
+          {
+            "en": {
+              "charStart": 270,
+              "start": 15.22,
+              "charEnd": 390,
+              "end": 22.37
+            },
+            "ur": {
+              "charStart": 280,
+              "start": 19.12,
+              "charEnd": 413,
+              "end": 29.07
+            }
+          },
+          {
+            "en": {
+              "charStart": 391,
+              "start": 22.38,
+              "charEnd": 497,
+              "end": 28.93
+            },
+            "ur": {
+              "charStart": 415,
+              "start": 29.08,
+              "charEnd": 523,
+              "end": 36.23
+            }
+          },
+          {
+            "en": {
+              "charStart": 498,
+              "start": 28.94,
+              "charEnd": 518,
+              "end": 31.04
+            },
+            "ur": {
+              "charStart": 525,
+              "start": 36.24,
+              "charEnd": 541,
+              "end": 38.39
+            }
+          },
+          {
+            "en": {
+              "charStart": 519,
+              "start": 31.05,
+              "charEnd": 608,
+              "end": 35.9
+            },
+            "ur": {
+              "charStart": 543,
+              "start": 38.4,
+              "charEnd": 605,
+              "end": 43.15
+            }
+          },
+          {
+            "en": {
+              "charStart": 609,
+              "start": 35.91,
+              "charEnd": 856,
+              "end": 49.81
+            },
+            "ur": {
+              "charStart": 607,
+              "start": 43.16,
+              "charEnd": 838,
+              "end": 59.46
+            }
+          },
+          {
+            "en": {
+              "charStart": 857,
+              "start": 49.82,
+              "charEnd": 957,
+              "end": 56.22
+            },
+            "ur": {
+              "charStart": 840,
+              "start": 59.47,
+              "charEnd": 948,
+              "end": 67.12
+            }
+          },
+          {
+            "en": {
+              "charStart": 958,
+              "start": 56.23,
+              "charEnd": 1016,
+              "end": 61.23
+            },
+            "ur": {
+              "charStart": 949,
+              "start": 67.13,
+              "charEnd": 1013,
+              "end": 72.43
+            }
+          },
+          {
+            "en": {
+              "charStart": 1017,
+              "start": 61.24,
+              "charEnd": 1158,
+              "end": 69.59
+            },
+            "ur": {
+              "charStart": 1014,
+              "start": 72.44,
+              "charEnd": 1156,
+              "end": 82.19
+            }
+          },
+          {
+            "en": {
+              "charStart": 1159,
+              "start": 69.6,
+              "charEnd": 1282,
+              "end": 76.3
+            },
+            "ur": {
+              "charStart": 1158,
+              "start": 82.2,
+              "charEnd": 1261,
+              "end": 89.6
+            }
+          },
+          {
+            "en": {
+              "charStart": 1283,
+              "start": 76.31,
+              "charEnd": 1397,
+              "end": 84.06
+            },
+            "ur": {
+              "charStart": 1262,
+              "start": 89.61,
+              "charEnd": 1384,
+              "end": 98.41
+            }
+          },
+          {
+            "en": {
+              "charStart": 1398,
+              "start": 84.07,
+              "charEnd": 1460,
+              "end": 88.57
+            },
+            "ur": {
+              "charStart": 1386,
+              "start": 98.42,
+              "charEnd": 1434,
+              "end": 102.52
+            }
+          },
+          {
+            "en": {
+              "charStart": 1461,
+              "start": 88.58,
+              "charEnd": 1554,
+              "end": 94.38
+            },
+            "ur": {
+              "charStart": 1436,
+              "start": 102.53,
+              "charEnd": 1527,
+              "end": 109.78
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-f67b8a0124d5ef9ef9f6.mp3",
+          "en": "/assets/audio/en-7c97b1488e3a26e817fc.mp3"
+        }
+      },
+      {
+        "id": "pis-s0006",
+        "titles": {
+          "en": "Support, withdrawal and benefits",
+          "cs": "Informace pro účastnice · 6"
+        },
+        "text": {
+          "en": "We recognise that answering questions about a recent breast cancer diagnosis may be a little upsetting and we provide links on our website to relevant support services.\nIf you do not wish to continue you may withdraw at any point for any reason, by contacting the research team (details below) and asking to withdraw your submission based on the email address you submitted.\nYour participation in UnityBC will not exclude you from participating in any other breast cancer research studies.\nWhat are the possible benefits of taking part?\nWe do not know what the results of our research will be and you may not directly benefit from taking part in UnityBC but you will become part of a research community.\nThe information we gather from you may benefit other women with breast cancer in the future by improving understanding of variations in breast cancer care and outcomes.\nWill my taking part in the study be kept confidential?\nYes. When you register to UnityBC and agree to participate, our database will generate a code that is unique to you. All records of your consent, registration, questionnaire responses, and any other information you provide will only ever be labelled by your unique code and never by identifiable information such as your name.\nInformation that could identify you will only be held securely on trusted research servers monitored directly by the UnityBC team based at the University of Oxford. Identifiable information relating to you will only ever be used for the purposes of UnityBC and will never be shared.",
+          "ur": "ہم سمجھتے ہیں کہ چھاتی کے کینسر کی حالیہ تشخیص کے بارے میں سوالات کے جواب دینا کچھ پریشان کن ہو سکتا ہے، اور ہم اپنی ویب سائٹ پر متعلقہ معاونتی خدمات کے لنکس فراہم کرتے ہیں۔\n\nاگر آپ جاری نہیں رکھنا چاہتیں تو آپ کسی بھی وقت، کسی بھی وجہ سے، ریسرچ ٹیم سے رابطہ کر کے (تفصیلات نیچے دی گئی ہیں) اور اس ای میل پتے کی بنیاد پر اپنی جمع کرائی گئی معلومات واپس لینے کی درخواست کر سکتی ہیں جو آپ نے فراہم کیا تھا۔\n\nUnityBC میں آپ کی شرکت آپ کو چھاتی کے کینسر سے متعلق کسی دوسری ریسرچ اسٹڈی میں حصہ لینے سے نہیں روکے گی۔\n\nحصہ لینے کے ممکنہ فوائد کیا ہیں؟\n\nہم نہیں جانتے کہ ہماری تحقیق کے نتائج کیا ہوں گے، اور ممکن ہے کہ آپ کو UnityBC میں حصہ لینے سے براہِ راست فائدہ نہ ہو، لیکن آپ تحقیقی برادری کا حصہ بن جائیں گی۔\n\nہم آپ سے جو معلومات جمع کریں گے، وہ مستقبل میں چھاتی کے کینسر کی دیکھ بھال اور نتائج میں پائے جانے والے فرق کو بہتر طور پر سمجھنے میں مدد دے کر، چھاتی کے کینسر والی دوسری خواتین کے لیے فائدہ مند ہو سکتی ہیں۔\n\nکیا اسٹڈی میں میری شرکت خفیہ رکھی جائے گی؟\n\nجی ہاں۔ جب آپ UnityBC کے لیے رجسٹر کرتی ہیں اور حصہ لینے پر رضامندی دیتی ہیں، تو ہمارا ڈیٹا بیس آپ کے لیے ایک مخصوص کوڈ بنائے گا۔ آپ کی رضامندی، رجسٹریشن، سوالنامے کے جوابات، اور آپ کی فراہم کردہ کسی بھی دوسری معلومات کا تمام ریکارڈ صرف آپ کے مخصوص کوڈ سے نشان زد کیا جائے گا، کبھی بھی ایسی معلومات سے نہیں جن سے آپ کی شناخت ہو سکے، جیسے آپ کا نام۔\n\nایسی معلومات جن سے آپ کی شناخت ہو سکتی ہے، صرف محفوظ طریقے سے قابلِ اعتماد تحقیقی سرورز پر رکھی جائیں گی، جن کی براہِ راست نگرانی University of Oxford میں موجود UnityBC ٹیم کرتی ہے۔ آپ سے متعلق شناختی معلومات صرف UnityBC کے مقاصد کے لیے استعمال کی جائیں گی اور کبھی کسی کے ساتھ شیئر نہیں کی جائیں گی۔"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "p",
+              "text": "We recognise that answering questions about a recent breast cancer diagnosis may be a little upsetting and we provide links on our website to relevant support services."
+            },
+            {
+              "type": "p",
+              "text": "If you do not wish to continue you may withdraw at any point for any reason, by contacting the research team (details below) and asking to withdraw your submission based on the email address you submitted."
+            },
+            {
+              "type": "p",
+              "text": "Your participation in UnityBC will not exclude you from participating in any other breast cancer research studies."
+            },
+            {
+              "type": "p",
+              "text": "What are the possible benefits of taking part?"
+            },
+            {
+              "type": "p",
+              "text": "We do not know what the results of our research will be and you may not directly benefit from taking part in UnityBC but you will become part of a research community."
+            },
+            {
+              "type": "p",
+              "text": "The information we gather from you may benefit other women with breast cancer in the future by improving understanding of variations in breast cancer care and outcomes."
+            },
+            {
+              "type": "p",
+              "text": "Will my taking part in the study be kept confidential?"
+            },
+            {
+              "type": "p",
+              "text": "Yes. When you register to UnityBC and agree to participate, our database will generate a code that is unique to you. All records of your consent, registration, questionnaire responses, and any other information you provide will only ever be labelled by your unique code and never by identifiable information such as your name."
+            },
+            {
+              "type": "p",
+              "text": "Information that could identify you will only be held securely on trusted research servers monitored directly by the UnityBC team based at the University of Oxford. Identifiable information relating to you will only ever be used for the purposes of UnityBC and will never be shared."
+            }
+          ],
+          "ur": [
+            {
+              "type": "p",
+              "text": "ہم سمجھتے ہیں کہ چھاتی کے کینسر کی حالیہ تشخیص کے بارے میں سوالات کے جواب دینا کچھ پریشان کن ہو سکتا ہے، اور ہم اپنی ویب سائٹ پر متعلقہ معاونتی خدمات کے لنکس فراہم کرتے ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "اگر آپ جاری نہیں رکھنا چاہتیں تو آپ کسی بھی وقت، کسی بھی وجہ سے، ریسرچ ٹیم سے رابطہ کر کے (تفصیلات نیچے دی گئی ہیں) اور اس ای میل پتے کی بنیاد پر اپنی جمع کرائی گئی معلومات واپس لینے کی درخواست کر سکتی ہیں جو آپ نے فراہم کیا تھا۔"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC میں آپ کی شرکت آپ کو چھاتی کے کینسر سے متعلق کسی دوسری ریسرچ اسٹڈی میں حصہ لینے سے نہیں روکے گی۔"
+            },
+            {
+              "type": "p",
+              "text": "حصہ لینے کے ممکنہ فوائد کیا ہیں؟"
+            },
+            {
+              "type": "p",
+              "text": "ہم نہیں جانتے کہ ہماری تحقیق کے نتائج کیا ہوں گے، اور ممکن ہے کہ آپ کو UnityBC میں حصہ لینے سے براہِ راست فائدہ نہ ہو، لیکن آپ تحقیقی برادری کا حصہ بن جائیں گی۔"
+            },
+            {
+              "type": "p",
+              "text": "ہم آپ سے جو معلومات جمع کریں گے، وہ مستقبل میں چھاتی کے کینسر کی دیکھ بھال اور نتائج میں پائے جانے والے فرق کو بہتر طور پر سمجھنے میں مدد دے کر، چھاتی کے کینسر والی دوسری خواتین کے لیے فائدہ مند ہو سکتی ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "کیا اسٹڈی میں میری شرکت خفیہ رکھی جائے گی؟"
+            },
+            {
+              "type": "p",
+              "text": "جی ہاں۔ جب آپ UnityBC کے لیے رجسٹر کرتی ہیں اور حصہ لینے پر رضامندی دیتی ہیں، تو ہمارا ڈیٹا بیس آپ کے لیے ایک مخصوص کوڈ بنائے گا۔ آپ کی رضامندی، رجسٹریشن، سوالنامے کے جوابات، اور آپ کی فراہم کردہ کسی بھی دوسری معلومات کا تمام ریکارڈ صرف آپ کے مخصوص کوڈ سے نشان زد کیا جائے گا، کبھی بھی ایسی معلومات سے نہیں جن سے آپ کی شناخت ہو سکے، جیسے آپ کا نام۔"
+            },
+            {
+              "type": "p",
+              "text": "ایسی معلومات جن سے آپ کی شناخت ہو سکتی ہے، صرف محفوظ طریقے سے قابلِ اعتماد تحقیقی سرورز پر رکھی جائیں گی، جن کی براہِ راست نگرانی University of Oxford میں موجود UnityBC ٹیم کرتی ہے۔ آپ سے متعلق شناختی معلومات صرف UnityBC کے مقاصد کے لیے استعمال کی جائیں گی اور کبھی کسی کے ساتھ شیئر نہیں کی جائیں گی۔"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "ہم سمجھتے ہیں کہ چھاتی کے کینسر کی حالیہ تشخیص کے بارے میں سوالات کے جواب دینا کچھ پریشان کن ہو سکتا ہے، اور ہم اپنی ویب سائٹ پر متعلقہ معاونتی خدمات کے لنکس فراہم کرتے ہیں۔\n\nاگر آپ جاری نہیں رکھنا چاہتیں تو آپ کسی بھی وقت، کسی بھی وجہ سے، ریسرچ ٹیم سے رابطہ کر کے (تفصیلات نیچے دی گئی ہیں) اور اس ای میل پتے کی بنیاد پر اپنی جمع کرائی گئی معلومات واپس لینے کی درخواست کر سکتی ہیں جو آپ نے فراہم کیا تھا۔\n\nUnityBC میں آپ کی شرکت آپ کو چھاتی کے کینسر سے متعلق کسی دوسری ریسرچ اسٹڈی میں حصہ لینے سے نہیں روکے گی۔\n\nحصہ لینے کے ممکنہ فوائد کیا ہیں؟\n\nہم نہیں جانتے کہ ہماری تحقیق کے نتائج کیا ہوں گے، اور ممکن ہے کہ آپ کو UnityBC میں حصہ لینے سے براہِ راست فائدہ نہ ہو، لیکن آپ تحقیقی برادری کا حصہ بن جائیں گی۔\n\nہم آپ سے جو معلومات جمع کریں گے، وہ مستقبل میں چھاتی کے کینسر کی دیکھ بھال اور نتائج میں پائے جانے والے فرق کو بہتر طور پر سمجھنے میں مدد دے کر، چھاتی کے کینسر والی دوسری خواتین کے لیے فائدہ مند ہو سکتی ہیں۔\n\nکیا اسٹڈی میں میری شرکت خفیہ رکھی جائے گی؟\n\nجی ہاں۔ جب آپ UnityBC کے لیے رجسٹر کرتی ہیں اور حصہ لینے پر رضامندی دیتی ہیں، تو ہمارا ڈیٹا بیس آپ کے لیے ایک مخصوص کوڈ بنائے گا۔ آپ کی رضامندی، رجسٹریشن، سوالنامے کے جوابات، اور آپ کی فراہم کردہ کسی بھی دوسری معلومات کا تمام ریکارڈ صرف آپ کے مخصوص کوڈ سے نشان زد کیا جائے گا، کبھی بھی ایسی معلومات سے نہیں جن سے آپ کی شناخت ہو سکے، جیسے آپ کا نام۔\n\nایسی معلومات جن سے آپ کی شناخت ہو سکتی ہے، صرف محفوظ طریقے سے قابلِ اعتماد تحقیقی سرورز پر رکھی جائیں گی، جن کی براہِ راست نگرانی University of Oxford میں موجود UnityBC ٹیم کرتی ہے۔ آپ سے متعلق شناختی معلومات صرف UnityBC کے مقاصد کے لیے استعمال کی جائیں گی اور کبھی کسی کے ساتھ شیئر نہیں کی جائیں گی۔",
+            "sentences": [
+              {
+                "text": "ہم سمجھتے ہیں کہ چھاتی کے کینسر کی حالیہ تشخیص کے بارے میں سوالات کے جواب دینا کچھ پریشان کن ہو سکتا ہے، اور ہم اپنی ویب سائٹ پر متعلقہ معاونتی خدمات کے لنکس فراہم کرتے ہیں۔",
+                "charStart": 0,
+                "charEnd": 173,
+                "start": 0.0,
+                "end": 11.95
+              },
+              {
+                "text": "اگر آپ جاری نہیں رکھنا چاہتیں تو آپ کسی بھی وقت، کسی بھی وجہ سے، ریسرچ ٹیم سے رابطہ کر کے (تفصیلات نیچے دی گئی ہیں) اور اس ای میل پتے کی بنیاد پر اپنی جمع کرائی گئی معلومات واپس لینے کی درخواست کر سکتی ہیں جو آپ نے فراہم کیا تھا۔",
+                "charStart": 175,
+                "charEnd": 404,
+                "start": 11.96,
+                "end": 26.26
+              },
+              {
+                "text": "UnityBC میں آپ کی شرکت آپ کو چھاتی کے کینسر سے متعلق کسی دوسری ریسرچ اسٹڈی میں حصہ لینے سے نہیں روکے گی۔",
+                "charStart": 406,
+                "charEnd": 510,
+                "start": 26.27,
+                "end": 33.72
+              },
+              {
+                "text": "حصہ لینے کے ممکنہ فوائد کیا ہیں؟",
+                "charStart": 512,
+                "charEnd": 544,
+                "start": 33.73,
+                "end": 36.68
+              },
+              {
+                "text": "ہم نہیں جانتے کہ ہماری تحقیق کے نتائج کیا ہوں گے، اور ممکن ہے کہ آپ کو UnityBC میں حصہ لینے سے براہِ راست فائدہ نہ ہو، لیکن آپ تحقیقی برادری کا حصہ بن جائیں گی۔",
+                "charStart": 546,
+                "charEnd": 706,
+                "start": 36.69,
+                "end": 47.39
+              },
+              {
+                "text": "ہم آپ سے جو معلومات جمع کریں گے، وہ مستقبل میں چھاتی کے کینسر کی دیکھ بھال اور نتائج میں پائے جانے والے فرق کو بہتر طور پر سمجھنے میں مدد دے کر، چھاتی کے کینسر والی دوسری خواتین کے لیے فائدہ مند ہو سکتی ہیں۔",
+                "charStart": 708,
+                "charEnd": 915,
+                "start": 47.4,
+                "end": 61.05
+              },
+              {
+                "text": "کیا اسٹڈی میں میری شرکت خفیہ رکھی جائے گی؟",
+                "charStart": 917,
+                "charEnd": 959,
+                "start": 61.06,
+                "end": 64.46
+              },
+              {
+                "text": "جی ہاں۔",
+                "charStart": 961,
+                "charEnd": 968,
+                "start": 64.47,
+                "end": 65.17
+              },
+              {
+                "text": "جب آپ UnityBC کے لیے رجسٹر کرتی ہیں اور حصہ لینے پر رضامندی دیتی ہیں، تو ہمارا ڈیٹا بیس آپ کے لیے ایک مخصوص کوڈ بنائے گا۔",
+                "charStart": 969,
+                "charEnd": 1090,
+                "start": 65.18,
+                "end": 74.23
+              },
+              {
+                "text": "آپ کی رضامندی، رجسٹریشن، سوالنامے کے جوابات، اور آپ کی فراہم کردہ کسی بھی دوسری معلومات کا تمام ریکارڈ صرف آپ کے مخصوص کوڈ سے نشان زد کیا جائے گا، کبھی بھی ایسی معلومات سے نہیں جن سے آپ کی شناخت ہو سکے، جیسے آپ کا نام۔",
+                "charStart": 1091,
+                "charEnd": 1309,
+                "start": 74.24,
+                "end": 88.64
+              },
+              {
+                "text": "ایسی معلومات جن سے آپ کی شناخت ہو سکتی ہے، صرف محفوظ طریقے سے قابلِ اعتماد تحقیقی سرورز پر رکھی جائیں گی، جن کی براہِ راست نگرانی University of Oxford میں موجود UnityBC ٹیم کرتی ہے۔",
+                "charStart": 1311,
+                "charEnd": 1492,
+                "start": 88.65,
+                "end": 102.3
+              },
+              {
+                "text": "آپ سے متعلق شناختی معلومات صرف UnityBC کے مقاصد کے لیے استعمال کی جائیں گی اور کبھی کسی کے ساتھ شیئر نہیں کی جائیں گی۔",
+                "charStart": 1493,
+                "charEnd": 1611,
+                "start": 102.31,
+                "end": 109.61
+              }
+            ],
+            "duration": 109.62
+          },
+          "en": {
+            "text": "We recognise that answering questions about a recent breast cancer diagnosis may be a little upsetting and we provide links on our website to relevant support services.\nIf you do not wish to continue you may withdraw at any point for any reason, by contacting the research team (details below) and asking to withdraw your submission based on the email address you submitted.\nYour participation in UnityBC will not exclude you from participating in any other breast cancer research studies.\nWhat are the possible benefits of taking part?\nWe do not know what the results of our research will be and you may not directly benefit from taking part in UnityBC but you will become part of a research community.\nThe information we gather from you may benefit other women with breast cancer in the future by improving understanding of variations in breast cancer care and outcomes.\nWill my taking part in the study be kept confidential?\nYes. When you register to UnityBC and agree to participate, our database will generate a code that is unique to you. All records of your consent, registration, questionnaire responses, and any other information you provide will only ever be labelled by your unique code and never by identifiable information such as your name.\nInformation that could identify you will only be held securely on trusted research servers monitored directly by the UnityBC team based at the University of Oxford. Identifiable information relating to you will only ever be used for the purposes of UnityBC and will never be shared.",
+            "sentences": [
+              {
+                "text": "We recognise that answering questions about a recent breast cancer diagnosis may be a little upsetting and we provide links on our website to relevant support services.",
+                "charStart": 0,
+                "charEnd": 168,
+                "clip": "22d8bd56d42a33aaffd117973f4b4151124ba571de50b30f3e755cde9ee6942a",
+                "start": 0.0,
+                "end": 10.05
+              },
+              {
+                "text": "If you do not wish to continue you may withdraw at any point for any reason, by contacting the research team (details below) and asking to withdraw your submission based on the email address you submitted.",
+                "charStart": 169,
+                "charEnd": 374,
+                "clip": "972d70d411e288c9ffdc8c48c7cfe95c3965da3cd6b87b4d6f9d7b7c15227939",
+                "start": 10.06,
+                "end": 21.81
+              },
+              {
+                "text": "Your participation in UnityBC will not exclude you from participating in any other breast cancer research studies.",
+                "charStart": 375,
+                "charEnd": 489,
+                "clip": "767a7ebbc34d797e140941e5498d76bbf38b31a92017b9166082aaf78ba492d0",
+                "start": 21.82,
+                "end": 29.37
+              },
+              {
+                "text": "What are the possible benefits of taking part?",
+                "charStart": 490,
+                "charEnd": 536,
+                "clip": "12aa56a843a787d69d413c7a1d95cc5e7ede65fb29135956b74be72597a06ba0",
+                "start": 29.38,
+                "end": 32.78
+              },
+              {
+                "text": "We do not know what the results of our research will be and you may not directly benefit from taking part in UnityBC but you will become part of a research community.",
+                "charStart": 537,
+                "charEnd": 703,
+                "clip": "b33401d6ab5f404223ddde1d4d11a73966de3be13a71375116f0e8e8407091cc",
+                "start": 32.79,
+                "end": 42.89
+              },
+              {
+                "text": "The information we gather from you may benefit other women with breast cancer in the future by improving understanding of variations in breast cancer care and outcomes.",
+                "charStart": 704,
+                "charEnd": 872,
+                "clip": "678583758b61c807eabcffb386ec0fc4c87d61ebf7ffd74fec5d462020e72be6",
+                "start": 42.9,
+                "end": 52.85
+              },
+              {
+                "text": "Will my taking part in the study be kept confidential?",
+                "charStart": 873,
+                "charEnd": 927,
+                "clip": "0f22a7949a751144cacdcb8f4efb814df7247aba711ad01daa9c8977322f4c37",
+                "start": 52.86,
+                "end": 55.91
+              },
+              {
+                "text": "Yes.",
+                "charStart": 928,
+                "charEnd": 932,
+                "clip": "5f9a2b795615ba6a3d5455fd5624d773fbca5bcd16249c421fd37411dc9837da",
+                "start": 55.92,
+                "end": 56.77
+              },
+              {
+                "text": "When you register to UnityBC and agree to participate, our database will generate a code that is unique to you.",
+                "charStart": 933,
+                "charEnd": 1044,
+                "clip": "a1d22c0270db890fc667a3b796d4083f5e9c8e53e421df92004d0b5931aededd",
+                "start": 56.78,
+                "end": 64.43
+              },
+              {
+                "text": "All records of your consent, registration, questionnaire responses, and any other information you provide will only ever be labelled by your unique code and never by identifiable information such as your name.",
+                "charStart": 1045,
+                "charEnd": 1254,
+                "clip": "416f5ef1d5fac8b2653b4a93c625b08571fbef98c5d5654ae506ae8aad0ec5c5",
+                "start": 64.44,
+                "end": 76.74
+              },
+              {
+                "text": "Information that could identify you will only be held securely on trusted research servers monitored directly by the UnityBC team based at the University of Oxford.",
+                "charStart": 1255,
+                "charEnd": 1419,
+                "clip": "a44689e73a3102dca190f1c3bd4645beb36605792c92fcce7e5c56ebcf4fb17a",
+                "start": 76.75,
+                "end": 86.7
+              },
+              {
+                "text": "Identifiable information relating to you will only ever be used for the purposes of UnityBC and will never be shared.",
+                "charStart": 1420,
+                "charEnd": 1537,
+                "clip": "0eabd8a92d392addd3d39d2510f4b8050864187e9d7046b669c7210d31d4cd5a",
+                "start": 86.71,
+                "end": 93.96
+              }
+            ],
+            "duration": 93.97
+          }
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 168,
+              "end": 10.05
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 173,
+              "end": 11.95
+            }
+          },
+          {
+            "en": {
+              "charStart": 169,
+              "start": 10.06,
+              "charEnd": 374,
+              "end": 21.81
+            },
+            "ur": {
+              "charStart": 175,
+              "start": 11.96,
+              "charEnd": 404,
+              "end": 26.26
+            }
+          },
+          {
+            "en": {
+              "charStart": 375,
+              "start": 21.82,
+              "charEnd": 489,
+              "end": 29.37
+            },
+            "ur": {
+              "charStart": 406,
+              "start": 26.27,
+              "charEnd": 510,
+              "end": 33.72
+            }
+          },
+          {
+            "en": {
+              "charStart": 490,
+              "start": 29.38,
+              "charEnd": 536,
+              "end": 32.78
+            },
+            "ur": {
+              "charStart": 512,
+              "start": 33.73,
+              "charEnd": 544,
+              "end": 36.68
+            }
+          },
+          {
+            "en": {
+              "charStart": 537,
+              "start": 32.79,
+              "charEnd": 703,
+              "end": 42.89
+            },
+            "ur": {
+              "charStart": 546,
+              "start": 36.69,
+              "charEnd": 706,
+              "end": 47.39
+            }
+          },
+          {
+            "en": {
+              "charStart": 704,
+              "start": 42.9,
+              "charEnd": 872,
+              "end": 52.85
+            },
+            "ur": {
+              "charStart": 708,
+              "start": 47.4,
+              "charEnd": 915,
+              "end": 61.05
+            }
+          },
+          {
+            "en": {
+              "charStart": 873,
+              "start": 52.86,
+              "charEnd": 927,
+              "end": 55.91
+            },
+            "ur": {
+              "charStart": 917,
+              "start": 61.06,
+              "charEnd": 959,
+              "end": 64.46
+            }
+          },
+          {
+            "en": {
+              "charStart": 928,
+              "start": 55.92,
+              "charEnd": 932,
+              "end": 56.77
+            },
+            "ur": {
+              "charStart": 961,
+              "start": 64.47,
+              "charEnd": 968,
+              "end": 65.17
+            }
+          },
+          {
+            "en": {
+              "charStart": 933,
+              "start": 56.78,
+              "charEnd": 1044,
+              "end": 64.43
+            },
+            "ur": {
+              "charStart": 969,
+              "start": 65.18,
+              "charEnd": 1090,
+              "end": 74.23
+            }
+          },
+          {
+            "en": {
+              "charStart": 1045,
+              "start": 64.44,
+              "charEnd": 1254,
+              "end": 76.74
+            },
+            "ur": {
+              "charStart": 1091,
+              "start": 74.24,
+              "charEnd": 1309,
+              "end": 88.64
+            }
+          },
+          {
+            "en": {
+              "charStart": 1255,
+              "start": 76.75,
+              "charEnd": 1419,
+              "end": 86.7
+            },
+            "ur": {
+              "charStart": 1311,
+              "start": 88.65,
+              "charEnd": 1492,
+              "end": 102.3
+            }
+          },
+          {
+            "en": {
+              "charStart": 1420,
+              "start": 86.71,
+              "charEnd": 1537,
+              "end": 93.96
+            },
+            "ur": {
+              "charStart": 1493,
+              "start": 102.31,
+              "charEnd": 1611,
+              "end": 109.61
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-eef034d0eb5a8d80db3d.mp3",
+          "en": "/assets/audio/en-4cf4d1830f6c7743f9fc.mp3"
+        }
+      },
+      {
+        "id": "pis-s0007",
+        "titles": {
+          "en": "How we use your data",
+          "cs": "Informace pro účastnice · 7"
+        },
+        "text": {
+          "en": "Further information about how your personal data is used is provided in the “What will happen to my data” section.\nWhat will happen to my data?\nData protection legislation requires that we, the University of Oxford (whose legal name is The Chancellor Masters and Scholars of the University of Oxford), state the legal basis for processing information about you. In the case of research, this is a ‘task in the public interest’. The University of Oxford is the sponsor for this study and is responsible for looking after your information and using it properly.\nWe will need to use information from you collected on the UnityBC questionnaire for this research project. We will share your information related to this research project with the following types of organisations such as responsible members of the University of Oxford and relevant regulatory bodies.\nWe may use third party service providers or subcontractors to help with some of the research activities we carry out (e.g. IT provision, survey provision, transcription services etc.). We may therefore share your personal data with these providers when it is necessary to do so to allow them to carry out the services we require them to provide. However, we require all our third-party providers to have appropriate security measures in place to protect your data and we only allow them to process your data for the specific purposes we have stated in our instructions.\nThis information will include your:\nName\nEmail address",
+          "ur": "آپ کے ذاتی ڈیٹا کو کس طرح استعمال کیا جاتا ہے، اس کے بارے میں مزید معلومات “میرے ڈیٹا کے ساتھ کیا ہوگا” کے حصے میں دی گئی ہیں۔\n\nمیرے ڈیٹا کے ساتھ کیا ہوگا؟\n\nڈیٹا کے تحفظ کے قوانین کے تحت ہم، University of Oxford (جس کا قانونی نام The Chancellor Masters and Scholars of the University of Oxford ہے)، یہ بتانے کے پابند ہیں کہ آپ کے بارے میں معلومات پر کارروائی کرنے کی قانونی بنیاد کیا ہے۔ تحقیق کے معاملے میں یہ ’عوامی مفاد میں انجام دیا جانے والا کام‘ ہے۔ University of Oxford اس ریسرچ اسٹڈی کی اسپانسر ہے اور آپ کی معلومات کی حفاظت کرنے اور انہیں درست طریقے سے استعمال کرنے کی ذمہ دار ہے۔\n\nاس تحقیقی منصوبے کے لیے ہمیں UnityBC کے سوالنامے کے ذریعے آپ سے حاصل کی گئی معلومات استعمال کرنے کی ضرورت ہوگی۔ ہم اس تحقیقی منصوبے سے متعلق آپ کی معلومات ایسی تنظیموں کے ساتھ شیئر کریں گے، مثلاً University of Oxford کے ذمہ دار ارکان اور متعلقہ ضابطہ کار ادارے۔\n\nہم اپنی بعض تحقیقی سرگرمیوں میں مدد کے لیے تیسرے فریق کے سروس فراہم کنندگان یا ذیلی ٹھیکیداروں کو استعمال کر سکتے ہیں (مثلاً آئی ٹی کی خدمات، سروے کی سہولت، آڈیو کو تحریر میں تبدیل کرنے کی خدمات وغیرہ)۔ اس لیے ہم آپ کا ذاتی ڈیٹا ان فراہم کنندگان کے ساتھ اس وقت شیئر کر سکتے ہیں جب ایسا کرنا ضروری ہو تاکہ وہ ہماری مطلوبہ خدمات انجام دے سکیں۔ تاہم، ہم اپنے تمام تیسرے فریق فراہم کنندگان سے تقاضا کرتے ہیں کہ آپ کے ڈیٹا کے تحفظ کے لیے مناسب حفاظتی انتظامات موجود ہوں، اور ہم انہیں صرف ان مخصوص مقاصد کے لیے آپ کے ڈیٹا پر کارروائی کرنے کی اجازت دیتے ہیں جو ہم نے اپنی ہدایات میں بیان کیے ہیں۔\n\nان معلومات میں آپ کی درج ذیل تفصیلات شامل ہوں گی:\n\nنام\n\nای میل پتہ"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "p",
+              "text": "Further information about how your personal data is used is provided in the “What will happen to my data” section."
+            },
+            {
+              "type": "p",
+              "text": "What will happen to my data?"
+            },
+            {
+              "type": "p",
+              "text": "Data protection legislation requires that we, the University of Oxford (whose legal name is The Chancellor Masters and Scholars of the University of Oxford), state the legal basis for processing information about you. In the case of research, this is a ‘task in the public interest’. The University of Oxford is the sponsor for this study and is responsible for looking after your information and using it properly."
+            },
+            {
+              "type": "p",
+              "text": "We will need to use information from you collected on the UnityBC questionnaire for this research project. We will share your information related to this research project with the following types of organisations such as responsible members of the University of Oxford and relevant regulatory bodies."
+            },
+            {
+              "type": "p",
+              "text": "We may use third party service providers or subcontractors to help with some of the research activities we carry out (e.g. IT provision, survey provision, transcription services etc.). We may therefore share your personal data with these providers when it is necessary to do so to allow them to carry out the services we require them to provide. However, we require all our third-party providers to have appropriate security measures in place to protect your data and we only allow them to process your data for the specific purposes we have stated in our instructions."
+            },
+            {
+              "type": "p",
+              "text": "This information will include your:"
+            },
+            {
+              "type": "p",
+              "text": "Name"
+            },
+            {
+              "type": "p",
+              "text": "Email address"
+            }
+          ],
+          "ur": [
+            {
+              "type": "p",
+              "text": "آپ کے ذاتی ڈیٹا کو کس طرح استعمال کیا جاتا ہے، اس کے بارے میں مزید معلومات “میرے ڈیٹا کے ساتھ کیا ہوگا” کے حصے میں دی گئی ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "میرے ڈیٹا کے ساتھ کیا ہوگا؟"
+            },
+            {
+              "type": "p",
+              "text": "ڈیٹا کے تحفظ کے قوانین کے تحت ہم، University of Oxford (جس کا قانونی نام The Chancellor Masters and Scholars of the University of Oxford ہے)، یہ بتانے کے پابند ہیں کہ آپ کے بارے میں معلومات پر کارروائی کرنے کی قانونی بنیاد کیا ہے۔ تحقیق کے معاملے میں یہ ’عوامی مفاد میں انجام دیا جانے والا کام‘ ہے۔ University of Oxford اس ریسرچ اسٹڈی کی اسپانسر ہے اور آپ کی معلومات کی حفاظت کرنے اور انہیں درست طریقے سے استعمال کرنے کی ذمہ دار ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "اس تحقیقی منصوبے کے لیے ہمیں UnityBC کے سوالنامے کے ذریعے آپ سے حاصل کی گئی معلومات استعمال کرنے کی ضرورت ہوگی۔ ہم اس تحقیقی منصوبے سے متعلق آپ کی معلومات ایسی تنظیموں کے ساتھ شیئر کریں گے، مثلاً University of Oxford کے ذمہ دار ارکان اور متعلقہ ضابطہ کار ادارے۔"
+            },
+            {
+              "type": "p",
+              "text": "ہم اپنی بعض تحقیقی سرگرمیوں میں مدد کے لیے تیسرے فریق کے سروس فراہم کنندگان یا ذیلی ٹھیکیداروں کو استعمال کر سکتے ہیں (مثلاً آئی ٹی کی خدمات، سروے کی سہولت، آڈیو کو تحریر میں تبدیل کرنے کی خدمات وغیرہ)۔ اس لیے ہم آپ کا ذاتی ڈیٹا ان فراہم کنندگان کے ساتھ اس وقت شیئر کر سکتے ہیں جب ایسا کرنا ضروری ہو تاکہ وہ ہماری مطلوبہ خدمات انجام دے سکیں۔ تاہم، ہم اپنے تمام تیسرے فریق فراہم کنندگان سے تقاضا کرتے ہیں کہ آپ کے ڈیٹا کے تحفظ کے لیے مناسب حفاظتی انتظامات موجود ہوں، اور ہم انہیں صرف ان مخصوص مقاصد کے لیے آپ کے ڈیٹا پر کارروائی کرنے کی اجازت دیتے ہیں جو ہم نے اپنی ہدایات میں بیان کیے ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "ان معلومات میں آپ کی درج ذیل تفصیلات شامل ہوں گی:"
+            },
+            {
+              "type": "p",
+              "text": "نام"
+            },
+            {
+              "type": "p",
+              "text": "ای میل پتہ"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "آپ کے ذاتی ڈیٹا کو کس طرح استعمال کیا جاتا ہے، اس کے بارے میں مزید معلومات “میرے ڈیٹا کے ساتھ کیا ہوگا” کے حصے میں دی گئی ہیں۔\n\nمیرے ڈیٹا کے ساتھ کیا ہوگا؟\n\nڈیٹا کے تحفظ کے قوانین کے تحت ہم، University of Oxford (جس کا قانونی نام The Chancellor Masters and Scholars of the University of Oxford ہے)، یہ بتانے کے پابند ہیں کہ آپ کے بارے میں معلومات پر کارروائی کرنے کی قانونی بنیاد کیا ہے۔ تحقیق کے معاملے میں یہ ’عوامی مفاد میں انجام دیا جانے والا کام‘ ہے۔ University of Oxford اس ریسرچ اسٹڈی کی اسپانسر ہے اور آپ کی معلومات کی حفاظت کرنے اور انہیں درست طریقے سے استعمال کرنے کی ذمہ دار ہے۔\n\nاس تحقیقی منصوبے کے لیے ہمیں UnityBC کے سوالنامے کے ذریعے آپ سے حاصل کی گئی معلومات استعمال کرنے کی ضرورت ہوگی۔ ہم اس تحقیقی منصوبے سے متعلق آپ کی معلومات ایسی تنظیموں کے ساتھ شیئر کریں گے، مثلاً University of Oxford کے ذمہ دار ارکان اور متعلقہ ضابطہ کار ادارے۔\n\nہم اپنی بعض تحقیقی سرگرمیوں میں مدد کے لیے تیسرے فریق کے سروس فراہم کنندگان یا ذیلی ٹھیکیداروں کو استعمال کر سکتے ہیں (مثلاً آئی ٹی کی خدمات، سروے کی سہولت، آڈیو کو تحریر میں تبدیل کرنے کی خدمات وغیرہ)۔ اس لیے ہم آپ کا ذاتی ڈیٹا ان فراہم کنندگان کے ساتھ اس وقت شیئر کر سکتے ہیں جب ایسا کرنا ضروری ہو تاکہ وہ ہماری مطلوبہ خدمات انجام دے سکیں۔ تاہم، ہم اپنے تمام تیسرے فریق فراہم کنندگان سے تقاضا کرتے ہیں کہ آپ کے ڈیٹا کے تحفظ کے لیے مناسب حفاظتی انتظامات موجود ہوں، اور ہم انہیں صرف ان مخصوص مقاصد کے لیے آپ کے ڈیٹا پر کارروائی کرنے کی اجازت دیتے ہیں جو ہم نے اپنی ہدایات میں بیان کیے ہیں۔\n\nان معلومات میں آپ کی درج ذیل تفصیلات شامل ہوں گی:\n\nنام\n\nای میل پتہ",
+            "sentences": [
+              {
+                "text": "آپ کے ذاتی ڈیٹا کو کس طرح استعمال کیا جاتا ہے، اس کے بارے میں مزید معلومات “میرے ڈیٹا کے ساتھ کیا ہوگا” کے حصے میں دی گئی ہیں۔",
+                "charStart": 0,
+                "charEnd": 126,
+                "start": 0.0,
+                "end": 8.95
+              },
+              {
+                "text": "میرے ڈیٹا کے ساتھ کیا ہوگا؟",
+                "charStart": 128,
+                "charEnd": 155,
+                "start": 8.96,
+                "end": 11.11
+              },
+              {
+                "text": "ڈیٹا کے تحفظ کے قوانین کے تحت ہم، University of Oxford (جس کا قانونی نام The Chancellor Masters and Scholars of the University of Oxford ہے)، یہ بتانے کے پابند ہیں کہ آپ کے بارے میں معلومات پر کارروائی کرنے کی قانونی بنیاد کیا ہے۔",
+                "charStart": 157,
+                "charEnd": 387,
+                "start": 11.12,
+                "end": 25.52
+              },
+              {
+                "text": "تحقیق کے معاملے میں یہ ’عوامی مفاد میں انجام دیا جانے والا کام‘ ہے۔",
+                "charStart": 388,
+                "charEnd": 455,
+                "start": 25.53,
+                "end": 30.08
+              },
+              {
+                "text": "University of Oxford اس ریسرچ اسٹڈی کی اسپانسر ہے اور آپ کی معلومات کی حفاظت کرنے اور انہیں درست طریقے سے استعمال کرنے کی ذمہ دار ہے۔",
+                "charStart": 456,
+                "charEnd": 589,
+                "start": 30.09,
+                "end": 38.79
+              },
+              {
+                "text": "اس تحقیقی منصوبے کے لیے ہمیں UnityBC کے سوالنامے کے ذریعے آپ سے حاصل کی گئی معلومات استعمال کرنے کی ضرورت ہوگی۔",
+                "charStart": 591,
+                "charEnd": 702,
+                "start": 38.8,
+                "end": 46.7
+              },
+              {
+                "text": "ہم اس تحقیقی منصوبے سے متعلق آپ کی معلومات ایسی تنظیموں کے ساتھ شیئر کریں گے، مثلاً University of Oxford کے ذمہ دار ارکان اور متعلقہ ضابطہ کار ادارے۔",
+                "charStart": 703,
+                "charEnd": 852,
+                "start": 46.71,
+                "end": 56.66
+              },
+              {
+                "text": "ہم اپنی بعض تحقیقی سرگرمیوں میں مدد کے لیے تیسرے فریق کے سروس فراہم کنندگان یا ذیلی ٹھیکیداروں کو استعمال کر سکتے ہیں (مثلاً آئی ٹی کی خدمات، سروے کی سہولت، آڈیو کو تحریر میں تبدیل کرنے کی خدمات وغیرہ)۔",
+                "charStart": 854,
+                "charEnd": 1056,
+                "start": 56.67,
+                "end": 70.27
+              },
+              {
+                "text": "اس لیے ہم آپ کا ذاتی ڈیٹا ان فراہم کنندگان کے ساتھ اس وقت شیئر کر سکتے ہیں جب ایسا کرنا ضروری ہو تاکہ وہ ہماری مطلوبہ خدمات انجام دے سکیں۔",
+                "charStart": 1057,
+                "charEnd": 1195,
+                "start": 70.28,
+                "end": 80.18
+              },
+              {
+                "text": "تاہم، ہم اپنے تمام تیسرے فریق فراہم کنندگان سے تقاضا کرتے ہیں کہ آپ کے ڈیٹا کے تحفظ کے لیے مناسب حفاظتی انتظامات موجود ہوں، اور ہم انہیں صرف ان مخصوص مقاصد کے لیے آپ کے ڈیٹا پر کارروائی کرنے کی اجازت دیتے ہیں جو ہم نے اپنی ہدایات میں بیان کیے ہیں۔",
+                "charStart": 1196,
+                "charEnd": 1443,
+                "start": 80.19,
+                "end": 96.49
+              },
+              {
+                "text": "ان معلومات میں آپ کی درج ذیل تفصیلات شامل ہوں گی:",
+                "charStart": 1445,
+                "charEnd": 1494,
+                "start": 96.5,
+                "end": 100.5
+              },
+              {
+                "text": "نام",
+                "charStart": 1496,
+                "charEnd": 1499,
+                "start": 100.51,
+                "end": 101.56
+              },
+              {
+                "text": "ای میل پتہ",
+                "charStart": 1501,
+                "charEnd": 1511,
+                "start": 101.57,
+                "end": 102.72
+              }
+            ],
+            "duration": 102.73
+          },
+          "en": {
+            "text": "Further information about how your personal data is used is provided in the “What will happen to my data” section.\nWhat will happen to my data?\nData protection legislation requires that we, the University of Oxford (whose legal name is The Chancellor Masters and Scholars of the University of Oxford), state the legal basis for processing information about you. In the case of research, this is a ‘task in the public interest’. The University of Oxford is the sponsor for this study and is responsible for looking after your information and using it properly.\nWe will need to use information from you collected on the UnityBC questionnaire for this research project. We will share your information related to this research project with the following types of organisations such as responsible members of the University of Oxford and relevant regulatory bodies.\nWe may use third party service providers or subcontractors to help with some of the research activities we carry out (e.g. IT provision, survey provision, transcription services etc.). We may therefore share your personal data with these providers when it is necessary to do so to allow them to carry out the services we require them to provide. However, we require all our third-party providers to have appropriate security measures in place to protect your data and we only allow them to process your data for the specific purposes we have stated in our instructions.\nThis information will include your:\nName\nEmail address",
+            "sentences": [
+              {
+                "text": "Further information about how your personal data is used is provided in the “What will happen to my data” section.",
+                "charStart": 0,
+                "charEnd": 114,
+                "clip": "71eaba25594e7474f85cae423a8b24b37f3d6c1fbf64138d6a50797ce1692a91",
+                "start": 0.0,
+                "end": 6.9
+              },
+              {
+                "text": "What will happen to my data?",
+                "charStart": 115,
+                "charEnd": 143,
+                "clip": "24db898b48412bd6e257c90b60b6233b4d4c269cce0ac20d0cfbe499c3da4b55",
+                "start": 6.91,
+                "end": 9.06
+              },
+              {
+                "text": "Data protection legislation requires that we, the University of Oxford (whose legal name is The Chancellor Masters and Scholars of the University of Oxford), state the legal basis for processing information about you.",
+                "charStart": 144,
+                "charEnd": 361,
+                "clip": "e59f214a391f815b1b1dc720c4fc0685cc7d4a10d108bef857f8b3da9c6bb449",
+                "start": 9.07,
+                "end": 21.42
+              },
+              {
+                "text": "In the case of research, this is a ‘task in the public interest’.",
+                "charStart": 362,
+                "charEnd": 427,
+                "clip": "37c205fbfbc208ecb24def63a52010953f034041dc888226030db0af0775fe90",
+                "start": 21.43,
+                "end": 25.88
+              },
+              {
+                "text": "The University of Oxford is the sponsor for this study and is responsible for looking after your information and using it properly.",
+                "charStart": 428,
+                "charEnd": 559,
+                "clip": "92825aa59ff244c072f21e62dc3db430414fd4a5873691596b8447bb3ba5eb67",
+                "start": 25.89,
+                "end": 33.24
+              },
+              {
+                "text": "We will need to use information from you collected on the UnityBC questionnaire for this research project.",
+                "charStart": 560,
+                "charEnd": 666,
+                "clip": "bc8b79a0e8f8f70b8489795582ba0ce52f04c4b1a4bb7e1901254260e3cbe1e1",
+                "start": 33.25,
+                "end": 40.2
+              },
+              {
+                "text": "We will share your information related to this research project with the following types of organisations such as responsible members of the University of Oxford and relevant regulatory bodies.",
+                "charStart": 667,
+                "charEnd": 860,
+                "clip": "80a544f14f60e3bfa4b385eeb5d3f7297784d0ffdc70b129d6e306ce111e1cf0",
+                "start": 40.21,
+                "end": 51.26
+              },
+              {
+                "text": "We may use third party service providers or subcontractors to help with some of the research activities we carry out (e.g.",
+                "charStart": 861,
+                "charEnd": 983,
+                "clip": "d71045ef1c70f713919b37c7076ffa1ded685716d7e0f7d13c69128fc9b41cc9",
+                "start": 51.27,
+                "end": 58.82
+              },
+              {
+                "text": "IT provision, survey provision, transcription services etc.).",
+                "charStart": 984,
+                "charEnd": 1045,
+                "clip": "f15edee464056f404a1cd23bda8eb70eca83140d9b757f140878cc817d2bc688",
+                "start": 58.83,
+                "end": 63.43
+              },
+              {
+                "text": "We may therefore share your personal data with these providers when it is necessary to do so to allow them to carry out the services we require them to provide.",
+                "charStart": 1046,
+                "charEnd": 1206,
+                "clip": "0895c8deb97dee77b657422f14016cee39cc123bc1f28d738895bc57ebafbefb",
+                "start": 63.44,
+                "end": 72.79
+              },
+              {
+                "text": "However, we require all our third-party providers to have appropriate security measures in place to protect your data and we only allow them to process your data for the specific purposes we have stated in our instructions.",
+                "charStart": 1207,
+                "charEnd": 1430,
+                "clip": "90cb52a10988096b7c9843f870d92d86bc91190bddf0559a782125be11435b3b",
+                "start": 72.8,
+                "end": 85.75
+              },
+              {
+                "text": "This information will include your:",
+                "charStart": 1431,
+                "charEnd": 1466,
+                "clip": "900c99dc3174ec4fa5e15b18dcf75d22687d480839d107c83abc2446c85369ba",
+                "start": 85.76,
+                "end": 88.31
+              },
+              {
+                "text": "Name",
+                "charStart": 1467,
+                "charEnd": 1471,
+                "clip": "dcd1d5223f73b3a965c07e3ff5dbee3eedcfedb806686a05b9b3868a2c3d6d50",
+                "start": 88.32,
+                "end": 89.42
+              },
+              {
+                "text": "Email address",
+                "charStart": 1472,
+                "charEnd": 1485,
+                "clip": "f2488fd4ef4adbc6ac61300083f2c33980e48bb4bbf3c540ad760d61fc36f420",
+                "start": 89.43,
+                "end": 90.93
+              }
+            ],
+            "duration": 90.94
+          }
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 114,
+              "end": 6.9
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 126,
+              "end": 8.95
+            }
+          },
+          {
+            "en": {
+              "charStart": 115,
+              "start": 6.91,
+              "charEnd": 143,
+              "end": 9.06
+            },
+            "ur": {
+              "charStart": 128,
+              "start": 8.96,
+              "charEnd": 155,
+              "end": 11.11
+            }
+          },
+          {
+            "en": {
+              "charStart": 144,
+              "start": 9.07,
+              "charEnd": 361,
+              "end": 21.42
+            },
+            "ur": {
+              "charStart": 157,
+              "start": 11.12,
+              "charEnd": 387,
+              "end": 25.52
+            }
+          },
+          {
+            "en": {
+              "charStart": 362,
+              "start": 21.43,
+              "charEnd": 427,
+              "end": 25.88
+            },
+            "ur": {
+              "charStart": 388,
+              "start": 25.53,
+              "charEnd": 455,
+              "end": 30.08
+            }
+          },
+          {
+            "en": {
+              "charStart": 428,
+              "start": 25.89,
+              "charEnd": 559,
+              "end": 33.24
+            },
+            "ur": {
+              "charStart": 456,
+              "start": 30.09,
+              "charEnd": 589,
+              "end": 38.79
+            }
+          },
+          {
+            "en": {
+              "charStart": 560,
+              "start": 33.25,
+              "charEnd": 666,
+              "end": 40.2
+            },
+            "ur": {
+              "charStart": 591,
+              "start": 38.8,
+              "charEnd": 702,
+              "end": 46.7
+            }
+          },
+          {
+            "en": {
+              "charStart": 667,
+              "start": 40.21,
+              "charEnd": 860,
+              "end": 51.26
+            },
+            "ur": {
+              "charStart": 703,
+              "start": 46.71,
+              "charEnd": 852,
+              "end": 56.66
+            }
+          },
+          {
+            "en": {
+              "charStart": 861,
+              "start": 51.27,
+              "charEnd": 1045,
+              "end": 63.43
+            },
+            "ur": {
+              "charStart": 854,
+              "start": 56.67,
+              "charEnd": 1056,
+              "end": 70.27
+            }
+          },
+          {
+            "en": {
+              "charStart": 1046,
+              "start": 63.44,
+              "charEnd": 1206,
+              "end": 72.79
+            },
+            "ur": {
+              "charStart": 1057,
+              "start": 70.28,
+              "charEnd": 1195,
+              "end": 80.18
+            }
+          },
+          {
+            "en": {
+              "charStart": 1207,
+              "start": 72.8,
+              "charEnd": 1430,
+              "end": 85.75
+            },
+            "ur": {
+              "charStart": 1196,
+              "start": 80.19,
+              "charEnd": 1443,
+              "end": 96.49
+            }
+          },
+          {
+            "en": {
+              "charStart": 1431,
+              "start": 85.76,
+              "charEnd": 1466,
+              "end": 88.31
+            },
+            "ur": {
+              "charStart": 1445,
+              "start": 96.5,
+              "charEnd": 1494,
+              "end": 100.5
+            }
+          },
+          {
+            "en": {
+              "charStart": 1467,
+              "start": 88.32,
+              "charEnd": 1471,
+              "end": 89.42
+            },
+            "ur": {
+              "charStart": 1496,
+              "start": 100.51,
+              "charEnd": 1499,
+              "end": 101.56
+            }
+          },
+          {
+            "en": {
+              "charStart": 1472,
+              "start": 89.43,
+              "charEnd": 1485,
+              "end": 90.93
+            },
+            "ur": {
+              "charStart": 1501,
+              "start": 101.57,
+              "charEnd": 1511,
+              "end": 102.72
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-a24d27eba65e82ecde8e.mp3",
+          "en": "/assets/audio/en-181fd05f2e642a0fb1a1.mp3"
+        }
+      },
+      {
+        "id": "pis-s0008",
+        "titles": {
+          "en": "Data access and confidentiality",
+          "cs": "Informace pro účastnice · 8"
+        },
+        "text": {
+          "en": "People will use this information to do the research or to check your records to make sure that the research is being done properly. Responsible members of the University of Oxford, [and] regulatory authorities [and the relevant NHS Trust(s)] may be given access to data for monitoring and/or audit of the study to ensure that the research is complying with applicable regulations.\nPeople who do not need to know who you are will not be able to see your name or contact details. Your data will have a code number instead.\nWe will keep all information about you safe and secure by:\nStrict adherence to the UK GDPR regulations\nstoring information on secure servers within the UK\nensuring that access to the data is only available to authorised members of the UnityBC study team\nInternational Transfers\nYour personal data will not be shared outside the UK.\nOnce we have finished the study, we will keep some of the data so we can check the results. We will write our reports in a way that no-one can work out that you took part in the study.\nAfter the study ends, the retention period (this means the length of time we keep your data for) will begin and we will keep your data for a minimum of 5 years in line with the University Policy on Management of Data. Once the retention period has finished, the study data will be kept in a way that does not identify you.\nWhat are your choices about how your information is used?",
+          "ur": "لوگ اس معلومات کو تحقیق کرنے یا آپ کے ریکارڈ چیک کرنے کے لیے استعمال کریں گے تاکہ یہ یقینی بنایا جا سکے کہ تحقیق درست طریقے سے کی جا رہی ہے۔ University of Oxford کے ذمہ دار ارکان، [اور] ضابطہ کار حکام [اور متعلقہ NHS Trust(s)] کو اسٹڈی کی نگرانی اور/یا آڈٹ کے لیے ڈیٹا تک رسائی دی جا سکتی ہے تاکہ یہ یقینی بنایا جا سکے کہ تحقیق قابلِ اطلاق ضوابط کے مطابق ہو رہی ہے۔\n\nجن لوگوں کو آپ کی شناخت جاننے کی ضرورت نہیں ہے، وہ آپ کا نام یا رابطے کی تفصیلات نہیں دیکھ سکیں گے۔ اس کے بجائے آپ کے ڈیٹا کے ساتھ ایک کوڈ نمبر منسلک ہوگا۔\n\nہم آپ کے بارے میں تمام معلومات کو درج ذیل طریقوں سے محفوظ رکھیں گے:\n\nUK GDPR کے ضوابط کی سختی سے پابندی\n\nمعلومات کو UK کے اندر محفوظ سرورز پر رکھنا\n\nاس بات کو یقینی بنانا کہ ڈیٹا تک رسائی صرف UnityBC اسٹڈی ٹیم کے مجاز ارکان کو حاصل ہو\n\nبین الاقوامی منتقلیاں\n\nآپ کا ذاتی ڈیٹا UK سے باہر شیئر نہیں کیا جائے گا۔\n\nاسٹڈی مکمل ہونے کے بعد، ہم نتائج کی جانچ کے لیے کچھ ڈیٹا محفوظ رکھیں گے۔ ہم اپنی رپورٹس اس طرح لکھیں گے کہ کوئی یہ معلوم نہ کر سکے کہ آپ نے اسٹڈی میں حصہ لیا تھا۔\n\nاسٹڈی ختم ہونے کے بعد، ڈیٹا محفوظ رکھنے کی مدت شروع ہوگی (یعنی وہ مدت جس کے لیے ہم آپ کا ڈیٹا رکھتے ہیں) اور University کی ڈیٹا کے انتظام سے متعلق پالیسی کے مطابق ہم آپ کا ڈیٹا کم از کم 5 سال تک محفوظ رکھیں گے۔ ڈیٹا محفوظ رکھنے کی مدت ختم ہونے کے بعد، اسٹڈی کا ڈیٹا اس طرح رکھا جائے گا کہ آپ کی شناخت نہ ہو سکے۔\n\nآپ کی معلومات کے استعمال کے بارے میں آپ کے پاس کیا اختیارات ہیں؟"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "p",
+              "text": "People will use this information to do the research or to check your records to make sure that the research is being done properly. Responsible members of the University of Oxford, [and] regulatory authorities [and the relevant NHS Trust(s)] may be given access to data for monitoring and/or audit of the study to ensure that the research is complying with applicable regulations."
+            },
+            {
+              "type": "p",
+              "text": "People who do not need to know who you are will not be able to see your name or contact details. Your data will have a code number instead."
+            },
+            {
+              "type": "p",
+              "text": "We will keep all information about you safe and secure by:"
+            },
+            {
+              "type": "p",
+              "text": "Strict adherence to the UK GDPR regulations"
+            },
+            {
+              "type": "p",
+              "text": "storing information on secure servers within the UK"
+            },
+            {
+              "type": "p",
+              "text": "ensuring that access to the data is only available to authorised members of the UnityBC study team"
+            },
+            {
+              "type": "p",
+              "text": "International Transfers"
+            },
+            {
+              "type": "p",
+              "text": "Your personal data will not be shared outside the UK."
+            },
+            {
+              "type": "p",
+              "text": "Once we have finished the study, we will keep some of the data so we can check the results. We will write our reports in a way that no-one can work out that you took part in the study."
+            },
+            {
+              "type": "p",
+              "text": "After the study ends, the retention period (this means the length of time we keep your data for) will begin and we will keep your data for a minimum of 5 years in line with the University Policy on Management of Data. Once the retention period has finished, the study data will be kept in a way that does not identify you."
+            },
+            {
+              "type": "p",
+              "text": "What are your choices about how your information is used?"
+            }
+          ],
+          "ur": [
+            {
+              "type": "p",
+              "text": "لوگ اس معلومات کو تحقیق کرنے یا آپ کے ریکارڈ چیک کرنے کے لیے استعمال کریں گے تاکہ یہ یقینی بنایا جا سکے کہ تحقیق درست طریقے سے کی جا رہی ہے۔ University of Oxford کے ذمہ دار ارکان، [اور] ضابطہ کار حکام [اور متعلقہ NHS Trust(s)] کو اسٹڈی کی نگرانی اور/یا آڈٹ کے لیے ڈیٹا تک رسائی دی جا سکتی ہے تاکہ یہ یقینی بنایا جا سکے کہ تحقیق قابلِ اطلاق ضوابط کے مطابق ہو رہی ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "جن لوگوں کو آپ کی شناخت جاننے کی ضرورت نہیں ہے، وہ آپ کا نام یا رابطے کی تفصیلات نہیں دیکھ سکیں گے۔ اس کے بجائے آپ کے ڈیٹا کے ساتھ ایک کوڈ نمبر منسلک ہوگا۔"
+            },
+            {
+              "type": "p",
+              "text": "ہم آپ کے بارے میں تمام معلومات کو درج ذیل طریقوں سے محفوظ رکھیں گے:"
+            },
+            {
+              "type": "p",
+              "text": "UK GDPR کے ضوابط کی سختی سے پابندی"
+            },
+            {
+              "type": "p",
+              "text": "معلومات کو UK کے اندر محفوظ سرورز پر رکھنا"
+            },
+            {
+              "type": "p",
+              "text": "اس بات کو یقینی بنانا کہ ڈیٹا تک رسائی صرف UnityBC اسٹڈی ٹیم کے مجاز ارکان کو حاصل ہو"
+            },
+            {
+              "type": "p",
+              "text": "بین الاقوامی منتقلیاں"
+            },
+            {
+              "type": "p",
+              "text": "آپ کا ذاتی ڈیٹا UK سے باہر شیئر نہیں کیا جائے گا۔"
+            },
+            {
+              "type": "p",
+              "text": "اسٹڈی مکمل ہونے کے بعد، ہم نتائج کی جانچ کے لیے کچھ ڈیٹا محفوظ رکھیں گے۔ ہم اپنی رپورٹس اس طرح لکھیں گے کہ کوئی یہ معلوم نہ کر سکے کہ آپ نے اسٹڈی میں حصہ لیا تھا۔"
+            },
+            {
+              "type": "p",
+              "text": "اسٹڈی ختم ہونے کے بعد، ڈیٹا محفوظ رکھنے کی مدت شروع ہوگی (یعنی وہ مدت جس کے لیے ہم آپ کا ڈیٹا رکھتے ہیں) اور University کی ڈیٹا کے انتظام سے متعلق پالیسی کے مطابق ہم آپ کا ڈیٹا کم از کم 5 سال تک محفوظ رکھیں گے۔ ڈیٹا محفوظ رکھنے کی مدت ختم ہونے کے بعد، اسٹڈی کا ڈیٹا اس طرح رکھا جائے گا کہ آپ کی شناخت نہ ہو سکے۔"
+            },
+            {
+              "type": "p",
+              "text": "آپ کی معلومات کے استعمال کے بارے میں آپ کے پاس کیا اختیارات ہیں؟"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "لوگ اس معلومات کو تحقیق کرنے یا آپ کے ریکارڈ چیک کرنے کے لیے استعمال کریں گے تاکہ یہ یقینی بنایا جا سکے کہ تحقیق درست طریقے سے کی جا رہی ہے۔ University of Oxford کے ذمہ دار ارکان، [اور] ضابطہ کار حکام [اور متعلقہ NHS Trust(s)] کو اسٹڈی کی نگرانی اور/یا آڈٹ کے لیے ڈیٹا تک رسائی دی جا سکتی ہے تاکہ یہ یقینی بنایا جا سکے کہ تحقیق قابلِ اطلاق ضوابط کے مطابق ہو رہی ہے۔\n\nجن لوگوں کو آپ کی شناخت جاننے کی ضرورت نہیں ہے، وہ آپ کا نام یا رابطے کی تفصیلات نہیں دیکھ سکیں گے۔ اس کے بجائے آپ کے ڈیٹا کے ساتھ ایک کوڈ نمبر منسلک ہوگا۔\n\nہم آپ کے بارے میں تمام معلومات کو درج ذیل طریقوں سے محفوظ رکھیں گے:\n\nUK GDPR کے ضوابط کی سختی سے پابندی\n\nمعلومات کو UK کے اندر محفوظ سرورز پر رکھنا\n\nاس بات کو یقینی بنانا کہ ڈیٹا تک رسائی صرف UnityBC اسٹڈی ٹیم کے مجاز ارکان کو حاصل ہو\n\nبین الاقوامی منتقلیاں\n\nآپ کا ذاتی ڈیٹا UK سے باہر شیئر نہیں کیا جائے گا۔\n\nاسٹڈی مکمل ہونے کے بعد، ہم نتائج کی جانچ کے لیے کچھ ڈیٹا محفوظ رکھیں گے۔ ہم اپنی رپورٹس اس طرح لکھیں گے کہ کوئی یہ معلوم نہ کر سکے کہ آپ نے اسٹڈی میں حصہ لیا تھا۔\n\nاسٹڈی ختم ہونے کے بعد، ڈیٹا محفوظ رکھنے کی مدت شروع ہوگی (یعنی وہ مدت جس کے لیے ہم آپ کا ڈیٹا رکھتے ہیں) اور University کی ڈیٹا کے انتظام سے متعلق پالیسی کے مطابق ہم آپ کا ڈیٹا کم از کم 5 سال تک محفوظ رکھیں گے۔ ڈیٹا محفوظ رکھنے کی مدت ختم ہونے کے بعد، اسٹڈی کا ڈیٹا اس طرح رکھا جائے گا کہ آپ کی شناخت نہ ہو سکے۔\n\nآپ کی معلومات کے استعمال کے بارے میں آپ کے پاس کیا اختیارات ہیں؟",
+            "sentences": [
+              {
+                "text": "لوگ اس معلومات کو تحقیق کرنے یا آپ کے ریکارڈ چیک کرنے کے لیے استعمال کریں گے تاکہ یہ یقینی بنایا جا سکے کہ تحقیق درست طریقے سے کی جا رہی ہے۔",
+                "charStart": 0,
+                "charEnd": 140,
+                "start": 0.0,
+                "end": 9.55
+              },
+              {
+                "text": "University of Oxford کے ذمہ دار ارکان، [اور] ضابطہ کار حکام [اور متعلقہ NHS Trust(s)] کو اسٹڈی کی نگرانی اور/یا آڈٹ کے لیے ڈیٹا تک رسائی دی جا سکتی ہے تاکہ یہ یقینی بنایا جا سکے کہ تحقیق قابلِ اطلاق ضوابط کے مطابق ہو رہی ہے۔",
+                "charStart": 141,
+                "charEnd": 365,
+                "start": 9.56,
+                "end": 25.76
+              },
+              {
+                "text": "جن لوگوں کو آپ کی شناخت جاننے کی ضرورت نہیں ہے، وہ آپ کا نام یا رابطے کی تفصیلات نہیں دیکھ سکیں گے۔",
+                "charStart": 367,
+                "charEnd": 466,
+                "start": 25.77,
+                "end": 32.52
+              },
+              {
+                "text": "اس کے بجائے آپ کے ڈیٹا کے ساتھ ایک کوڈ نمبر منسلک ہوگا۔",
+                "charStart": 467,
+                "charEnd": 522,
+                "start": 32.53,
+                "end": 36.63
+              },
+              {
+                "text": "ہم آپ کے بارے میں تمام معلومات کو درج ذیل طریقوں سے محفوظ رکھیں گے:",
+                "charStart": 524,
+                "charEnd": 591,
+                "start": 36.64,
+                "end": 41.44
+              },
+              {
+                "text": "UK GDPR کے ضوابط کی سختی سے پابندی",
+                "charStart": 593,
+                "charEnd": 627,
+                "start": 41.45,
+                "end": 45.3
+              },
+              {
+                "text": "معلومات کو UK کے اندر محفوظ سرورز پر رکھنا",
+                "charStart": 629,
+                "charEnd": 671,
+                "start": 45.31,
+                "end": 49.11
+              },
+              {
+                "text": "اس بات کو یقینی بنانا کہ ڈیٹا تک رسائی صرف UnityBC اسٹڈی ٹیم کے مجاز ارکان کو حاصل ہو",
+                "charStart": 673,
+                "charEnd": 758,
+                "start": 49.12,
+                "end": 55.62
+              },
+              {
+                "text": "بین الاقوامی منتقلیاں",
+                "charStart": 760,
+                "charEnd": 781,
+                "start": 55.63,
+                "end": 57.68
+              },
+              {
+                "text": "آپ کا ذاتی ڈیٹا UK سے باہر شیئر نہیں کیا جائے گا۔",
+                "charStart": 783,
+                "charEnd": 832,
+                "start": 57.69,
+                "end": 61.59
+              },
+              {
+                "text": "اسٹڈی مکمل ہونے کے بعد، ہم نتائج کی جانچ کے لیے کچھ ڈیٹا محفوظ رکھیں گے۔",
+                "charStart": 834,
+                "charEnd": 906,
+                "start": 61.6,
+                "end": 66.75
+              },
+              {
+                "text": "ہم اپنی رپورٹس اس طرح لکھیں گے کہ کوئی یہ معلوم نہ کر سکے کہ آپ نے اسٹڈی میں حصہ لیا تھا۔",
+                "charStart": 907,
+                "charEnd": 996,
+                "start": 66.76,
+                "end": 73.11
+              },
+              {
+                "text": "اسٹڈی ختم ہونے کے بعد، ڈیٹا محفوظ رکھنے کی مدت شروع ہوگی (یعنی وہ مدت جس کے لیے ہم آپ کا ڈیٹا رکھتے ہیں) اور University کی ڈیٹا کے انتظام سے متعلق پالیسی کے مطابق ہم آپ کا ڈیٹا کم از کم 5 سال تک محفوظ رکھیں گے۔",
+                "charStart": 998,
+                "charEnd": 1208,
+                "start": 73.12,
+                "end": 86.87
+              },
+              {
+                "text": "ڈیٹا محفوظ رکھنے کی مدت ختم ہونے کے بعد، اسٹڈی کا ڈیٹا اس طرح رکھا جائے گا کہ آپ کی شناخت نہ ہو سکے۔",
+                "charStart": 1209,
+                "charEnd": 1309,
+                "start": 86.88,
+                "end": 94.23
+              },
+              {
+                "text": "آپ کی معلومات کے استعمال کے بارے میں آپ کے پاس کیا اختیارات ہیں؟",
+                "charStart": 1311,
+                "charEnd": 1375,
+                "start": 94.24,
+                "end": 99.34
+              }
+            ],
+            "duration": 99.35
+          },
+          "en": {
+            "text": "People will use this information to do the research or to check your records to make sure that the research is being done properly. Responsible members of the University of Oxford, [and] regulatory authorities [and the relevant NHS Trust(s)] may be given access to data for monitoring and/or audit of the study to ensure that the research is complying with applicable regulations.\nPeople who do not need to know who you are will not be able to see your name or contact details. Your data will have a code number instead.\nWe will keep all information about you safe and secure by:\nStrict adherence to the UK GDPR regulations\nstoring information on secure servers within the UK\nensuring that access to the data is only available to authorised members of the UnityBC study team\nInternational Transfers\nYour personal data will not be shared outside the UK.\nOnce we have finished the study, we will keep some of the data so we can check the results. We will write our reports in a way that no-one can work out that you took part in the study.\nAfter the study ends, the retention period (this means the length of time we keep your data for) will begin and we will keep your data for a minimum of 5 years in line with the University Policy on Management of Data. Once the retention period has finished, the study data will be kept in a way that does not identify you.\nWhat are your choices about how your information is used?",
+            "sentences": [
+              {
+                "text": "People will use this information to do the research or to check your records to make sure that the research is being done properly.",
+                "charStart": 0,
+                "charEnd": 131,
+                "clip": "f6ab3d02ec4a19b0b418e409bfd9ed858080ee6fa2a6615e00e0e5dbf2400d9a",
+                "start": 0.0,
+                "end": 6.9
+              },
+              {
+                "text": "Responsible members of the University of Oxford, [and] regulatory authorities [and the relevant NHS Trust(s)] may be given access to data for monitoring and/or audit of the study to ensure that the research is complying with applicable regulations.",
+                "charStart": 132,
+                "charEnd": 380,
+                "clip": "6e1b1779e701999c0f68d04125d0b602ac0991fff53d30af451baa4465a27fdc",
+                "start": 6.91,
+                "end": 21.11
+              },
+              {
+                "text": "People who do not need to know who you are will not be able to see your name or contact details.",
+                "charStart": 381,
+                "charEnd": 477,
+                "clip": "40a94fe91009ddd2598cdd15f84d46e0e82707071fd9f4ea28e52c67eaa09229",
+                "start": 21.12,
+                "end": 26.27
+              },
+              {
+                "text": "Your data will have a code number instead.",
+                "charStart": 478,
+                "charEnd": 520,
+                "clip": "c3ab1634d3b6284a414fe51fc43c5641ea780bdc533ecc7aa8900fb3812a4ec5",
+                "start": 26.28,
+                "end": 29.23
+              },
+              {
+                "text": "We will keep all information about you safe and secure by:",
+                "charStart": 521,
+                "charEnd": 579,
+                "clip": "edc9771bb42f49cccbc439eb1a20931dfafd21252c395758b4fd730f06f4d4ec",
+                "start": 29.24,
+                "end": 33.29
+              },
+              {
+                "text": "Strict adherence to the UK GDPR regulations",
+                "charStart": 580,
+                "charEnd": 623,
+                "clip": "b8e0499642e013703ed122c4b9e92a52f4f1c2b53c28d310a051f24f5f392657",
+                "start": 33.3,
+                "end": 37.5
+              },
+              {
+                "text": "storing information on secure servers within the UK",
+                "charStart": 624,
+                "charEnd": 675,
+                "clip": "f722b37061a73ea6c8c52efaec7b3d6b4cc329900da8bd0a771dfb4ccb5854ad",
+                "start": 37.51,
+                "end": 41.16
+              },
+              {
+                "text": "ensuring that access to the data is only available to authorised members of the UnityBC study team",
+                "charStart": 676,
+                "charEnd": 774,
+                "clip": "d7b93363a93c781ee8cbd5b5382482b4fe9a979d6dac330f6b76e9f255f3deb0",
+                "start": 41.17,
+                "end": 48.37
+              },
+              {
+                "text": "International Transfers",
+                "charStart": 775,
+                "charEnd": 798,
+                "clip": "8f4e0cd17782cc75425e445639d4eae44aad651c0a3372a3a010ae01baab16d9",
+                "start": 48.38,
+                "end": 50.23
+              },
+              {
+                "text": "Your personal data will not be shared outside the UK.",
+                "charStart": 799,
+                "charEnd": 852,
+                "clip": "c9b568fd4c8447d8ae13d324ef69c1b04bb18edfca3458f9195796714eb1d0cd",
+                "start": 50.24,
+                "end": 54.54
+              },
+              {
+                "text": "Once we have finished the study, we will keep some of the data so we can check the results.",
+                "charStart": 853,
+                "charEnd": 944,
+                "clip": "8b9b28c75f3ce781f8443f5de4ea0adb0d4705955b0384d716fffca0e7b36eb4",
+                "start": 54.55,
+                "end": 60.15
+              },
+              {
+                "text": "We will write our reports in a way that no-one can work out that you took part in the study.",
+                "charStart": 945,
+                "charEnd": 1037,
+                "clip": "08564a410df58ec8ae7c3d1cb5ab846b5ac3389b604a17f131f84d683515f9c7",
+                "start": 60.16,
+                "end": 65.31
+              },
+              {
+                "text": "After the study ends, the retention period (this means the length of time we keep your data for) will begin and we will keep your data for a minimum of 5 years in line with the University Policy on Management of Data.",
+                "charStart": 1038,
+                "charEnd": 1255,
+                "clip": "b486ced02736c13d1a5b78920c04c2c7fbf213bf66c1891b7f905d9bc5c8f05e",
+                "start": 65.32,
+                "end": 78.12
+              },
+              {
+                "text": "Once the retention period has finished, the study data will be kept in a way that does not identify you.",
+                "charStart": 1256,
+                "charEnd": 1360,
+                "clip": "b4c6778e6261f436c9c99b943a7e77ef335c9fa5475499c02a6ef7cbe9cb486c",
+                "start": 78.13,
+                "end": 84.93
+              },
+              {
+                "text": "What are your choices about how your information is used?",
+                "charStart": 1361,
+                "charEnd": 1418,
+                "clip": "5d02a35540ded5c38642a64db9d45d0815920253f416ee2620e279ba7951d7f1",
+                "start": 84.94,
+                "end": 89.04
+              }
+            ],
+            "duration": 89.05
+          }
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 131,
+              "end": 6.9
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 140,
+              "end": 9.55
+            }
+          },
+          {
+            "en": {
+              "charStart": 132,
+              "start": 6.91,
+              "charEnd": 380,
+              "end": 21.11
+            },
+            "ur": {
+              "charStart": 141,
+              "start": 9.56,
+              "charEnd": 365,
+              "end": 25.76
+            }
+          },
+          {
+            "en": {
+              "charStart": 381,
+              "start": 21.12,
+              "charEnd": 477,
+              "end": 26.27
+            },
+            "ur": {
+              "charStart": 367,
+              "start": 25.77,
+              "charEnd": 466,
+              "end": 32.52
+            }
+          },
+          {
+            "en": {
+              "charStart": 478,
+              "start": 26.28,
+              "charEnd": 520,
+              "end": 29.23
+            },
+            "ur": {
+              "charStart": 467,
+              "start": 32.53,
+              "charEnd": 522,
+              "end": 36.63
+            }
+          },
+          {
+            "en": {
+              "charStart": 521,
+              "start": 29.24,
+              "charEnd": 579,
+              "end": 33.29
+            },
+            "ur": {
+              "charStart": 524,
+              "start": 36.64,
+              "charEnd": 591,
+              "end": 41.44
+            }
+          },
+          {
+            "en": {
+              "charStart": 580,
+              "start": 33.3,
+              "charEnd": 623,
+              "end": 37.5
+            },
+            "ur": {
+              "charStart": 593,
+              "start": 41.45,
+              "charEnd": 627,
+              "end": 45.3
+            }
+          },
+          {
+            "en": {
+              "charStart": 624,
+              "start": 37.51,
+              "charEnd": 675,
+              "end": 41.16
+            },
+            "ur": {
+              "charStart": 629,
+              "start": 45.31,
+              "charEnd": 671,
+              "end": 49.11
+            }
+          },
+          {
+            "en": {
+              "charStart": 676,
+              "start": 41.17,
+              "charEnd": 774,
+              "end": 48.37
+            },
+            "ur": {
+              "charStart": 673,
+              "start": 49.12,
+              "charEnd": 758,
+              "end": 55.62
+            }
+          },
+          {
+            "en": {
+              "charStart": 775,
+              "start": 48.38,
+              "charEnd": 798,
+              "end": 50.23
+            },
+            "ur": {
+              "charStart": 760,
+              "start": 55.63,
+              "charEnd": 781,
+              "end": 57.68
+            }
+          },
+          {
+            "en": {
+              "charStart": 799,
+              "start": 50.24,
+              "charEnd": 852,
+              "end": 54.54
+            },
+            "ur": {
+              "charStart": 783,
+              "start": 57.69,
+              "charEnd": 832,
+              "end": 61.59
+            }
+          },
+          {
+            "en": {
+              "charStart": 853,
+              "start": 54.55,
+              "charEnd": 944,
+              "end": 60.15
+            },
+            "ur": {
+              "charStart": 834,
+              "start": 61.6,
+              "charEnd": 906,
+              "end": 66.75
+            }
+          },
+          {
+            "en": {
+              "charStart": 945,
+              "start": 60.16,
+              "charEnd": 1037,
+              "end": 65.31
+            },
+            "ur": {
+              "charStart": 907,
+              "start": 66.76,
+              "charEnd": 996,
+              "end": 73.11
+            }
+          },
+          {
+            "en": {
+              "charStart": 1038,
+              "start": 65.32,
+              "charEnd": 1255,
+              "end": 78.12
+            },
+            "ur": {
+              "charStart": 998,
+              "start": 73.12,
+              "charEnd": 1208,
+              "end": 86.87
+            }
+          },
+          {
+            "en": {
+              "charStart": 1256,
+              "start": 78.13,
+              "charEnd": 1360,
+              "end": 84.93
+            },
+            "ur": {
+              "charStart": 1209,
+              "start": 86.88,
+              "charEnd": 1309,
+              "end": 94.23
+            }
+          },
+          {
+            "en": {
+              "charStart": 1361,
+              "start": 84.94,
+              "charEnd": 1418,
+              "end": 89.04
+            },
+            "ur": {
+              "charStart": 1311,
+              "start": 94.24,
+              "charEnd": 1375,
+              "end": 99.34
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-0b3baf8b62547f7d1ec4.mp3",
+          "en": "/assets/audio/en-0e8de57267a8e656dc36.mp3"
+        }
+      },
+      {
+        "id": "pis-s0009",
+        "titles": {
+          "en": "Your data rights",
+          "cs": "Informace pro účastnice · 9"
+        },
+        "text": {
+          "en": "You can stop being part of the study at any time, without giving a reason, but we will keep information about you that we already have. You have the right to ask us to remove, change or delete data we hold about you for the purposes of the study. We might not always be able to do this if it means we cannot use your data to do the research. If so, we will tell you why we cannot do this.\nYou can find out more about how we use your information, including the specific mechanism used by us when transferring your personal data out of the UK by:\nasking one of the research team by emailing unitybc@ndph.ox.ac.uk\nsending an email to unitybc@ndph.ox.ac.uk\ncalling us on 01865 289390\ncontacting the University’s Data Protection Officer data.protection@admin.ox.ac.uk\nlooking at the University’s privacy notice available at: https://compliance.admin.ox.ac.uk/research-data.\nIf you would like to find out more about the use of confidential data in research, the HRA has developed a general information leaflet which is available at: https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/data-protection-and-information-governance/gdpr-guidance/templates/template-wording-for-generic-information-document/.\nHow have patients and the public been involved in UnityBC?\nThe UnityBC study is supported by a dedicated Ethnicity and Breast Cancer Patient and Public Involvement Group. This group is hosted by the Cancer Epidemiology Unit and the Oxford Cancer Centre. https://www.ceu.ox.ac.uk/research/ethnicity-and-breast-cancer/oxford-cancer-ethnicity-and-breast-cancer-patient-and-public-involvement-ppi-group",
+          "ur": "آپ کسی بھی وقت، بغیر کوئی وجہ بتائے، اس اسٹڈی سے دستبردار ہو سکتی ہیں، لیکن ہم آپ کے بارے میں وہ معلومات محفوظ رکھیں گے جو ہمارے پاس پہلے سے موجود ہیں۔ آپ کو یہ حق حاصل ہے کہ آپ ہم سے کہیں کہ اسٹڈی کے مقاصد کے لیے ہمارے پاس موجود آپ کا ڈیٹا ہٹا دیا جائے، تبدیل کیا جائے یا حذف کر دیا جائے۔ اگر ایسا کرنے سے ہم آپ کا ڈیٹا تحقیق کے لیے استعمال نہ کر سکیں، تو ممکن ہے کہ ہم ہر بار ایسا نہ کر سکیں۔ اگر ایسا ہوا تو ہم آپ کو بتائیں گے کہ ہم ایسا کیوں نہیں کر سکتے۔\n\nآپ درج ذیل طریقوں سے یہ جان سکتی ہیں کہ ہم آپ کی معلومات کیسے استعمال کرتے ہیں، بشمول اس مخصوص طریقۂ کار کے جو ہم آپ کا ذاتی ڈیٹا UK سے باہر منتقل کرتے وقت استعمال کرتے ہیں:\n\nریسرچ ٹیم کے کسی رکن سے unitybc@ndph.ox.ac.uk پر ای میل کے ذریعے پوچھ کر\n\nunitybc@ndph.ox.ac.uk پر ای میل بھیج کر\n\nہمیں 01865 289390 پر فون کر کے\n\nUniversity کے Data Protection Officer سے data.protection@admin.ox.ac.uk پر رابطہ کر کے\n\nUniversity کا رازداری کا نوٹس یہاں دیکھ کر: https://compliance.admin.ox.ac.uk/research-data۔\n\nاگر آپ تحقیق میں خفیہ ڈیٹا کے استعمال کے بارے میں مزید جاننا چاہتی ہیں، تو HRA نے ایک عمومی معلوماتی کتابچہ تیار کیا ہے، جو یہاں دستیاب ہے: https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/data-protection-and-information-governance/gdpr-guidance/templates/template-wording-for-generic-information-document/۔\n\nمریضوں اور عوام کو UnityBC میں کیسے شامل کیا گیا ہے؟\n\nUnityBC اسٹڈی کو Ethnicity and Breast Cancer Patient and Public Involvement Group کی معاونت حاصل ہے (نسلی پس منظر اور چھاتی کے کینسر سے متعلق مریضوں اور عوامی شمولیت کا ایک مخصوص گروپ)۔ اس گروپ کی میزبانی Cancer Epidemiology Unit اور Oxford Cancer Centre کرتے ہیں۔ https://www.ceu.ox.ac.uk/research/ethnicity-and-breast-cancer/oxford-cancer-ethnicity-and-breast-cancer-patient-and-public-involvement-ppi-group"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "p",
+              "text": "You can stop being part of the study at any time, without giving a reason, but we will keep information about you that we already have. You have the right to ask us to remove, change or delete data we hold about you for the purposes of the study. We might not always be able to do this if it means we cannot use your data to do the research. If so, we will tell you why we cannot do this."
+            },
+            {
+              "type": "p",
+              "text": "You can find out more about how we use your information, including the specific mechanism used by us when transferring your personal data out of the UK by:"
+            },
+            {
+              "type": "p",
+              "text": "asking one of the research team by emailing unitybc@ndph.ox.ac.uk"
+            },
+            {
+              "type": "p",
+              "text": "sending an email to unitybc@ndph.ox.ac.uk"
+            },
+            {
+              "type": "p",
+              "text": "calling us on 01865 289390"
+            },
+            {
+              "type": "p",
+              "text": "contacting the University’s Data Protection Officer data.protection@admin.ox.ac.uk"
+            },
+            {
+              "type": "p",
+              "text": "looking at the University’s privacy notice available at: https://compliance.admin.ox.ac.uk/research-data."
+            },
+            {
+              "type": "p",
+              "text": "If you would like to find out more about the use of confidential data in research, the HRA has developed a general information leaflet which is available at: https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/data-protection-and-information-governance/gdpr-guidance/templates/template-wording-for-generic-information-document/."
+            },
+            {
+              "type": "p",
+              "text": "How have patients and the public been involved in UnityBC?"
+            },
+            {
+              "type": "p",
+              "text": "The UnityBC study is supported by a dedicated Ethnicity and Breast Cancer Patient and Public Involvement Group. This group is hosted by the Cancer Epidemiology Unit and the Oxford Cancer Centre. https://www.ceu.ox.ac.uk/research/ethnicity-and-breast-cancer/oxford-cancer-ethnicity-and-breast-cancer-patient-and-public-involvement-ppi-group"
+            }
+          ],
+          "ur": [
+            {
+              "type": "p",
+              "text": "آپ کسی بھی وقت، بغیر کوئی وجہ بتائے، اس اسٹڈی سے دستبردار ہو سکتی ہیں، لیکن ہم آپ کے بارے میں وہ معلومات محفوظ رکھیں گے جو ہمارے پاس پہلے سے موجود ہیں۔ آپ کو یہ حق حاصل ہے کہ آپ ہم سے کہیں کہ اسٹڈی کے مقاصد کے لیے ہمارے پاس موجود آپ کا ڈیٹا ہٹا دیا جائے، تبدیل کیا جائے یا حذف کر دیا جائے۔ اگر ایسا کرنے سے ہم آپ کا ڈیٹا تحقیق کے لیے استعمال نہ کر سکیں، تو ممکن ہے کہ ہم ہر بار ایسا نہ کر سکیں۔ اگر ایسا ہوا تو ہم آپ کو بتائیں گے کہ ہم ایسا کیوں نہیں کر سکتے۔"
+            },
+            {
+              "type": "p",
+              "text": "آپ درج ذیل طریقوں سے یہ جان سکتی ہیں کہ ہم آپ کی معلومات کیسے استعمال کرتے ہیں، بشمول اس مخصوص طریقۂ کار کے جو ہم آپ کا ذاتی ڈیٹا UK سے باہر منتقل کرتے وقت استعمال کرتے ہیں:"
+            },
+            {
+              "type": "p",
+              "text": "ریسرچ ٹیم کے کسی رکن سے unitybc@ndph.ox.ac.uk پر ای میل کے ذریعے پوچھ کر"
+            },
+            {
+              "type": "p",
+              "text": "unitybc@ndph.ox.ac.uk پر ای میل بھیج کر"
+            },
+            {
+              "type": "p",
+              "text": "ہمیں 01865 289390 پر فون کر کے"
+            },
+            {
+              "type": "p",
+              "text": "University کے Data Protection Officer سے data.protection@admin.ox.ac.uk پر رابطہ کر کے"
+            },
+            {
+              "type": "p",
+              "text": "University کا رازداری کا نوٹس یہاں دیکھ کر: https://compliance.admin.ox.ac.uk/research-data۔"
+            },
+            {
+              "type": "p",
+              "text": "اگر آپ تحقیق میں خفیہ ڈیٹا کے استعمال کے بارے میں مزید جاننا چاہتی ہیں، تو HRA نے ایک عمومی معلوماتی کتابچہ تیار کیا ہے، جو یہاں دستیاب ہے: https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/data-protection-and-information-governance/gdpr-guidance/templates/template-wording-for-generic-information-document/۔"
+            },
+            {
+              "type": "p",
+              "text": "مریضوں اور عوام کو UnityBC میں کیسے شامل کیا گیا ہے؟"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC اسٹڈی کو Ethnicity and Breast Cancer Patient and Public Involvement Group کی معاونت حاصل ہے (نسلی پس منظر اور چھاتی کے کینسر سے متعلق مریضوں اور عوامی شمولیت کا ایک مخصوص گروپ)۔ اس گروپ کی میزبانی Cancer Epidemiology Unit اور Oxford Cancer Centre کرتے ہیں۔ https://www.ceu.ox.ac.uk/research/ethnicity-and-breast-cancer/oxford-cancer-ethnicity-and-breast-cancer-patient-and-public-involvement-ppi-group"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "آپ کسی بھی وقت، بغیر کوئی وجہ بتائے، اس اسٹڈی سے دستبردار ہو سکتی ہیں، لیکن ہم آپ کے بارے میں وہ معلومات محفوظ رکھیں گے جو ہمارے پاس پہلے سے موجود ہیں۔ آپ کو یہ حق حاصل ہے کہ آپ ہم سے کہیں کہ اسٹڈی کے مقاصد کے لیے ہمارے پاس موجود آپ کا ڈیٹا ہٹا دیا جائے، تبدیل کیا جائے یا حذف کر دیا جائے۔ اگر ایسا کرنے سے ہم آپ کا ڈیٹا تحقیق کے لیے استعمال نہ کر سکیں، تو ممکن ہے کہ ہم ہر بار ایسا نہ کر سکیں۔ اگر ایسا ہوا تو ہم آپ کو بتائیں گے کہ ہم ایسا کیوں نہیں کر سکتے۔\n\nآپ درج ذیل طریقوں سے یہ جان سکتی ہیں کہ ہم آپ کی معلومات کیسے استعمال کرتے ہیں، بشمول اس مخصوص طریقۂ کار کے جو ہم آپ کا ذاتی ڈیٹا UK سے باہر منتقل کرتے وقت استعمال کرتے ہیں:\n\nریسرچ ٹیم کے کسی رکن سے unitybc@ndph.ox.ac.uk پر ای میل کے ذریعے پوچھ کر\n\nunitybc@ndph.ox.ac.uk پر ای میل بھیج کر\n\nہمیں 01865 289390 پر فون کر کے\n\nUniversity کے Data Protection Officer سے data.protection@admin.ox.ac.uk پر رابطہ کر کے\n\nUniversity کا رازداری کا نوٹس یہاں دیکھ کر: https://compliance.admin.ox.ac.uk/research-data۔\n\nاگر آپ تحقیق میں خفیہ ڈیٹا کے استعمال کے بارے میں مزید جاننا چاہتی ہیں، تو HRA نے ایک عمومی معلوماتی کتابچہ تیار کیا ہے، جو یہاں دستیاب ہے: https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/data-protection-and-information-governance/gdpr-guidance/templates/template-wording-for-generic-information-document/۔\n\nمریضوں اور عوام کو UnityBC میں کیسے شامل کیا گیا ہے؟\n\nUnityBC اسٹڈی کو Ethnicity and Breast Cancer Patient and Public Involvement Group کی معاونت حاصل ہے (نسلی پس منظر اور چھاتی کے کینسر سے متعلق مریضوں اور عوامی شمولیت کا ایک مخصوص گروپ)۔ اس گروپ کی میزبانی Cancer Epidemiology Unit اور Oxford Cancer Centre کرتے ہیں۔ https://www.ceu.ox.ac.uk/research/ethnicity-and-breast-cancer/oxford-cancer-ethnicity-and-breast-cancer-patient-and-public-involvement-ppi-group",
+            "sentences": [
+              {
+                "text": "آپ کسی بھی وقت، بغیر کوئی وجہ بتائے، اس اسٹڈی سے دستبردار ہو سکتی ہیں، لیکن ہم آپ کے بارے میں وہ معلومات محفوظ رکھیں گے جو ہمارے پاس پہلے سے موجود ہیں۔",
+                "charStart": 0,
+                "charEnd": 151,
+                "start": 0.0,
+                "end": 9.9
+              },
+              {
+                "text": "آپ کو یہ حق حاصل ہے کہ آپ ہم سے کہیں کہ اسٹڈی کے مقاصد کے لیے ہمارے پاس موجود آپ کا ڈیٹا ہٹا دیا جائے، تبدیل کیا جائے یا حذف کر دیا جائے۔",
+                "charStart": 152,
+                "charEnd": 289,
+                "start": 9.91,
+                "end": 18.56
+              },
+              {
+                "text": "اگر ایسا کرنے سے ہم آپ کا ڈیٹا تحقیق کے لیے استعمال نہ کر سکیں، تو ممکن ہے کہ ہم ہر بار ایسا نہ کر سکیں۔",
+                "charStart": 290,
+                "charEnd": 394,
+                "start": 18.57,
+                "end": 25.62
+              },
+              {
+                "text": "اگر ایسا ہوا تو ہم آپ کو بتائیں گے کہ ہم ایسا کیوں نہیں کر سکتے۔",
+                "charStart": 395,
+                "charEnd": 459,
+                "start": 25.63,
+                "end": 30.08
+              },
+              {
+                "text": "آپ درج ذیل طریقوں سے یہ جان سکتی ہیں کہ ہم آپ کی معلومات کیسے استعمال کرتے ہیں، بشمول اس مخصوص طریقۂ کار کے جو ہم آپ کا ذاتی ڈیٹا UK سے باہر منتقل کرتے وقت استعمال کرتے ہیں:",
+                "charStart": 461,
+                "charEnd": 634,
+                "start": 30.09,
+                "end": 43.79
+              },
+              {
+                "text": "ریسرچ ٹیم کے کسی رکن سے unitybc@ndph.ox.ac.uk پر ای میل کے ذریعے پوچھ کر",
+                "charStart": 636,
+                "charEnd": 708,
+                "start": 43.8,
+                "end": 52.15
+              },
+              {
+                "text": "unitybc@ndph.ox.ac.uk پر ای میل بھیج کر",
+                "charStart": 710,
+                "charEnd": 749,
+                "start": 52.16,
+                "end": 58.31
+              },
+              {
+                "text": "ہمیں 01865 289390 پر فون کر کے",
+                "charStart": 751,
+                "charEnd": 781,
+                "start": 58.32,
+                "end": 63.57
+              },
+              {
+                "text": "University کے Data Protection Officer سے data.protection@admin.ox.ac.uk پر رابطہ کر کے",
+                "charStart": 783,
+                "charEnd": 869,
+                "start": 63.58,
+                "end": 70.83
+              },
+              {
+                "text": "University کا رازداری کا نوٹس یہاں دیکھ کر: https://compliance.admin.ox.ac.uk/research-data۔",
+                "charStart": 871,
+                "charEnd": 963,
+                "start": 70.84,
+                "end": 80.09
+              },
+              {
+                "text": "اگر آپ تحقیق میں خفیہ ڈیٹا کے استعمال کے بارے میں مزید جاننا چاہتی ہیں، تو HRA نے ایک عمومی معلوماتی کتابچہ تیار کیا ہے، جو یہاں دستیاب ہے: https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/data-protection-and-information-governance/gdpr-guidance/templates/template-wording-for-generic-information-document/۔",
+                "charStart": 965,
+                "charEnd": 1309,
+                "start": 80.1,
+                "end": 106.35
+              },
+              {
+                "text": "مریضوں اور عوام کو UnityBC میں کیسے شامل کیا گیا ہے؟",
+                "charStart": 1311,
+                "charEnd": 1363,
+                "start": 106.36,
+                "end": 110.66
+              },
+              {
+                "text": "UnityBC اسٹڈی کو Ethnicity and Breast Cancer Patient and Public Involvement Group کی معاونت حاصل ہے (نسلی پس منظر اور چھاتی کے کینسر سے متعلق مریضوں اور عوامی شمولیت کا ایک مخصوص گروپ)۔",
+                "charStart": 1365,
+                "charEnd": 1550,
+                "start": 110.67,
+                "end": 123.82
+              },
+              {
+                "text": "اس گروپ کی میزبانی Cancer Epidemiology Unit اور Oxford Cancer Centre کرتے ہیں۔",
+                "charStart": 1551,
+                "charEnd": 1629,
+                "start": 123.83,
+                "end": 130.08
+              },
+              {
+                "text": "https://www.ceu.ox.ac.uk/research/ethnicity-and-breast-cancer/oxford-cancer-ethnicity-and-breast-cancer-patient-and-public-involvement-ppi-group",
+                "charStart": 1630,
+                "charEnd": 1774,
+                "start": 130.09,
+                "end": 142.54
+              }
+            ],
+            "duration": 142.55
+          },
+          "en": {
+            "text": "You can stop being part of the study at any time, without giving a reason, but we will keep information about you that we already have. You have the right to ask us to remove, change or delete data we hold about you for the purposes of the study. We might not always be able to do this if it means we cannot use your data to do the research. If so, we will tell you why we cannot do this.\nYou can find out more about how we use your information, including the specific mechanism used by us when transferring your personal data out of the UK by:\nasking one of the research team by emailing unitybc@ndph.ox.ac.uk\nsending an email to unitybc@ndph.ox.ac.uk\ncalling us on 01865 289390\ncontacting the University’s Data Protection Officer data.protection@admin.ox.ac.uk\nlooking at the University’s privacy notice available at: https://compliance.admin.ox.ac.uk/research-data.\nIf you would like to find out more about the use of confidential data in research, the HRA has developed a general information leaflet which is available at: https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/data-protection-and-information-governance/gdpr-guidance/templates/template-wording-for-generic-information-document/.\nHow have patients and the public been involved in UnityBC?\nThe UnityBC study is supported by a dedicated Ethnicity and Breast Cancer Patient and Public Involvement Group. This group is hosted by the Cancer Epidemiology Unit and the Oxford Cancer Centre. https://www.ceu.ox.ac.uk/research/ethnicity-and-breast-cancer/oxford-cancer-ethnicity-and-breast-cancer-patient-and-public-involvement-ppi-group",
+            "sentences": [
+              {
+                "text": "You can stop being part of the study at any time, without giving a reason, but we will keep information about you that we already have.",
+                "charStart": 0,
+                "charEnd": 135,
+                "clip": "267ce6a79c8feb92ced90054bb82f62b8210bb9ced0b278e1ed002da1b9ca802",
+                "start": 0.0,
+                "end": 7.55
+              },
+              {
+                "text": "You have the right to ask us to remove, change or delete data we hold about you for the purposes of the study.",
+                "charStart": 136,
+                "charEnd": 246,
+                "clip": "c3c27943c7b1d8278fcae5293b046216f31da2ecc80b819450add6f9e5b3ab54",
+                "start": 7.56,
+                "end": 14.06
+              },
+              {
+                "text": "We might not always be able to do this if it means we cannot use your data to do the research.",
+                "charStart": 247,
+                "charEnd": 341,
+                "clip": "8945c2ec01d7ed624f1e0d4f42b75e00e0cb3ddfee691f3d594b5f553be354d1",
+                "start": 14.07,
+                "end": 19.62
+              },
+              {
+                "text": "If so, we will tell you why we cannot do this.",
+                "charStart": 342,
+                "charEnd": 388,
+                "clip": "2ba750aaa8ec9a68dca4db847d03d6e0e1a135269996f404c1b28f165a23ed08",
+                "start": 19.63,
+                "end": 23.33
+              },
+              {
+                "text": "You can find out more about how we use your information, including the specific mechanism used by us when transferring your personal data out of the UK by:",
+                "charStart": 389,
+                "charEnd": 544,
+                "clip": "8cb605ebedb414d83d8c1a079c7554540885f4f64be243e38d6ed7eac7a1fb39",
+                "start": 23.34,
+                "end": 31.99
+              },
+              {
+                "text": "asking one of the research team by emailing unitybc@ndph.ox.ac.uk",
+                "charStart": 545,
+                "charEnd": 610,
+                "clip": "a32b57080d9b7a7b26d31990688fa03eacd1abc14a5a200ed67593862507dc5c",
+                "start": 32.0,
+                "end": 39.15
+              },
+              {
+                "text": "sending an email to unitybc@ndph.ox.ac.uk",
+                "charStart": 611,
+                "charEnd": 652,
+                "clip": "f02c156ed8c86b169708d8f9404131318df6cd4437dc3d4097a4474c23426bad",
+                "start": 39.16,
+                "end": 45.26
+              },
+              {
+                "text": "calling us on 01865 289390",
+                "charStart": 653,
+                "charEnd": 679,
+                "clip": "d632b5b41ecf964582ab0021eb62410190c0513e21700e520be61647121b605a",
+                "start": 45.27,
+                "end": 51.72
+              },
+              {
+                "text": "contacting the University’s Data Protection Officer data.protection@admin.ox.ac.uk",
+                "charStart": 680,
+                "charEnd": 762,
+                "clip": "de50b079d8ef8f715842bded2d241a0f775ac79dd998a67031bf81da12ff6098",
+                "start": 51.73,
+                "end": 59.08
+              },
+              {
+                "text": "looking at the University’s privacy notice available at: https://compliance.admin.ox.ac.uk/research-data.",
+                "charStart": 763,
+                "charEnd": 868,
+                "clip": "a705292a188ffbbcc7bc93aeb141c461b2b81f3621b83fe017874929485df5d7",
+                "start": 59.09,
+                "end": 70.44
+              },
+              {
+                "text": "If you would like to find out more about the use of confidential data in research, the HRA has developed a general information leaflet which is available at: https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/data-protection-and-information-governance/gdpr-guidance/templates/template-wording-for-generic-information-document/.",
+                "charStart": 869,
+                "charEnd": 1231,
+                "clip": "84fa38ffa0c7db30fa9cd94737080937f35c54e4a1674aa24b7cf0580e2da9d9",
+                "start": 70.45,
+                "end": 94.05
+              },
+              {
+                "text": "How have patients and the public been involved in UnityBC?",
+                "charStart": 1232,
+                "charEnd": 1290,
+                "clip": "e71b6db45351e8d96d4298f5805e94eb4b51e95367e1f137f10c9e1bd520e37d",
+                "start": 94.06,
+                "end": 98.81
+              },
+              {
+                "text": "The UnityBC study is supported by a dedicated Ethnicity and Breast Cancer Patient and Public Involvement Group.",
+                "charStart": 1291,
+                "charEnd": 1402,
+                "clip": "70990e3d1ba4d4b526a219552ca5db06c4724814acddf06473ed89af74bfa274",
+                "start": 98.82,
+                "end": 105.87
+              },
+              {
+                "text": "This group is hosted by the Cancer Epidemiology Unit and the Oxford Cancer Centre.",
+                "charStart": 1403,
+                "charEnd": 1485,
+                "clip": "266816674fe2e6015088043c83b03888651f7c45244f8019070cb3d051b29897",
+                "start": 105.88,
+                "end": 111.73
+              },
+              {
+                "text": "https://www.ceu.ox.ac.uk/research/ethnicity-and-breast-cancer/oxford-cancer-ethnicity-and-breast-cancer-patient-and-public-involvement-ppi-group",
+                "charStart": 1486,
+                "charEnd": 1630,
+                "clip": "5f6eb7bbe694b6763fb294b3a1aec2a306af299894e7968d2a1a861dfbc0e750",
+                "start": 111.74,
+                "end": 128.29
+              }
+            ],
+            "duration": 128.3
+          }
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 135,
+              "end": 7.55
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 151,
+              "end": 9.9
+            }
+          },
+          {
+            "en": {
+              "charStart": 136,
+              "start": 7.56,
+              "charEnd": 246,
+              "end": 14.06
+            },
+            "ur": {
+              "charStart": 152,
+              "start": 9.91,
+              "charEnd": 289,
+              "end": 18.56
+            }
+          },
+          {
+            "en": {
+              "charStart": 247,
+              "start": 14.07,
+              "charEnd": 341,
+              "end": 19.62
+            },
+            "ur": {
+              "charStart": 290,
+              "start": 18.57,
+              "charEnd": 394,
+              "end": 25.62
+            }
+          },
+          {
+            "en": {
+              "charStart": 342,
+              "start": 19.63,
+              "charEnd": 388,
+              "end": 23.33
+            },
+            "ur": {
+              "charStart": 395,
+              "start": 25.63,
+              "charEnd": 459,
+              "end": 30.08
+            }
+          },
+          {
+            "en": {
+              "charStart": 389,
+              "start": 23.34,
+              "charEnd": 544,
+              "end": 31.99
+            },
+            "ur": {
+              "charStart": 461,
+              "start": 30.09,
+              "charEnd": 634,
+              "end": 43.79
+            }
+          },
+          {
+            "en": {
+              "charStart": 545,
+              "start": 32.0,
+              "charEnd": 610,
+              "end": 39.15
+            },
+            "ur": {
+              "charStart": 636,
+              "start": 43.8,
+              "charEnd": 708,
+              "end": 52.15
+            }
+          },
+          {
+            "en": {
+              "charStart": 611,
+              "start": 39.16,
+              "charEnd": 652,
+              "end": 45.26
+            },
+            "ur": {
+              "charStart": 710,
+              "start": 52.16,
+              "charEnd": 749,
+              "end": 58.31
+            }
+          },
+          {
+            "en": {
+              "charStart": 653,
+              "start": 45.27,
+              "charEnd": 679,
+              "end": 51.72
+            },
+            "ur": {
+              "charStart": 751,
+              "start": 58.32,
+              "charEnd": 781,
+              "end": 63.57
+            }
+          },
+          {
+            "en": {
+              "charStart": 680,
+              "start": 51.73,
+              "charEnd": 762,
+              "end": 59.08
+            },
+            "ur": {
+              "charStart": 783,
+              "start": 63.58,
+              "charEnd": 869,
+              "end": 70.83
+            }
+          },
+          {
+            "en": {
+              "charStart": 763,
+              "start": 59.09,
+              "charEnd": 868,
+              "end": 70.44
+            },
+            "ur": {
+              "charStart": 871,
+              "start": 70.84,
+              "charEnd": 963,
+              "end": 80.09
+            }
+          },
+          {
+            "en": {
+              "charStart": 869,
+              "start": 70.45,
+              "charEnd": 1231,
+              "end": 94.05
+            },
+            "ur": {
+              "charStart": 965,
+              "start": 80.1,
+              "charEnd": 1309,
+              "end": 106.35
+            }
+          },
+          {
+            "en": {
+              "charStart": 1232,
+              "start": 94.06,
+              "charEnd": 1290,
+              "end": 98.81
+            },
+            "ur": {
+              "charStart": 1311,
+              "start": 106.36,
+              "charEnd": 1363,
+              "end": 110.66
+            }
+          },
+          {
+            "en": {
+              "charStart": 1291,
+              "start": 98.82,
+              "charEnd": 1402,
+              "end": 105.87
+            },
+            "ur": {
+              "charStart": 1365,
+              "start": 110.67,
+              "charEnd": 1550,
+              "end": 123.82
+            }
+          },
+          {
+            "en": {
+              "charStart": 1403,
+              "start": 105.88,
+              "charEnd": 1485,
+              "end": 111.73
+            },
+            "ur": {
+              "charStart": 1551,
+              "start": 123.83,
+              "charEnd": 1629,
+              "end": 130.08
+            }
+          },
+          {
+            "en": {
+              "charStart": 1486,
+              "start": 111.74,
+              "charEnd": 1630,
+              "end": 128.29
+            },
+            "ur": {
+              "charStart": 1630,
+              "start": 130.09,
+              "charEnd": 1774,
+              "end": 142.54
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-bd48a8c352fab02b7dd6.mp3",
+          "en": "/assets/audio/en-32973a3e03261ed55db5.mp3"
+        }
+      },
+      {
+        "id": "pis-s0010",
+        "titles": {
+          "en": "Study results and oversight",
+          "cs": "Informace pro účastnice · 10"
+        },
+        "text": {
+          "en": "Members of this group were involved in reviewing the participant materials and questionnaires and will continue to be involved in the study.\nWhat will happen to the results of this study?\nThe results will be published in scientific journals once data collection and analysis are complete. UnityBC participants will not be identifiable from any publication in the public domain. UnityBC researchers will publish in journals that are “open access” meaning that the journals do not require payment for access to the papers and therefore anyone can access those papers.\nSummaries of these papers will be made available to participants, community groups and anyone else who might be interested, online via the UnityBC study website. The summaries will be written in as accessible language as possible so that people who are not scientists or medically trained can understand them.\nWe also make social media posts to communicate our main findings to our communities of interest.\nThe results will also be presented by researchers at conferences internationally. We aim to present findings at events attended by participants, breast cancer patients and survivors.\nWho is organising and funding UnityBC?\nThe University of Oxford is the research Sponsor. This means the University of Oxford is legally responsible for organisation and for overseeing the work of the researchers.\nUnityBC is funded by Cancer Research UK.\nThe Chief Investigator responsible for leading UnityBC is Associate Professor Toral Gathani at the University of Oxford.\nUnityBC is managed by the research team based in the Cancer Epidemiology Unit, Nuffield Department of Population Health.",
+          "ur": "اس گروہ کے اراکین نے شرکاء کے لیے تیار کردہ مواد اور سوالناموں کا جائزہ لینے میں حصہ لیا ہے اور وہ اسٹڈی میں شامل رہیں گے۔\n\nاس اسٹڈی کے نتائج کے ساتھ کیا ہوگا؟\n\nڈیٹا جمع کرنے اور اس کے تجزیے کے مکمل ہونے کے بعد نتائج سائنسی جرائد میں شائع کیے جائیں گے۔ عوامی طور پر دستیاب کسی بھی اشاعت سے UnityBC کے شرکاء کی شناخت نہیں ہو سکے گی۔ UnityBC کے محققین ایسے جرائد میں شائع کریں گے جو “اوپن ایکسس” ہوں، یعنی ان جرائد میں مضامین تک رسائی کے لیے ادائیگی کی ضرورت نہیں ہوتی، لہٰذا کوئی بھی ان مضامین تک رسائی حاصل کر سکتا ہے۔\n\nان مضامین کے خلاصے UnityBC اسٹڈی کی ویب سائٹ کے ذریعے آن لائن شرکاء، کمیونٹی گروپوں اور دلچسپی رکھنے والے دیگر افراد کو دستیاب کیے جائیں گے۔ یہ خلاصے ممکنہ حد تک آسان زبان میں لکھے جائیں گے تاکہ وہ لوگ بھی انہیں سمجھ سکیں جو سائنس دان نہیں ہیں یا جن کی طبی تربیت نہیں ہوئی ہے۔\n\nہم متعلقہ کمیونٹیز تک اپنے اہم نتائج پہنچانے کے لیے سوشل میڈیا پوسٹس بھی کرتے ہیں۔\n\nمحققین نتائج کو بین الاقوامی کانفرنسوں میں بھی پیش کریں گے۔ ہمارا مقصد نتائج کو ایسے پروگراموں میں پیش کرنا ہے جن میں شرکاء، چھاتی کے کینسر کے مریض اور اس سے صحت یاب ہو چکے لوگ شریک ہوتے ہیں۔\n\nUnityBC کو کون منظم کرتا اور اس کے لیے فنڈ فراہم کرتا ہے؟\n\nUniversity of Oxford اس ریسرچ اسٹڈی کی سپانسر ہے۔ اس کا مطلب ہے کہ University of Oxford اس کے انتظام اور محققین کے کام کی نگرانی کے لیے قانونی طور پر ذمہ دار ہے۔\n\nUnityBC کے لیے فنڈ Cancer Research UK فراہم کرتا ہے۔\n\nUnityBC کی سربراہی کی ذمہ دار چیف محقق University of Oxford کی Associate Professor Toral Gathani ہیں۔\n\nUnityBC کا انتظام Cancer Epidemiology Unit, Nuffield Department of Population Health میں قائم ریسرچ ٹیم کرتی ہے۔"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "p",
+              "text": "Members of this group were involved in reviewing the participant materials and questionnaires and will continue to be involved in the study."
+            },
+            {
+              "type": "p",
+              "text": "What will happen to the results of this study?"
+            },
+            {
+              "type": "p",
+              "text": "The results will be published in scientific journals once data collection and analysis are complete. UnityBC participants will not be identifiable from any publication in the public domain. UnityBC researchers will publish in journals that are “open access” meaning that the journals do not require payment for access to the papers and therefore anyone can access those papers."
+            },
+            {
+              "type": "p",
+              "text": "Summaries of these papers will be made available to participants, community groups and anyone else who might be interested, online via the UnityBC study website. The summaries will be written in as accessible language as possible so that people who are not scientists or medically trained can understand them."
+            },
+            {
+              "type": "p",
+              "text": "We also make social media posts to communicate our main findings to our communities of interest."
+            },
+            {
+              "type": "p",
+              "text": "The results will also be presented by researchers at conferences internationally. We aim to present findings at events attended by participants, breast cancer patients and survivors."
+            },
+            {
+              "type": "p",
+              "text": "Who is organising and funding UnityBC?"
+            },
+            {
+              "type": "p",
+              "text": "The University of Oxford is the research Sponsor. This means the University of Oxford is legally responsible for organisation and for overseeing the work of the researchers."
+            },
+            {
+              "type": "p",
+              "text": "UnityBC is funded by Cancer Research UK."
+            },
+            {
+              "type": "p",
+              "text": "The Chief Investigator responsible for leading UnityBC is Associate Professor Toral Gathani at the University of Oxford."
+            },
+            {
+              "type": "p",
+              "text": "UnityBC is managed by the research team based in the Cancer Epidemiology Unit, Nuffield Department of Population Health."
+            }
+          ],
+          "ur": [
+            {
+              "type": "p",
+              "text": "اس گروہ کے اراکین نے شرکاء کے لیے تیار کردہ مواد اور سوالناموں کا جائزہ لینے میں حصہ لیا ہے اور وہ اسٹڈی میں شامل رہیں گے۔"
+            },
+            {
+              "type": "p",
+              "text": "اس اسٹڈی کے نتائج کے ساتھ کیا ہوگا؟"
+            },
+            {
+              "type": "p",
+              "text": "ڈیٹا جمع کرنے اور اس کے تجزیے کے مکمل ہونے کے بعد نتائج سائنسی جرائد میں شائع کیے جائیں گے۔ عوامی طور پر دستیاب کسی بھی اشاعت سے UnityBC کے شرکاء کی شناخت نہیں ہو سکے گی۔ UnityBC کے محققین ایسے جرائد میں شائع کریں گے جو “اوپن ایکسس” ہوں، یعنی ان جرائد میں مضامین تک رسائی کے لیے ادائیگی کی ضرورت نہیں ہوتی، لہٰذا کوئی بھی ان مضامین تک رسائی حاصل کر سکتا ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "ان مضامین کے خلاصے UnityBC اسٹڈی کی ویب سائٹ کے ذریعے آن لائن شرکاء، کمیونٹی گروپوں اور دلچسپی رکھنے والے دیگر افراد کو دستیاب کیے جائیں گے۔ یہ خلاصے ممکنہ حد تک آسان زبان میں لکھے جائیں گے تاکہ وہ لوگ بھی انہیں سمجھ سکیں جو سائنس دان نہیں ہیں یا جن کی طبی تربیت نہیں ہوئی ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "ہم متعلقہ کمیونٹیز تک اپنے اہم نتائج پہنچانے کے لیے سوشل میڈیا پوسٹس بھی کرتے ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "محققین نتائج کو بین الاقوامی کانفرنسوں میں بھی پیش کریں گے۔ ہمارا مقصد نتائج کو ایسے پروگراموں میں پیش کرنا ہے جن میں شرکاء، چھاتی کے کینسر کے مریض اور اس سے صحت یاب ہو چکے لوگ شریک ہوتے ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC کو کون منظم کرتا اور اس کے لیے فنڈ فراہم کرتا ہے؟"
+            },
+            {
+              "type": "p",
+              "text": "University of Oxford اس ریسرچ اسٹڈی کی سپانسر ہے۔ اس کا مطلب ہے کہ University of Oxford اس کے انتظام اور محققین کے کام کی نگرانی کے لیے قانونی طور پر ذمہ دار ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC کے لیے فنڈ Cancer Research UK فراہم کرتا ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC کی سربراہی کی ذمہ دار چیف محقق University of Oxford کی Associate Professor Toral Gathani ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "UnityBC کا انتظام Cancer Epidemiology Unit, Nuffield Department of Population Health میں قائم ریسرچ ٹیم کرتی ہے۔"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "اس گروہ کے اراکین نے شرکاء کے لیے تیار کردہ مواد اور سوالناموں کا جائزہ لینے میں حصہ لیا ہے اور وہ اسٹڈی میں شامل رہیں گے۔\n\nاس اسٹڈی کے نتائج کے ساتھ کیا ہوگا؟\n\nڈیٹا جمع کرنے اور اس کے تجزیے کے مکمل ہونے کے بعد نتائج سائنسی جرائد میں شائع کیے جائیں گے۔ عوامی طور پر دستیاب کسی بھی اشاعت سے UnityBC کے شرکاء کی شناخت نہیں ہو سکے گی۔ UnityBC کے محققین ایسے جرائد میں شائع کریں گے جو “اوپن ایکسس” ہوں، یعنی ان جرائد میں مضامین تک رسائی کے لیے ادائیگی کی ضرورت نہیں ہوتی، لہٰذا کوئی بھی ان مضامین تک رسائی حاصل کر سکتا ہے۔\n\nان مضامین کے خلاصے UnityBC اسٹڈی کی ویب سائٹ کے ذریعے آن لائن شرکاء، کمیونٹی گروپوں اور دلچسپی رکھنے والے دیگر افراد کو دستیاب کیے جائیں گے۔ یہ خلاصے ممکنہ حد تک آسان زبان میں لکھے جائیں گے تاکہ وہ لوگ بھی انہیں سمجھ سکیں جو سائنس دان نہیں ہیں یا جن کی طبی تربیت نہیں ہوئی ہے۔\n\nہم متعلقہ کمیونٹیز تک اپنے اہم نتائج پہنچانے کے لیے سوشل میڈیا پوسٹس بھی کرتے ہیں۔\n\nمحققین نتائج کو بین الاقوامی کانفرنسوں میں بھی پیش کریں گے۔ ہمارا مقصد نتائج کو ایسے پروگراموں میں پیش کرنا ہے جن میں شرکاء، چھاتی کے کینسر کے مریض اور اس سے صحت یاب ہو چکے لوگ شریک ہوتے ہیں۔\n\nUnityBC کو کون منظم کرتا اور اس کے لیے فنڈ فراہم کرتا ہے؟\n\nUniversity of Oxford اس ریسرچ اسٹڈی کی سپانسر ہے۔ اس کا مطلب ہے کہ University of Oxford اس کے انتظام اور محققین کے کام کی نگرانی کے لیے قانونی طور پر ذمہ دار ہے۔\n\nUnityBC کے لیے فنڈ Cancer Research UK فراہم کرتا ہے۔\n\nUnityBC کی سربراہی کی ذمہ دار چیف محقق University of Oxford کی Associate Professor Toral Gathani ہیں۔\n\nUnityBC کا انتظام Cancer Epidemiology Unit, Nuffield Department of Population Health میں قائم ریسرچ ٹیم کرتی ہے۔",
+            "sentences": [
+              {
+                "text": "اس گروہ کے اراکین نے شرکاء کے لیے تیار کردہ مواد اور سوالناموں کا جائزہ لینے میں حصہ لیا ہے اور وہ اسٹڈی میں شامل رہیں گے۔",
+                "charStart": 0,
+                "charEnd": 122,
+                "start": 0.0,
+                "end": 8.7
+              },
+              {
+                "text": "اس اسٹڈی کے نتائج کے ساتھ کیا ہوگا؟",
+                "charStart": 124,
+                "charEnd": 159,
+                "start": 8.71,
+                "end": 11.46
+              },
+              {
+                "text": "ڈیٹا جمع کرنے اور اس کے تجزیے کے مکمل ہونے کے بعد نتائج سائنسی جرائد میں شائع کیے جائیں گے۔",
+                "charStart": 161,
+                "charEnd": 252,
+                "start": 11.47,
+                "end": 18.37
+              },
+              {
+                "text": "عوامی طور پر دستیاب کسی بھی اشاعت سے UnityBC کے شرکاء کی شناخت نہیں ہو سکے گی۔",
+                "charStart": 253,
+                "charEnd": 331,
+                "start": 18.38,
+                "end": 24.83
+              },
+              {
+                "text": "UnityBC کے محققین ایسے جرائد میں شائع کریں گے جو “اوپن ایکسس” ہوں، یعنی ان جرائد میں مضامین تک رسائی کے لیے ادائیگی کی ضرورت نہیں ہوتی، لہٰذا کوئی بھی ان مضامین تک رسائی حاصل کر سکتا ہے۔",
+                "charStart": 332,
+                "charEnd": 518,
+                "start": 24.84,
+                "end": 37.84
+              },
+              {
+                "text": "ان مضامین کے خلاصے UnityBC اسٹڈی کی ویب سائٹ کے ذریعے آن لائن شرکاء، کمیونٹی گروپوں اور دلچسپی رکھنے والے دیگر افراد کو دستیاب کیے جائیں گے۔",
+                "charStart": 520,
+                "charEnd": 660,
+                "start": 37.85,
+                "end": 48.05
+              },
+              {
+                "text": "یہ خلاصے ممکنہ حد تک آسان زبان میں لکھے جائیں گے تاکہ وہ لوگ بھی انہیں سمجھ سکیں جو سائنس دان نہیں ہیں یا جن کی طبی تربیت نہیں ہوئی ہے۔",
+                "charStart": 661,
+                "charEnd": 796,
+                "start": 48.06,
+                "end": 57.06
+              },
+              {
+                "text": "ہم متعلقہ کمیونٹیز تک اپنے اہم نتائج پہنچانے کے لیے سوشل میڈیا پوسٹس بھی کرتے ہیں۔",
+                "charStart": 798,
+                "charEnd": 880,
+                "start": 57.07,
+                "end": 64.07
+              },
+              {
+                "text": "محققین نتائج کو بین الاقوامی کانفرنسوں میں بھی پیش کریں گے۔",
+                "charStart": 882,
+                "charEnd": 941,
+                "start": 64.08,
+                "end": 68.53
+              },
+              {
+                "text": "ہمارا مقصد نتائج کو ایسے پروگراموں میں پیش کرنا ہے جن میں شرکاء، چھاتی کے کینسر کے مریض اور اس سے صحت یاب ہو چکے لوگ شریک ہوتے ہیں۔",
+                "charStart": 942,
+                "charEnd": 1073,
+                "start": 68.54,
+                "end": 77.99
+              },
+              {
+                "text": "UnityBC کو کون منظم کرتا اور اس کے لیے فنڈ فراہم کرتا ہے؟",
+                "charStart": 1075,
+                "charEnd": 1132,
+                "start": 78.0,
+                "end": 82.15
+              },
+              {
+                "text": "University of Oxford اس ریسرچ اسٹڈی کی سپانسر ہے۔",
+                "charStart": 1134,
+                "charEnd": 1183,
+                "start": 82.16,
+                "end": 86.11
+              },
+              {
+                "text": "اس کا مطلب ہے کہ University of Oxford اس کے انتظام اور محققین کے کام کی نگرانی کے لیے قانونی طور پر ذمہ دار ہے۔",
+                "charStart": 1184,
+                "charEnd": 1295,
+                "start": 86.12,
+                "end": 94.27
+              },
+              {
+                "text": "UnityBC کے لیے فنڈ Cancer Research UK فراہم کرتا ہے۔",
+                "charStart": 1297,
+                "charEnd": 1349,
+                "start": 94.28,
+                "end": 98.83
+              },
+              {
+                "text": "UnityBC کی سربراہی کی ذمہ دار چیف محقق University of Oxford کی Associate Professor Toral Gathani ہیں۔",
+                "charStart": 1351,
+                "charEnd": 1452,
+                "start": 98.84,
+                "end": 105.19
+              },
+              {
+                "text": "UnityBC کا انتظام Cancer Epidemiology Unit, Nuffield Department of Population Health میں قائم ریسرچ ٹیم کرتی ہے۔",
+                "charStart": 1454,
+                "charEnd": 1566,
+                "start": 105.2,
+                "end": 112.95
+              }
+            ],
+            "duration": 112.96
+          },
+          "en": {
+            "text": "Members of this group were involved in reviewing the participant materials and questionnaires and will continue to be involved in the study.\nWhat will happen to the results of this study?\nThe results will be published in scientific journals once data collection and analysis are complete. UnityBC participants will not be identifiable from any publication in the public domain. UnityBC researchers will publish in journals that are “open access” meaning that the journals do not require payment for access to the papers and therefore anyone can access those papers.\nSummaries of these papers will be made available to participants, community groups and anyone else who might be interested, online via the UnityBC study website. The summaries will be written in as accessible language as possible so that people who are not scientists or medically trained can understand them.\nWe also make social media posts to communicate our main findings to our communities of interest.\nThe results will also be presented by researchers at conferences internationally. We aim to present findings at events attended by participants, breast cancer patients and survivors.\nWho is organising and funding UnityBC?\nThe University of Oxford is the research Sponsor. This means the University of Oxford is legally responsible for organisation and for overseeing the work of the researchers.\nUnityBC is funded by Cancer Research UK.\nThe Chief Investigator responsible for leading UnityBC is Associate Professor Toral Gathani at the University of Oxford.\nUnityBC is managed by the research team based in the Cancer Epidemiology Unit, Nuffield Department of Population Health.",
+            "sentences": [
+              {
+                "text": "Members of this group were involved in reviewing the participant materials and questionnaires and will continue to be involved in the study.",
+                "charStart": 0,
+                "charEnd": 140,
+                "clip": "c33b134549d42f357853e9a841e49032b073c19c2f976e90dccfa76e248eff57",
+                "start": 0.0,
+                "end": 8.1
+              },
+              {
+                "text": "What will happen to the results of this study?",
+                "charStart": 141,
+                "charEnd": 187,
+                "clip": "5724a5f0e3330651e3c66605b163dbe35b31ac9c77862877f7684ce474972659",
+                "start": 8.11,
+                "end": 11.56
+              },
+              {
+                "text": "The results will be published in scientific journals once data collection and analysis are complete.",
+                "charStart": 188,
+                "charEnd": 288,
+                "clip": "5d19c8a77fb1de2b54e7271fe56ed2cbb36692ef30a1a5774c6d05512f5cf3ea",
+                "start": 11.57,
+                "end": 18.02
+              },
+              {
+                "text": "UnityBC participants will not be identifiable from any publication in the public domain.",
+                "charStart": 289,
+                "charEnd": 377,
+                "clip": "9550d29e52be56f68708a1049e18467051cc68afee8c0164a658276a76b08ff8",
+                "start": 18.03,
+                "end": 23.78
+              },
+              {
+                "text": "UnityBC researchers will publish in journals that are “open access” meaning that the journals do not require payment for access to the papers and therefore anyone can access those papers.",
+                "charStart": 378,
+                "charEnd": 565,
+                "clip": "3437c5d2dfd48c8e2c5040f70a5bbdd53875bb315df2e5be0dd14f04058d86a3",
+                "start": 23.79,
+                "end": 35.59
+              },
+              {
+                "text": "Summaries of these papers will be made available to participants, community groups and anyone else who might be interested, online via the UnityBC study website.",
+                "charStart": 566,
+                "charEnd": 727,
+                "clip": "2da69562129a5a150376ca00a58d485c61bf9f089db0d289c47c320d7347e780",
+                "start": 35.6,
+                "end": 45.3
+              },
+              {
+                "text": "The summaries will be written in as accessible language as possible so that people who are not scientists or medically trained can understand them.",
+                "charStart": 728,
+                "charEnd": 875,
+                "clip": "f989ad830665b2068bbef04d91425511725ded14af4ddacafa70c8b4d34f6e65",
+                "start": 45.31,
+                "end": 52.71
+              },
+              {
+                "text": "We also make social media posts to communicate our main findings to our communities of interest.",
+                "charStart": 876,
+                "charEnd": 972,
+                "clip": "e76ce89ea0841e8d0e05117908b7b0f0d39ac0f878de217350bed204638d4f2c",
+                "start": 52.72,
+                "end": 58.67
+              },
+              {
+                "text": "The results will also be presented by researchers at conferences internationally.",
+                "charStart": 973,
+                "charEnd": 1054,
+                "clip": "4195493697159de17dd4a5cbfef8f4194cb5c5256ea11de5f9d477176c8e5133",
+                "start": 58.68,
+                "end": 63.33
+              },
+              {
+                "text": "We aim to present findings at events attended by participants, breast cancer patients and survivors.",
+                "charStart": 1055,
+                "charEnd": 1155,
+                "clip": "aaba020a65119380ff4732a28f5d4d1ea3b0affab7331d9e04bd387702e07c8a",
+                "start": 63.34,
+                "end": 70.24
+              },
+              {
+                "text": "Who is organising and funding UnityBC?",
+                "charStart": 1156,
+                "charEnd": 1194,
+                "clip": "7afe975eebe9628aec4ddee8de4eaae54eb3c43ba519af09942a7ce3f6528cbb",
+                "start": 70.25,
+                "end": 73.55
+              },
+              {
+                "text": "The University of Oxford is the research Sponsor.",
+                "charStart": 1195,
+                "charEnd": 1244,
+                "clip": "e8a2dfee3d801cd14aec15217a76710719ab6f45c6582265515f9ff47640c654",
+                "start": 73.56,
+                "end": 76.96
+              },
+              {
+                "text": "This means the University of Oxford is legally responsible for organisation and for overseeing the work of the researchers.",
+                "charStart": 1245,
+                "charEnd": 1368,
+                "clip": "d63b72b5772bb83818377a1f11993d9be0eba7085662ad34f6a0e7bc7c1ba199",
+                "start": 76.97,
+                "end": 84.67
+              },
+              {
+                "text": "UnityBC is funded by Cancer Research UK.",
+                "charStart": 1369,
+                "charEnd": 1409,
+                "clip": "e1e5e37445c65a3d5a6e8d4b4dcf342aec440be8c281db3de44878109860dce7",
+                "start": 84.68,
+                "end": 88.68
+              },
+              {
+                "text": "The Chief Investigator responsible for leading UnityBC is Associate Professor Toral Gathani at the University of Oxford.",
+                "charStart": 1410,
+                "charEnd": 1530,
+                "clip": "238e6ab8acea1f29256b01bcb56820563808585b9b7692fbc0bed2f08c8ae4a0",
+                "start": 88.69,
+                "end": 96.59
+              },
+              {
+                "text": "UnityBC is managed by the research team based in the Cancer Epidemiology Unit, Nuffield Department of Population Health.",
+                "charStart": 1531,
+                "charEnd": 1651,
+                "clip": "5c5104fd60b65a70668f3d91c89e19425da083c9c08b6d43055389c3ca9c3b89",
+                "start": 96.6,
+                "end": 104.2
+              }
+            ],
+            "duration": 104.21
+          }
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 140,
+              "end": 8.1
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 122,
+              "end": 8.7
+            }
+          },
+          {
+            "en": {
+              "charStart": 141,
+              "start": 8.11,
+              "charEnd": 187,
+              "end": 11.56
+            },
+            "ur": {
+              "charStart": 124,
+              "start": 8.71,
+              "charEnd": 159,
+              "end": 11.46
+            }
+          },
+          {
+            "en": {
+              "charStart": 188,
+              "start": 11.57,
+              "charEnd": 288,
+              "end": 18.02
+            },
+            "ur": {
+              "charStart": 161,
+              "start": 11.47,
+              "charEnd": 252,
+              "end": 18.37
+            }
+          },
+          {
+            "en": {
+              "charStart": 289,
+              "start": 18.03,
+              "charEnd": 377,
+              "end": 23.78
+            },
+            "ur": {
+              "charStart": 253,
+              "start": 18.38,
+              "charEnd": 331,
+              "end": 24.83
+            }
+          },
+          {
+            "en": {
+              "charStart": 378,
+              "start": 23.79,
+              "charEnd": 565,
+              "end": 35.59
+            },
+            "ur": {
+              "charStart": 332,
+              "start": 24.84,
+              "charEnd": 518,
+              "end": 37.84
+            }
+          },
+          {
+            "en": {
+              "charStart": 566,
+              "start": 35.6,
+              "charEnd": 727,
+              "end": 45.3
+            },
+            "ur": {
+              "charStart": 520,
+              "start": 37.85,
+              "charEnd": 660,
+              "end": 48.05
+            }
+          },
+          {
+            "en": {
+              "charStart": 728,
+              "start": 45.31,
+              "charEnd": 875,
+              "end": 52.71
+            },
+            "ur": {
+              "charStart": 661,
+              "start": 48.06,
+              "charEnd": 796,
+              "end": 57.06
+            }
+          },
+          {
+            "en": {
+              "charStart": 876,
+              "start": 52.72,
+              "charEnd": 972,
+              "end": 58.67
+            },
+            "ur": {
+              "charStart": 798,
+              "start": 57.07,
+              "charEnd": 880,
+              "end": 64.07
+            }
+          },
+          {
+            "en": {
+              "charStart": 973,
+              "start": 58.68,
+              "charEnd": 1054,
+              "end": 63.33
+            },
+            "ur": {
+              "charStart": 882,
+              "start": 64.08,
+              "charEnd": 941,
+              "end": 68.53
+            }
+          },
+          {
+            "en": {
+              "charStart": 1055,
+              "start": 63.34,
+              "charEnd": 1155,
+              "end": 70.24
+            },
+            "ur": {
+              "charStart": 942,
+              "start": 68.54,
+              "charEnd": 1073,
+              "end": 77.99
+            }
+          },
+          {
+            "en": {
+              "charStart": 1156,
+              "start": 70.25,
+              "charEnd": 1194,
+              "end": 73.55
+            },
+            "ur": {
+              "charStart": 1075,
+              "start": 78.0,
+              "charEnd": 1132,
+              "end": 82.15
+            }
+          },
+          {
+            "en": {
+              "charStart": 1195,
+              "start": 73.56,
+              "charEnd": 1244,
+              "end": 76.96
+            },
+            "ur": {
+              "charStart": 1134,
+              "start": 82.16,
+              "charEnd": 1183,
+              "end": 86.11
+            }
+          },
+          {
+            "en": {
+              "charStart": 1245,
+              "start": 76.97,
+              "charEnd": 1368,
+              "end": 84.67
+            },
+            "ur": {
+              "charStart": 1184,
+              "start": 86.12,
+              "charEnd": 1295,
+              "end": 94.27
+            }
+          },
+          {
+            "en": {
+              "charStart": 1369,
+              "start": 84.68,
+              "charEnd": 1409,
+              "end": 88.68
+            },
+            "ur": {
+              "charStart": 1297,
+              "start": 94.28,
+              "charEnd": 1349,
+              "end": 98.83
+            }
+          },
+          {
+            "en": {
+              "charStart": 1410,
+              "start": 88.69,
+              "charEnd": 1530,
+              "end": 96.59
+            },
+            "ur": {
+              "charStart": 1351,
+              "start": 98.84,
+              "charEnd": 1452,
+              "end": 105.19
+            }
+          },
+          {
+            "en": {
+              "charStart": 1531,
+              "start": 96.6,
+              "charEnd": 1651,
+              "end": 104.2
+            },
+            "ur": {
+              "charStart": 1454,
+              "start": 105.2,
+              "charEnd": 1566,
+              "end": 112.95
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-8effca617cd2d55362ae.mp3",
+          "en": "/assets/audio/en-3e56946eb3c952558e41.mp3"
+        }
+      },
+      {
+        "id": "pis-s0011",
+        "titles": {
+          "en": "Problems and contacts",
+          "cs": "Informace pro účastnice · 11"
+        },
+        "text": {
+          "en": "What if there is a problem?\nIf you wish to complain about any aspect of the way in which you have been approached or how your information is handled during the course of this study, you should contact the UnityBC team using these contact details Associate Professor Toral Gathani unitybc@ndph.ox.ac.uk and they will do their best to answer your questions.\nOr you may contact University of Oxford Research Governance, Ethics & Assurance (RGEA) at rgea.complaints@admin.ox.ac.uk.\nThe investigators recognise the important contribution that volunteers make to medical research, and will make every effort to ensure your safety and wellbeing. The University of Oxford, as the research sponsor, has appropriate insurance in place in the unlikely event that you suffer any harm as a direct consequence of your taking part in this study. If something does go wrong, you are harmed during the research, and this is due to someone's negligence, then you may have grounds for a legal action for compensation. While the Sponsor will cooperate with any claim, you may wish to seek independent legal advice to ensure that you are properly represented in pursuing any complaint.\nWho has reviewed the study?\nAll research in the NHS is looked at by an independent group of people, called a Research Ethics Committee, to protect participants’ interests. This study has been reviewed and given a favourable opinion by [ _______________] Research Ethics Committee.\nThe principles of the study were reviewed by scientific experts on behalf of Cancer Research UK before awarding funding.",
+          "ur": "اگر کوئی مسئلہ ہو تو کیا ہوگا؟\n\nاگر آپ کو اس بات کے کسی بھی پہلو کے بارے میں شکایت ہو کہ آپ سے کس طرح رابطہ کیا گیا یا اس ریسرچ اسٹڈی کے دوران آپ کی معلومات کو کیسے سنبھالا گیا، تو آپ رابطے کی ان تفصیلات پر UnityBC ٹیم سے رابطہ کریں: Associate Professor Toral Gathani، unitybc@ndph.ox.ac.uk۔ وہ آپ کے سوالات کا جواب دینے کی پوری کوشش کریں گے۔\n\nیا آپ University of Oxford Research Governance, Ethics & Assurance (RGEA) سے rgea.complaints@admin.ox.ac.uk پر رابطہ کر سکتی ہیں۔\n\nاسٹڈی کے محققین طبی تحقیق میں رضاکاروں کے اہم تعاون کو تسلیم کرتے ہیں اور آپ کی حفاظت اور خیریت کے لیے ہر ممکن کوشش کریں گے۔ University of Oxford نے، جو اس تحقیق کی سرپرست ہے، اس کم امکان والی صورت حال کے لیے مناسب انشورنس کا انتظام کر رکھا ہے کہ اس اسٹڈی میں حصہ لینے کے براہِ راست نتیجے میں آپ کو کوئی نقصان پہنچے۔ اگر واقعی کچھ غلط ہو جائے، تحقیق کے دوران آپ کو نقصان پہنچے، اور یہ کسی کی غفلت کی وجہ سے ہو، تو آپ کے پاس معاوضے کے لیے قانونی دعویٰ دائر کرنے کی بنیاد ہو سکتی ہے۔ اگرچہ سرپرست کسی بھی دعوے میں تعاون کرے گی، لیکن کسی شکایت پر کارروائی کرتے وقت اپنی مناسب نمائندگی یقینی بنانے کے لیے آپ غیر جانب دار قانونی مشورہ لینے پر غور کر سکتی ہیں۔\n\nاس اسٹڈی کا جائزہ کس نے لیا ہے؟\n\nNHS میں ہونے والی تمام تحقیق کا جائزہ لوگوں کے ایک آزاد گروہ کے ذریعے لیا جاتا ہے، جسے ریسرچ ایتھکس کمیٹی کہا جاتا ہے، تاکہ شرکاء کے مفادات کا تحفظ کیا جا سکے۔ اس ریسرچ اسٹڈی کا جائزہ [ _______________] ریسرچ ایتھکس کمیٹی نے لیا ہے اور اس نے اس کے حق میں رائے دی ہے۔\n\nCancer Research UK کی جانب سے کام کرنے والے سائنسی ماہرین نے فنڈنگ دیے جانے سے پہلے اس اسٹڈی کے اصولوں کا جائزہ لیا تھا۔"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "p",
+              "text": "What if there is a problem?"
+            },
+            {
+              "type": "p",
+              "text": "If you wish to complain about any aspect of the way in which you have been approached or how your information is handled during the course of this study, you should contact the UnityBC team using these contact details Associate Professor Toral Gathani unitybc@ndph.ox.ac.uk and they will do their best to answer your questions."
+            },
+            {
+              "type": "p",
+              "text": "Or you may contact University of Oxford Research Governance, Ethics & Assurance (RGEA) at rgea.complaints@admin.ox.ac.uk."
+            },
+            {
+              "type": "p",
+              "text": "The investigators recognise the important contribution that volunteers make to medical research, and will make every effort to ensure your safety and wellbeing. The University of Oxford, as the research sponsor, has appropriate insurance in place in the unlikely event that you suffer any harm as a direct consequence of your taking part in this study. If something does go wrong, you are harmed during the research, and this is due to someone's negligence, then you may have grounds for a legal action for compensation. While the Sponsor will cooperate with any claim, you may wish to seek independent legal advice to ensure that you are properly represented in pursuing any complaint."
+            },
+            {
+              "type": "p",
+              "text": "Who has reviewed the study?"
+            },
+            {
+              "type": "p",
+              "text": "All research in the NHS is looked at by an independent group of people, called a Research Ethics Committee, to protect participants’ interests. This study has been reviewed and given a favourable opinion by [ _______________] Research Ethics Committee."
+            },
+            {
+              "type": "p",
+              "text": "The principles of the study were reviewed by scientific experts on behalf of Cancer Research UK before awarding funding."
+            }
+          ],
+          "ur": [
+            {
+              "type": "p",
+              "text": "اگر کوئی مسئلہ ہو تو کیا ہوگا؟"
+            },
+            {
+              "type": "p",
+              "text": "اگر آپ کو اس بات کے کسی بھی پہلو کے بارے میں شکایت ہو کہ آپ سے کس طرح رابطہ کیا گیا یا اس ریسرچ اسٹڈی کے دوران آپ کی معلومات کو کیسے سنبھالا گیا، تو آپ رابطے کی ان تفصیلات پر UnityBC ٹیم سے رابطہ کریں: Associate Professor Toral Gathani، unitybc@ndph.ox.ac.uk۔ وہ آپ کے سوالات کا جواب دینے کی پوری کوشش کریں گے۔"
+            },
+            {
+              "type": "p",
+              "text": "یا آپ University of Oxford Research Governance, Ethics & Assurance (RGEA) سے rgea.complaints@admin.ox.ac.uk پر رابطہ کر سکتی ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "اسٹڈی کے محققین طبی تحقیق میں رضاکاروں کے اہم تعاون کو تسلیم کرتے ہیں اور آپ کی حفاظت اور خیریت کے لیے ہر ممکن کوشش کریں گے۔ University of Oxford نے، جو اس تحقیق کی سرپرست ہے، اس کم امکان والی صورت حال کے لیے مناسب انشورنس کا انتظام کر رکھا ہے کہ اس اسٹڈی میں حصہ لینے کے براہِ راست نتیجے میں آپ کو کوئی نقصان پہنچے۔ اگر واقعی کچھ غلط ہو جائے، تحقیق کے دوران آپ کو نقصان پہنچے، اور یہ کسی کی غفلت کی وجہ سے ہو، تو آپ کے پاس معاوضے کے لیے قانونی دعویٰ دائر کرنے کی بنیاد ہو سکتی ہے۔ اگرچہ سرپرست کسی بھی دعوے میں تعاون کرے گی، لیکن کسی شکایت پر کارروائی کرتے وقت اپنی مناسب نمائندگی یقینی بنانے کے لیے آپ غیر جانب دار قانونی مشورہ لینے پر غور کر سکتی ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "اس اسٹڈی کا جائزہ کس نے لیا ہے؟"
+            },
+            {
+              "type": "p",
+              "text": "NHS میں ہونے والی تمام تحقیق کا جائزہ لوگوں کے ایک آزاد گروہ کے ذریعے لیا جاتا ہے، جسے ریسرچ ایتھکس کمیٹی کہا جاتا ہے، تاکہ شرکاء کے مفادات کا تحفظ کیا جا سکے۔ اس ریسرچ اسٹڈی کا جائزہ [ _______________] ریسرچ ایتھکس کمیٹی نے لیا ہے اور اس نے اس کے حق میں رائے دی ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "Cancer Research UK کی جانب سے کام کرنے والے سائنسی ماہرین نے فنڈنگ دیے جانے سے پہلے اس اسٹڈی کے اصولوں کا جائزہ لیا تھا۔"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "اگر کوئی مسئلہ ہو تو کیا ہوگا؟\n\nاگر آپ کو اس بات کے کسی بھی پہلو کے بارے میں شکایت ہو کہ آپ سے کس طرح رابطہ کیا گیا یا اس ریسرچ اسٹڈی کے دوران آپ کی معلومات کو کیسے سنبھالا گیا، تو آپ رابطے کی ان تفصیلات پر UnityBC ٹیم سے رابطہ کریں: Associate Professor Toral Gathani، unitybc@ndph.ox.ac.uk۔ وہ آپ کے سوالات کا جواب دینے کی پوری کوشش کریں گے۔\n\nیا آپ University of Oxford Research Governance, Ethics & Assurance (RGEA) سے rgea.complaints@admin.ox.ac.uk پر رابطہ کر سکتی ہیں۔\n\nاسٹڈی کے محققین طبی تحقیق میں رضاکاروں کے اہم تعاون کو تسلیم کرتے ہیں اور آپ کی حفاظت اور خیریت کے لیے ہر ممکن کوشش کریں گے۔ University of Oxford نے، جو اس تحقیق کی سرپرست ہے، اس کم امکان والی صورت حال کے لیے مناسب انشورنس کا انتظام کر رکھا ہے کہ اس اسٹڈی میں حصہ لینے کے براہِ راست نتیجے میں آپ کو کوئی نقصان پہنچے۔ اگر واقعی کچھ غلط ہو جائے، تحقیق کے دوران آپ کو نقصان پہنچے، اور یہ کسی کی غفلت کی وجہ سے ہو، تو آپ کے پاس معاوضے کے لیے قانونی دعویٰ دائر کرنے کی بنیاد ہو سکتی ہے۔ اگرچہ سرپرست کسی بھی دعوے میں تعاون کرے گی، لیکن کسی شکایت پر کارروائی کرتے وقت اپنی مناسب نمائندگی یقینی بنانے کے لیے آپ غیر جانب دار قانونی مشورہ لینے پر غور کر سکتی ہیں۔\n\nاس اسٹڈی کا جائزہ کس نے لیا ہے؟\n\nNHS میں ہونے والی تمام تحقیق کا جائزہ لوگوں کے ایک آزاد گروہ کے ذریعے لیا جاتا ہے، جسے ریسرچ ایتھکس کمیٹی کہا جاتا ہے، تاکہ شرکاء کے مفادات کا تحفظ کیا جا سکے۔ اس ریسرچ اسٹڈی کا جائزہ [ _______________] ریسرچ ایتھکس کمیٹی نے لیا ہے اور اس نے اس کے حق میں رائے دی ہے۔\n\nCancer Research UK کی جانب سے کام کرنے والے سائنسی ماہرین نے فنڈنگ دیے جانے سے پہلے اس اسٹڈی کے اصولوں کا جائزہ لیا تھا۔",
+            "sentences": [
+              {
+                "text": "اگر کوئی مسئلہ ہو تو کیا ہوگا؟",
+                "charStart": 0,
+                "charEnd": 30,
+                "start": 0.0,
+                "end": 2.5
+              },
+              {
+                "text": "اگر آپ کو اس بات کے کسی بھی پہلو کے بارے میں شکایت ہو کہ آپ سے کس طرح رابطہ کیا گیا یا اس ریسرچ اسٹڈی کے دوران آپ کی معلومات کو کیسے سنبھالا گیا، تو آپ رابطے کی ان تفصیلات پر UnityBC ٹیم سے رابطہ کریں: Associate Professor Toral Gathani، unitybc@ndph.ox.ac.uk۔",
+                "charStart": 32,
+                "charEnd": 291,
+                "start": 2.51,
+                "end": 22.01
+              },
+              {
+                "text": "وہ آپ کے سوالات کا جواب دینے کی پوری کوشش کریں گے۔",
+                "charStart": 292,
+                "charEnd": 342,
+                "start": 22.02,
+                "end": 25.72
+              },
+              {
+                "text": "یا آپ University of Oxford Research Governance, Ethics & Assurance (RGEA) سے rgea.complaints@admin.ox.ac.uk پر رابطہ کر سکتی ہیں۔",
+                "charStart": 344,
+                "charEnd": 473,
+                "start": 25.73,
+                "end": 36.03
+              },
+              {
+                "text": "اسٹڈی کے محققین طبی تحقیق میں رضاکاروں کے اہم تعاون کو تسلیم کرتے ہیں اور آپ کی حفاظت اور خیریت کے لیے ہر ممکن کوشش کریں گے۔",
+                "charStart": 475,
+                "charEnd": 599,
+                "start": 36.04,
+                "end": 45.39
+              },
+              {
+                "text": "University of Oxford نے، جو اس تحقیق کی سرپرست ہے، اس کم امکان والی صورت حال کے لیے مناسب انشورنس کا انتظام کر رکھا ہے کہ اس اسٹڈی میں حصہ لینے کے براہِ راست نتیجے میں آپ کو کوئی نقصان پہنچے۔",
+                "charStart": 600,
+                "charEnd": 791,
+                "start": 45.4,
+                "end": 57.8
+              },
+              {
+                "text": "اگر واقعی کچھ غلط ہو جائے، تحقیق کے دوران آپ کو نقصان پہنچے، اور یہ کسی کی غفلت کی وجہ سے ہو، تو آپ کے پاس معاوضے کے لیے قانونی دعویٰ دائر کرنے کی بنیاد ہو سکتی ہے۔",
+                "charStart": 792,
+                "charEnd": 956,
+                "start": 57.81,
+                "end": 69.16
+              },
+              {
+                "text": "اگرچہ سرپرست کسی بھی دعوے میں تعاون کرے گی، لیکن کسی شکایت پر کارروائی کرتے وقت اپنی مناسب نمائندگی یقینی بنانے کے لیے آپ غیر جانب دار قانونی مشورہ لینے پر غور کر سکتی ہیں۔",
+                "charStart": 957,
+                "charEnd": 1129,
+                "start": 69.17,
+                "end": 80.62
+              },
+              {
+                "text": "اس اسٹڈی کا جائزہ کس نے لیا ہے؟",
+                "charStart": 1131,
+                "charEnd": 1162,
+                "start": 80.63,
+                "end": 83.58
+              },
+              {
+                "text": "NHS میں ہونے والی تمام تحقیق کا جائزہ لوگوں کے ایک آزاد گروہ کے ذریعے لیا جاتا ہے، جسے ریسرچ ایتھکس کمیٹی کہا جاتا ہے، تاکہ شرکاء کے مفادات کا تحفظ کیا جا سکے۔",
+                "charStart": 1164,
+                "charEnd": 1323,
+                "start": 83.59,
+                "end": 94.59
+              },
+              {
+                "text": "اس ریسرچ اسٹڈی کا جائزہ [ _______________] ریسرچ ایتھکس کمیٹی نے لیا ہے اور اس نے اس کے حق میں رائے دی ہے۔",
+                "charStart": 1324,
+                "charEnd": 1430,
+                "start": 94.6,
+                "end": 101.0
+              },
+              {
+                "text": "Cancer Research UK کی جانب سے کام کرنے والے سائنسی ماہرین نے فنڈنگ دیے جانے سے پہلے اس اسٹڈی کے اصولوں کا جائزہ لیا تھا۔",
+                "charStart": 1432,
+                "charEnd": 1552,
+                "start": 101.01,
+                "end": 108.66
+              }
+            ],
+            "duration": 108.67
+          },
+          "en": {
+            "text": "What if there is a problem?\nIf you wish to complain about any aspect of the way in which you have been approached or how your information is handled during the course of this study, you should contact the UnityBC team using these contact details Associate Professor Toral Gathani unitybc@ndph.ox.ac.uk and they will do their best to answer your questions.\nOr you may contact University of Oxford Research Governance, Ethics & Assurance (RGEA) at rgea.complaints@admin.ox.ac.uk.\nThe investigators recognise the important contribution that volunteers make to medical research, and will make every effort to ensure your safety and wellbeing. The University of Oxford, as the research sponsor, has appropriate insurance in place in the unlikely event that you suffer any harm as a direct consequence of your taking part in this study. If something does go wrong, you are harmed during the research, and this is due to someone's negligence, then you may have grounds for a legal action for compensation. While the Sponsor will cooperate with any claim, you may wish to seek independent legal advice to ensure that you are properly represented in pursuing any complaint.\nWho has reviewed the study?\nAll research in the NHS is looked at by an independent group of people, called a Research Ethics Committee, to protect participants’ interests. This study has been reviewed and given a favourable opinion by [ _______________] Research Ethics Committee.\nThe principles of the study were reviewed by scientific experts on behalf of Cancer Research UK before awarding funding.",
+            "sentences": [
+              {
+                "text": "What if there is a problem?",
+                "charStart": 0,
+                "charEnd": 27,
+                "clip": "11a506aa1d17e98f3bf31cdf0a3eced5030fa6cf344ebc9c013bee8caf126f6d",
+                "start": 0.0,
+                "end": 2.5
+              },
+              {
+                "text": "If you wish to complain about any aspect of the way in which you have been approached or how your information is handled during the course of this study, you should contact the UnityBC team using these contact details Associate Professor Toral Gathani unitybc@ndph.ox.ac.uk and they will do their best to answer your questions.",
+                "charStart": 28,
+                "charEnd": 355,
+                "clip": "44eb16bb18e8f3ae7fae19e9d00d7903ea0213859d5fefc79e2b6c5607f34cb2",
+                "start": 2.51,
+                "end": 23.66
+              },
+              {
+                "text": "Or you may contact University of Oxford Research Governance, Ethics & Assurance (RGEA) at rgea.complaints@admin.ox.ac.uk.",
+                "charStart": 356,
+                "charEnd": 477,
+                "clip": "8a191597b972abaa002b168288a0bfa7affb9b5cdcd6e077073a3e9627ab4944",
+                "start": 23.67,
+                "end": 33.97
+              },
+              {
+                "text": "The investigators recognise the important contribution that volunteers make to medical research, and will make every effort to ensure your safety and wellbeing.",
+                "charStart": 478,
+                "charEnd": 638,
+                "clip": "1dda0a3de8d4a1ab37c0c232caf7bf07202c20c96c197eb09c6c2db8eb6451aa",
+                "start": 33.98,
+                "end": 43.13
+              },
+              {
+                "text": "The University of Oxford, as the research sponsor, has appropriate insurance in place in the unlikely event that you suffer any harm as a direct consequence of your taking part in this study.",
+                "charStart": 639,
+                "charEnd": 830,
+                "clip": "601cb93f7f10a743abdb661125f0a470f824271521d8820c79931f385f94d35f",
+                "start": 43.14,
+                "end": 54.59
+              },
+              {
+                "text": "If something does go wrong, you are harmed during the research, and this is due to someone's negligence, then you may have grounds for a legal action for compensation.",
+                "charStart": 831,
+                "charEnd": 998,
+                "clip": "f9dbd72c27228d4bd5ff010163578c0fe2c83bc547be1aba04c20b063c5ac110",
+                "start": 54.6,
+                "end": 63.85
+              },
+              {
+                "text": "While the Sponsor will cooperate with any claim, you may wish to seek independent legal advice to ensure that you are properly represented in pursuing any complaint.",
+                "charStart": 999,
+                "charEnd": 1164,
+                "clip": "fa9b370665ddff277d3b420fd76749b3286121e49f7c2165d5930d20237e4b8d",
+                "start": 63.86,
+                "end": 73.91
+              },
+              {
+                "text": "Who has reviewed the study?",
+                "charStart": 1165,
+                "charEnd": 1192,
+                "clip": "3ed03176921516153849ad455a2023aa7040955d056d979a6dd347eac439783b",
+                "start": 73.92,
+                "end": 75.82
+              },
+              {
+                "text": "All research in the NHS is looked at by an independent group of people, called a Research Ethics Committee, to protect participants’ interests.",
+                "charStart": 1193,
+                "charEnd": 1336,
+                "clip": "d7938a8f5f3a3d27a5bf0a2a7d3fd98a89c23dd39895b684e80f35b8e99b9850",
+                "start": 75.83,
+                "end": 83.53
+              },
+              {
+                "text": "This study has been reviewed and given a favourable opinion by [ _______________] Research Ethics Committee.",
+                "charStart": 1337,
+                "charEnd": 1445,
+                "clip": "6acd5aeea5947ed72e811607a2ecab50832b0d7e41239970381c7f368b067ce5",
+                "start": 83.54,
+                "end": 90.34
+              },
+              {
+                "text": "The principles of the study were reviewed by scientific experts on behalf of Cancer Research UK before awarding funding.",
+                "charStart": 1446,
+                "charEnd": 1566,
+                "clip": "15d1a074f2b55c65a6a939e7783a466b15a4e4b7078e7fa04b08757f9727f7ef",
+                "start": 90.35,
+                "end": 98.6
+              }
+            ],
+            "duration": 98.61
+          }
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 27,
+              "end": 2.5
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 30,
+              "end": 2.5
+            }
+          },
+          {
+            "en": {
+              "charStart": 28,
+              "start": 2.51,
+              "charEnd": 355,
+              "end": 23.66
+            },
+            "ur": {
+              "charStart": 32,
+              "start": 2.51,
+              "charEnd": 342,
+              "end": 25.72
+            }
+          },
+          {
+            "en": {
+              "charStart": 356,
+              "start": 23.67,
+              "charEnd": 477,
+              "end": 33.97
+            },
+            "ur": {
+              "charStart": 344,
+              "start": 25.73,
+              "charEnd": 473,
+              "end": 36.03
+            }
+          },
+          {
+            "en": {
+              "charStart": 478,
+              "start": 33.98,
+              "charEnd": 638,
+              "end": 43.13
+            },
+            "ur": {
+              "charStart": 475,
+              "start": 36.04,
+              "charEnd": 599,
+              "end": 45.39
+            }
+          },
+          {
+            "en": {
+              "charStart": 639,
+              "start": 43.14,
+              "charEnd": 830,
+              "end": 54.59
+            },
+            "ur": {
+              "charStart": 600,
+              "start": 45.4,
+              "charEnd": 791,
+              "end": 57.8
+            }
+          },
+          {
+            "en": {
+              "charStart": 831,
+              "start": 54.6,
+              "charEnd": 998,
+              "end": 63.85
+            },
+            "ur": {
+              "charStart": 792,
+              "start": 57.81,
+              "charEnd": 956,
+              "end": 69.16
+            }
+          },
+          {
+            "en": {
+              "charStart": 999,
+              "start": 63.86,
+              "charEnd": 1164,
+              "end": 73.91
+            },
+            "ur": {
+              "charStart": 957,
+              "start": 69.17,
+              "charEnd": 1129,
+              "end": 80.62
+            }
+          },
+          {
+            "en": {
+              "charStart": 1165,
+              "start": 73.92,
+              "charEnd": 1192,
+              "end": 75.82
+            },
+            "ur": {
+              "charStart": 1131,
+              "start": 80.63,
+              "charEnd": 1162,
+              "end": 83.58
+            }
+          },
+          {
+            "en": {
+              "charStart": 1193,
+              "start": 75.83,
+              "charEnd": 1336,
+              "end": 83.53
+            },
+            "ur": {
+              "charStart": 1164,
+              "start": 83.59,
+              "charEnd": 1323,
+              "end": 94.59
+            }
+          },
+          {
+            "en": {
+              "charStart": 1337,
+              "start": 83.54,
+              "charEnd": 1445,
+              "end": 90.34
+            },
+            "ur": {
+              "charStart": 1324,
+              "start": 94.6,
+              "charEnd": 1430,
+              "end": 101.0
+            }
+          },
+          {
+            "en": {
+              "charStart": 1446,
+              "start": 90.35,
+              "charEnd": 1566,
+              "end": 98.6
+            },
+            "ur": {
+              "charStart": 1432,
+              "start": 101.01,
+              "charEnd": 1552,
+              "end": 108.66
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-589017b918a9ae8781e2.mp3",
+          "en": "/assets/audio/en-8d8d14fc90f59f6c7b52.mp3"
+        }
+      },
+      {
+        "id": "pis-s0012",
+        "titles": {
+          "en": "Future research",
+          "cs": "Informace pro účastnice · 12"
+        },
+        "text": {
+          "en": "Participation in future research:\nWe will seek consent from you to approach you about other research in future. Please note that:\nAll contact will come from the research team of UnityBC in the first instance\nAgreeing to be contacted does not oblige you to take part in future research\nYou can request to be removed from this register at any time they wish.\nFurther Information and Contact Details\nIf you have any questions, please contact the UnityBC team at unitybc@ndph.ox.ac.uk or in writing to the UnityBC Team, Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Richard Doll Building, Old Road Campus, Oxford OX3 7LF.\nThank you for your interest in this study. Our aim is to make your participation a worthwhile experience, while helping us and others to improve outcomes for women with breast cancer.",
+          "ur": "مستقبل کی تحقیق میں شرکت:\n\nہم مستقبل میں ہونے والی دوسری تحقیق کے بارے میں آپ سے رابطہ کرنے کے لیے آپ کی رضامندی لیں گے۔ براہِ کرم نوٹ کریں کہ:\n\nابتدا میں آپ سے تمام رابطہ UnityBC کی ریسرچ ٹیم ہی کرے گی۔\n\nرابطہ کیے جانے پر رضامندی دینے کا یہ مطلب نہیں کہ آپ کے لیے مستقبل کی تحقیق میں حصہ لینا ضروری ہے۔\n\nآپ جب چاہیں، درخواست کر کے اپنا نام اس رجسٹر سے ہٹوا سکتی ہیں۔\n\nمزید معلومات اور رابطے کی تفصیلات\n\nاگر آپ کے کوئی سوالات ہوں تو براہِ کرم UnityBC ٹیم سے unitybc@ndph.ox.ac.uk پر رابطہ کریں یا تحریری طور پر اس پتے پر لکھیں: UnityBC Team, Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Richard Doll Building, Old Road Campus, Oxford OX3 7LF۔\n\nاس اسٹڈی میں دلچسپی لینے کے لیے آپ کا شکریہ۔ ہمارا مقصد یہ ہے کہ آپ کی شرکت آپ کے لیے ایک مفید تجربہ ہو، اور اس کے ساتھ ہمیں اور دوسروں کو چھاتی کے کینسر سے متاثرہ خواتین کے نتائج بہتر بنانے میں مدد ملے۔"
+        },
+        "blocks": {
+          "en": [
+            {
+              "type": "p",
+              "text": "Participation in future research:"
+            },
+            {
+              "type": "p",
+              "text": "We will seek consent from you to approach you about other research in future. Please note that:"
+            },
+            {
+              "type": "p",
+              "text": "All contact will come from the research team of UnityBC in the first instance"
+            },
+            {
+              "type": "p",
+              "text": "Agreeing to be contacted does not oblige you to take part in future research"
+            },
+            {
+              "type": "p",
+              "text": "You can request to be removed from this register at any time they wish."
+            },
+            {
+              "type": "p",
+              "text": "Further Information and Contact Details"
+            },
+            {
+              "type": "p",
+              "text": "If you have any questions, please contact the UnityBC team at unitybc@ndph.ox.ac.uk or in writing to the UnityBC Team, Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Richard Doll Building, Old Road Campus, Oxford OX3 7LF."
+            },
+            {
+              "type": "p",
+              "text": "Thank you for your interest in this study. Our aim is to make your participation a worthwhile experience, while helping us and others to improve outcomes for women with breast cancer."
+            }
+          ],
+          "ur": [
+            {
+              "type": "p",
+              "text": "مستقبل کی تحقیق میں شرکت:"
+            },
+            {
+              "type": "p",
+              "text": "ہم مستقبل میں ہونے والی دوسری تحقیق کے بارے میں آپ سے رابطہ کرنے کے لیے آپ کی رضامندی لیں گے۔ براہِ کرم نوٹ کریں کہ:"
+            },
+            {
+              "type": "p",
+              "text": "ابتدا میں آپ سے تمام رابطہ UnityBC کی ریسرچ ٹیم ہی کرے گی۔"
+            },
+            {
+              "type": "p",
+              "text": "رابطہ کیے جانے پر رضامندی دینے کا یہ مطلب نہیں کہ آپ کے لیے مستقبل کی تحقیق میں حصہ لینا ضروری ہے۔"
+            },
+            {
+              "type": "p",
+              "text": "آپ جب چاہیں، درخواست کر کے اپنا نام اس رجسٹر سے ہٹوا سکتی ہیں۔"
+            },
+            {
+              "type": "p",
+              "text": "مزید معلومات اور رابطے کی تفصیلات"
+            },
+            {
+              "type": "p",
+              "text": "اگر آپ کے کوئی سوالات ہوں تو براہِ کرم UnityBC ٹیم سے unitybc@ndph.ox.ac.uk پر رابطہ کریں یا تحریری طور پر اس پتے پر لکھیں: UnityBC Team, Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Richard Doll Building, Old Road Campus, Oxford OX3 7LF۔"
+            },
+            {
+              "type": "p",
+              "text": "اس اسٹڈی میں دلچسپی لینے کے لیے آپ کا شکریہ۔ ہمارا مقصد یہ ہے کہ آپ کی شرکت آپ کے لیے ایک مفید تجربہ ہو، اور اس کے ساتھ ہمیں اور دوسروں کو چھاتی کے کینسر سے متاثرہ خواتین کے نتائج بہتر بنانے میں مدد ملے۔"
+            }
+          ]
+        },
+        "alignment": {
+          "ur": {
+            "text": "مستقبل کی تحقیق میں شرکت:\n\nہم مستقبل میں ہونے والی دوسری تحقیق کے بارے میں آپ سے رابطہ کرنے کے لیے آپ کی رضامندی لیں گے۔ براہِ کرم نوٹ کریں کہ:\n\nابتدا میں آپ سے تمام رابطہ UnityBC کی ریسرچ ٹیم ہی کرے گی۔\n\nرابطہ کیے جانے پر رضامندی دینے کا یہ مطلب نہیں کہ آپ کے لیے مستقبل کی تحقیق میں حصہ لینا ضروری ہے۔\n\nآپ جب چاہیں، درخواست کر کے اپنا نام اس رجسٹر سے ہٹوا سکتی ہیں۔\n\nمزید معلومات اور رابطے کی تفصیلات\n\nاگر آپ کے کوئی سوالات ہوں تو براہِ کرم UnityBC ٹیم سے unitybc@ndph.ox.ac.uk پر رابطہ کریں یا تحریری طور پر اس پتے پر لکھیں: UnityBC Team, Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Richard Doll Building, Old Road Campus, Oxford OX3 7LF۔\n\nاس اسٹڈی میں دلچسپی لینے کے لیے آپ کا شکریہ۔ ہمارا مقصد یہ ہے کہ آپ کی شرکت آپ کے لیے ایک مفید تجربہ ہو، اور اس کے ساتھ ہمیں اور دوسروں کو چھاتی کے کینسر سے متاثرہ خواتین کے نتائج بہتر بنانے میں مدد ملے۔",
+            "sentences": [
+              {
+                "text": "مستقبل کی تحقیق میں شرکت:",
+                "charStart": 0,
+                "charEnd": 25,
+                "start": 0.0,
+                "end": 2.35
+              },
+              {
+                "text": "ہم مستقبل میں ہونے والی دوسری تحقیق کے بارے میں آپ سے رابطہ کرنے کے لیے آپ کی رضامندی لیں گے۔",
+                "charStart": 27,
+                "charEnd": 120,
+                "start": 2.36,
+                "end": 8.76
+              },
+              {
+                "text": "براہِ کرم نوٹ کریں کہ:",
+                "charStart": 121,
+                "charEnd": 143,
+                "start": 8.77,
+                "end": 10.82
+              },
+              {
+                "text": "ابتدا میں آپ سے تمام رابطہ UnityBC کی ریسرچ ٹیم ہی کرے گی۔",
+                "charStart": 145,
+                "charEnd": 203,
+                "start": 10.83,
+                "end": 15.93
+              },
+              {
+                "text": "رابطہ کیے جانے پر رضامندی دینے کا یہ مطلب نہیں کہ آپ کے لیے مستقبل کی تحقیق میں حصہ لینا ضروری ہے۔",
+                "charStart": 205,
+                "charEnd": 303,
+                "start": 15.94,
+                "end": 22.79
+              },
+              {
+                "text": "آپ جب چاہیں، درخواست کر کے اپنا نام اس رجسٹر سے ہٹوا سکتی ہیں۔",
+                "charStart": 305,
+                "charEnd": 367,
+                "start": 22.8,
+                "end": 27.6
+              },
+              {
+                "text": "مزید معلومات اور رابطے کی تفصیلات",
+                "charStart": 369,
+                "charEnd": 402,
+                "start": 27.61,
+                "end": 30.56
+              },
+              {
+                "text": "اگر آپ کے کوئی سوالات ہوں تو براہِ کرم UnityBC ٹیم سے unitybc@ndph.ox.ac.uk پر رابطہ کریں یا تحریری طور پر اس پتے پر لکھیں: UnityBC Team, Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Richard Doll Building, Old Road Campus, Oxford OX3 7LF۔",
+                "charStart": 404,
+                "charEnd": 687,
+                "start": 30.57,
+                "end": 51.82
+              },
+              {
+                "text": "اس اسٹڈی میں دلچسپی لینے کے لیے آپ کا شکریہ۔",
+                "charStart": 689,
+                "charEnd": 733,
+                "start": 51.83,
+                "end": 55.23
+              },
+              {
+                "text": "ہمارا مقصد یہ ہے کہ آپ کی شرکت آپ کے لیے ایک مفید تجربہ ہو، اور اس کے ساتھ ہمیں اور دوسروں کو چھاتی کے کینسر سے متاثرہ خواتین کے نتائج بہتر بنانے میں مدد ملے۔",
+                "charStart": 734,
+                "charEnd": 892,
+                "start": 55.24,
+                "end": 66.19
+              }
+            ],
+            "duration": 66.2
+          },
+          "en": {
+            "text": "Participation in future research:\nWe will seek consent from you to approach you about other research in future. Please note that:\nAll contact will come from the research team of UnityBC in the first instance\nAgreeing to be contacted does not oblige you to take part in future research\nYou can request to be removed from this register at any time they wish.\nFurther Information and Contact Details\nIf you have any questions, please contact the UnityBC team at unitybc@ndph.ox.ac.uk or in writing to the UnityBC Team, Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Richard Doll Building, Old Road Campus, Oxford OX3 7LF.\nThank you for your interest in this study. Our aim is to make your participation a worthwhile experience, while helping us and others to improve outcomes for women with breast cancer.",
+            "sentences": [
+              {
+                "text": "Participation in future research:",
+                "charStart": 0,
+                "charEnd": 33,
+                "clip": "68eeb8988fede49cae13de05ed8bd87c197be2e44ee45958848a0b0262bc7ea4",
+                "start": 0.0,
+                "end": 2.75
+              },
+              {
+                "text": "We will seek consent from you to approach you about other research in future.",
+                "charStart": 34,
+                "charEnd": 111,
+                "clip": "b1218714eb4af2ddffaf104d2cca903204175890adb140a08e8bc65d656b0c52",
+                "start": 2.76,
+                "end": 7.46
+              },
+              {
+                "text": "Please note that:",
+                "charStart": 112,
+                "charEnd": 129,
+                "clip": "eca53f83923d5328b53ed035416d0f457abe4daa7dfd487662153161a2460f86",
+                "start": 7.47,
+                "end": 9.62
+              },
+              {
+                "text": "All contact will come from the research team of UnityBC in the first instance",
+                "charStart": 130,
+                "charEnd": 207,
+                "clip": "f607d4d2d78c523ced9b9e97e44a1b69be33242046a1cc25dae537771b14e435",
+                "start": 9.63,
+                "end": 14.48
+              },
+              {
+                "text": "Agreeing to be contacted does not oblige you to take part in future research",
+                "charStart": 208,
+                "charEnd": 284,
+                "clip": "bc8a0119c21fe7c4f526b189aceea5d0dfb374cffb3d19c5bf28ecdb0f001838",
+                "start": 14.49,
+                "end": 19.94
+              },
+              {
+                "text": "You can request to be removed from this register at any time they wish.",
+                "charStart": 285,
+                "charEnd": 356,
+                "clip": "0974332a0deea3fa4ea07c0f82b362d20cf99fea956d78d54b45ecb0dccf0d13",
+                "start": 19.95,
+                "end": 25.1
+              },
+              {
+                "text": "Further Information and Contact Details",
+                "charStart": 357,
+                "charEnd": 396,
+                "clip": "ce8ba7367913c661a25018b0298e583ed4ab2636fc5db29e8a07b1d2772f94bb",
+                "start": 25.11,
+                "end": 28.41
+              },
+              {
+                "text": "If you have any questions, please contact the UnityBC team at unitybc@ndph.ox.ac.uk or in writing to the UnityBC Team, Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Richard Doll Building, Old Road Campus, Oxford OX3 7LF.",
+                "charStart": 397,
+                "charEnd": 661,
+                "clip": "6db699b9b138b4dc047a1dff4284fbcae238de6007089b752e9f2979ff582617",
+                "start": 28.42,
+                "end": 47.77
+              },
+              {
+                "text": "Thank you for your interest in this study.",
+                "charStart": 662,
+                "charEnd": 704,
+                "clip": "cb5eb4ba3b4810208c764145fe6af5fd6ae2bb525cf0630f956a21a2c33920ba",
+                "start": 47.78,
+                "end": 50.98
+              },
+              {
+                "text": "Our aim is to make your participation a worthwhile experience, while helping us and others to improve outcomes for women with breast cancer.",
+                "charStart": 705,
+                "charEnd": 845,
+                "clip": "2940c5abaece0d93f53bedaf70664bcc8c9b367baaba0f2abde7630a3240b092",
+                "start": 50.99,
+                "end": 59.79
+              }
+            ],
+            "duration": 59.8
+          }
+        },
+        "interpreterPairs": [
+          {
+            "en": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 33,
+              "end": 2.75
+            },
+            "ur": {
+              "charStart": 0,
+              "start": 0.0,
+              "charEnd": 25,
+              "end": 2.35
+            }
+          },
+          {
+            "en": {
+              "charStart": 34,
+              "start": 2.76,
+              "charEnd": 111,
+              "end": 7.46
+            },
+            "ur": {
+              "charStart": 27,
+              "start": 2.36,
+              "charEnd": 120,
+              "end": 8.76
+            }
+          },
+          {
+            "en": {
+              "charStart": 112,
+              "start": 7.47,
+              "charEnd": 129,
+              "end": 9.62
+            },
+            "ur": {
+              "charStart": 121,
+              "start": 8.77,
+              "charEnd": 143,
+              "end": 10.82
+            }
+          },
+          {
+            "en": {
+              "charStart": 130,
+              "start": 9.63,
+              "charEnd": 207,
+              "end": 14.48
+            },
+            "ur": {
+              "charStart": 145,
+              "start": 10.83,
+              "charEnd": 203,
+              "end": 15.93
+            }
+          },
+          {
+            "en": {
+              "charStart": 208,
+              "start": 14.49,
+              "charEnd": 284,
+              "end": 19.94
+            },
+            "ur": {
+              "charStart": 205,
+              "start": 15.94,
+              "charEnd": 303,
+              "end": 22.79
+            }
+          },
+          {
+            "en": {
+              "charStart": 285,
+              "start": 19.95,
+              "charEnd": 356,
+              "end": 25.1
+            },
+            "ur": {
+              "charStart": 305,
+              "start": 22.8,
+              "charEnd": 367,
+              "end": 27.6
+            }
+          },
+          {
+            "en": {
+              "charStart": 357,
+              "start": 25.11,
+              "charEnd": 396,
+              "end": 28.41
+            },
+            "ur": {
+              "charStart": 369,
+              "start": 27.61,
+              "charEnd": 402,
+              "end": 30.56
+            }
+          },
+          {
+            "en": {
+              "charStart": 397,
+              "start": 28.42,
+              "charEnd": 661,
+              "end": 47.77
+            },
+            "ur": {
+              "charStart": 404,
+              "start": 30.57,
+              "charEnd": 687,
+              "end": 51.82
+            }
+          },
+          {
+            "en": {
+              "charStart": 662,
+              "start": 47.78,
+              "charEnd": 704,
+              "end": 50.98
+            },
+            "ur": {
+              "charStart": 689,
+              "start": 51.83,
+              "charEnd": 733,
+              "end": 55.23
+            }
+          },
+          {
+            "en": {
+              "charStart": 705,
+              "start": 50.99,
+              "charEnd": 845,
+              "end": 59.79
+            },
+            "ur": {
+              "charStart": 734,
+              "start": 55.24,
+              "charEnd": 892,
+              "end": 66.19
+            }
+          }
+        ],
+        "tracks": {
+          "ur": "/assets/audio/ur-11294e62e9df3d38ba8e.mp3",
+          "en": "/assets/audio/en-0ea203c066d2f9a74c2d.mp3"
+        }
+      }
+    ],
+    "icons": {
+      "Play": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 5a2 2 0 0 1 3.008-1.728l11.997 6.998a2 2 0 0 1 .003 3.458l-12 7A2 2 0 0 1 5 19z\" /></svg>",
+      "Pause": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"14\" y=\"3\" width=\"5\" height=\"18\" rx=\"1\" /><rect x=\"5\" y=\"3\" width=\"5\" height=\"18\" rx=\"1\" /></svg>",
+      "RotateCcw": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8\" /><path d=\"M3 3v5h5\" /></svg>",
+      "Rewind": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 6a2 2 0 0 0-3.414-1.414l-6 6a2 2 0 0 0 0 2.828l6 6A2 2 0 0 0 12 18z\" /><path d=\"M22 6a2 2 0 0 0-3.414-1.414l-6 6a2 2 0 0 0 0 2.828l6 6A2 2 0 0 0 22 18z\" /></svg>",
+      "CircleHelp": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"10\" /><path d=\"M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3\" /><path d=\"M12 17h.01\" /></svg>",
+      "ListMusic": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M16 5H3\" /><path d=\"M11 12H3\" /><path d=\"M11 19H3\" /><path d=\"M21 16V5\" /><circle cx=\"18\" cy=\"16\" r=\"3\" /></svg>",
+      "Download": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 15V3\" /><path d=\"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4\" /><path d=\"m7 10 5 5 5-5\" /></svg>",
+      "ChevronLeft": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m15 18-6-6 6-6\" /></svg>",
+      "ChevronRight": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m9 18 6-6-6-6\" /></svg>",
+      "Bookmark": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z\"/></svg>",
+      "X": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M18 6 6 18\"/><path d=\"m6 6 12 12\"/></svg>",
+      "Headphones": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 14v-3a9 9 0 0 1 18 0v3\"/><rect x=\"3\" y=\"12\" width=\"4\" height=\"8\" rx=\"2\"/><rect x=\"17\" y=\"12\" width=\"4\" height=\"8\" rx=\"2\"/></svg>",
+      "Languages": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m5 8 6 6m-7 0 6-6m-7-3h12M8 3v2m4 16 5-11 5 11m-8-4h6\"/></svg>",
+      "Panel": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/></svg>",
+      "Columns": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><path d=\"M12 4v16\"/></svg>"
+    },
+    "languageLabels": {
+      "en": "English",
+      "ur": "Urdu"
+    }
+  },
+  "copy": {
+    "en": {
+      "title": "Participant information",
+      "questionnaireTitle": "Questionnaire examples",
+      "uiLanguage": "Interface",
+      "contentLanguage": "Recording and active text",
+      "english": "English",
+      "czech": "Czech",
+      "preview": "Research demonstration. Translations and AI-generated recordings are awaiting language review. Notes and example answers remain in this browser.",
+      "listen": "Listen",
+      "pause": "Pause",
+      "resume": "Resume",
+      "speed": "Speed",
+      "normal": "Normal (1×)",
+      "slower": "Slower (0.85×)",
+      "slowest": "Slower (0.7×)",
+      "progress": "Playback position",
+      "missing": "No recording is available for this text.",
+      "help": "Save",
+      "markSaved": "This passage has been marked.",
+      "marks": "Notes",
+      "export": "Download marks",
+      "next": "Next section",
+      "previous": "Previous section",
+      "settings": "Playback settings",
+      "questionHelp": "Choose one answer.",
+      "multiHelp": "Select all that apply.",
+      "answered": "Answered",
+      "notAnswered": "Not answered",
+      "error": "The recording could not load. Check your connection and press Play to try again. You can still read the text.",
+      "textOnly": "Czech text is available; Czech recordings have not been generated.",
+      "empty": "No passages marked yet.",
+      "remove": "Remove",
+      "replayMark": "Listen from this point",
+      "local": "Your place is saved in this browser.",
+      "saveError": "Saving is unavailable. Download your marks before closing.",
+      "position": "Section {number} of {total}",
+      "languageLabel": "Recording language",
+      "back5": "Back 5 seconds",
+      "faster": "Faster (1.25×)",
+      "fastest": "Faster (1.5×)",
+      "previousSentence": "Previous sentence or option",
+      "nextSentence": "Next sentence or option",
+      "selectText": "Select text to save a passage or add a note.",
+      "showPassage": "Show passage",
+      "noteLabel": "Your note (optional)",
+      "playbackTitle": "Playback",
+      "parallelView": "English beside translation",
+      "singleView": "One language",
+      "readingMode": "Text view",
+      "oneLanguage": "One language",
+      "sideBySide": "Two languages",
+      "parallelTranslation": "Parallel translation",
+      "order": "Order",
+      "nowReading": "Now reading",
+      "nextLanguage": "Next",
+      "pairProgress": "Passage {number} of {total}",
+      "repeatPair": "Repeat passage",
+      "previousPair": "Previous passage",
+      "nextPair": "Next passage",
+      "sectionComplete": "Section complete",
+      "sections": "Sections",
+      "interpreterHelp": "Each passage is read in both languages. Playback stops at the end of this section.",
+      "passage": "Passage",
+      "followReading": "Follow reading",
+      "focusView": "Focus view",
+      "showSidebar": "Show notes",
+      "hideSidebar": "Hide notes",
+      "playbackSpeed": "Playback speed",
+      "originalFirst": "Original first",
+      "audioReading": "Audio reading",
+      "selectedLanguage": "Selected language",
+      "closeSelection": "Dismiss selection",
+      "listenTo": "Listen to:",
+      "displayOptions": "Display options",
+      "bothLanguages": "Both",
+      "bothHint": "Both is available with two languages displayed. English is read first.",
+      "pausedReading": "Paused ·",
+      "playThrough": "Play through",
+      "pauseEachSegment": "Pause after each segment",
+      "switchPlayThrough": "Switch to play through",
+      "switchPauseSegments": "Switch to pause after each segment",
+      "followShort": "Follow",
+      "previousShort": "Previous",
+      "nextShort": "Next",
+      "pauseSegmentShort": "Pause per segment"
+    }
+  }
+}
+---
+
+Fixed demonstration content. Edit this source and rebuild. Translation, speech and passage alignment still require language review.

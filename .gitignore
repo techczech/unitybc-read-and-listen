@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+.wrangler/
+verification-local/
+node_modules/
+dist/

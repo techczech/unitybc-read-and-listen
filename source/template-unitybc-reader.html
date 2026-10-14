@@ -1,0 +1,66 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>UnityBC</title><style>{{STYLE}}</style></head><body class="reading">
+<header><strong>UnityBC</strong><span data-page-title></span><label><span data-i18n="uiLanguage"></span><select data-ui-language><option value="en">English</option></select></label></header>
+<p class="preview" data-i18n="preview"></p><main><div class="reader-shell"><nav class="section-rail"><h2 data-rail-title></h2><div data-rail-sections></div></nav><div class="reader-main"><nav class="part-nav"><button data-prev data-i18n="previousShort"></button><details class="section-menu" data-sections><summary data-section-summary></summary><div class="section-list" data-section-list></div></details><select data-unit-select hidden aria-label="Section"></select><button data-next data-i18n="nextShort"></button></nav>
+<div class="material-heading"><h1 data-unit-title></h1><span data-position></span></div>
+<div class="material-layout"><article class="content-panel"><div class="content-toolbar"><div class="choice-group listening-choices" role="group" data-listen-choices><span class="choice-caption" data-i18n="listenTo"></span><div class="choice-buttons"><button type="button" data-listen-choice="target"></button><button type="button" data-listen-choice="en"></button><button type="button" data-listen-choice="both"></button></div></div><div class="choice-group display-choices" role="group" data-display-choices><span class="choice-caption" data-i18n="displayOptions"></span><div class="choice-buttons"><button type="button" data-display-view="one"></button><button type="button" data-display-view="side"></button></div></div><label data-legacy-choice><span data-i18n="contentLanguage"></span><select data-content-language><option value="en" data-i18n="english"></option><option value="bn">বাংলা</option></select></label><label class="mode-control" data-legacy-choice><span data-i18n="readingMode"></span><select data-reading-mode><option value="one" data-i18n="oneLanguage"></option><option value="side" data-i18n="sideBySide"></option></select></label><button type="button" data-compare hidden aria-pressed="false" data-i18n="parallelView"></button><button type="button" data-focus-view aria-pressed="false" data-i18n="focusView"></button><div class="inline-playback"><span data-question-sentence-controls hidden></span><button data-listen data-icon-label="listen"></button></div></div><div class="paired-column-labels" data-paired-labels hidden><span data-paired-label-en></span><span data-paired-label-target></span></div><div data-interpreter-passages hidden></div><div class="reading-columns"><section class="primary-column"><h2 class="column-label" data-primary-label hidden></h2><div data-content></div></section><section data-reference-column hidden><h2 class="column-label" data-reference-label></h2><div data-reference></div></section></div><div data-question-controls></div><div class="reader-playback" data-reader-playback><label class="audio-reading-control" data-legacy-choice><span data-i18n="audioReading"></span><select data-audio-mode><option value="single" data-i18n="selectedLanguage"></option><option value="interpreter" data-i18n="parallelTranslation"></option></select></label><div data-round-transport></div><span class="playback-speed-label" data-i18n="playbackSpeed"></span><div data-round-speed></div><div class="reader-details" data-reader-details><button type="button" class="segment-mode" data-segment-mode aria-pressed="false"></button></div></div><nav class="reader-section-actions" data-reader-section-actions></nav><div class="section-end" data-section-end hidden><strong data-i18n="sectionComplete"></strong><button type="button" data-end-next></button></div></article>
+<aside class="listening-panel"><button type="button" class="sidebar-toggle" data-sidebar-toggle aria-expanded="true"></button><div data-sidebar-body><div data-transport hidden><h2 class="sidebar-heading" data-i18n="playbackTitle"></h2><div class="transport-controls"><button data-sentence-back></button><button data-sentence-forward></button><input data-seek type="range" min="0" max="1" value="0" step=".1"><output data-clock>0:00 / 0:00</output></div><div class="speed-line" role="group" aria-label="Playback speed"><span class="speed-icon"><svg aria-hidden="true"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="m12 14 4-4" />
+  <path d="M3.34 19a10 10 0 1 1 17.32 0" />
+</svg></span><button type="button" data-rate=".7">0.7×</button><button type="button" data-rate=".85">0.85×</button><button type="button" data-rate="1">1×</button><button type="button" data-rate="1.25">1.25×</button><button type="button" data-rate="1.5">1.5×</button></div><select data-speed hidden><option value=".7"></option><option value=".85"></option><option value="1"></option><option value="1.25"></option><option value="1.5"></option></select></div><p data-missing hidden></p><p data-error hidden role="alert"></p><div class="interpreter-tools" data-interpreter-tools hidden><label class="passage-order" hidden><span data-i18n="order"></span><span data-interpreter-order></span></label><div class="passage-controls-row"><label class="passage-picker"><span data-i18n="passage"></span><select data-pair-select></select></label><button type="button" class="passage-repeat" data-repeat-pair></button></div><div class="passage-status-row"><label><input type="checkbox" data-follow-reading><span data-i18n="followReading"></span><span class="follow-short" data-i18n="followShort" aria-hidden="true"></span></label><strong data-now-reading role="status" aria-live="polite"></strong></div><span data-pair-progress hidden></span><p data-i18n="interpreterHelp" hidden></p></div><details class="marks"><summary data-i18n="marks"></summary><p class="selection-help" data-i18n="selectText"></p><p class="status" data-status role="status"></p><div data-marks-list></div><button data-export data-i18n="export"></button></details></div></aside></div>
+</div></div></main><div class="selection-popover" data-selection-offer hidden role="group" aria-label="Selected text"><div class="selection-actions"><button type="button" data-selection-close data-i18n="closeSelection"></button><button data-mark class="mark-button" disabled></button></div><label data-note-field><span data-i18n="noteLabel"></span><textarea data-selection-note rows="3"></textarea></label></div><audio id="study-audio" hidden preload="metadata"></audio><script id="material-data" type="application/json">{{DATA}}</script><script id="material-copy" type="application/json">{{COPY}}</script><script>{{SCRIPT}}</script></body></html>
+<!-- Lucide licence
+ISC License
+
+Copyright (c) 2026 Lucide Icons and Contributors
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+---
+
+The following Lucide icons are derived from the Feather project:
+
+airplay, alert-circle, alert-octagon, alert-triangle, aperture, arrow-down-circle, arrow-down-left, arrow-down-right, arrow-down, arrow-left-circle, arrow-left, arrow-right-circle, arrow-right, arrow-up-circle, arrow-up-left, arrow-up-right, arrow-up, at-sign, calendar, cast, check, chevron-down, chevron-left, chevron-right, chevron-up, chevrons-down, chevrons-left, chevrons-right, chevrons-up, circle, clipboard, clock, code, columns, command, compass, corner-down-left, corner-down-right, corner-left-down, corner-left-up, corner-right-down, corner-right-up, corner-up-left, corner-up-right, crosshair, database, divide-circle, divide-square, dollar-sign, download, external-link, feather, frown, hash, headphones, help-circle, info, italic, key, layout, life-buoy, link-2, link, loader, lock, log-in, log-out, maximize, meh, minimize, minimize-2, minus-circle, minus-square, minus, monitor, moon, more-horizontal, more-vertical, move, music, navigation-2, navigation, octagon, pause-circle, percent, plus-circle, plus-square, plus, power, radio, rss, search, server, share, shopping-bag, sidebar, smartphone, smile, square, table-2, tablet, target, terminal, trash-2, trash, triangle, tv, type, upload, x-circle, x-octagon, x-square, x, zoom-in, zoom-out
+
+The MIT License (MIT) (for the icons listed above)
+
+Copyright (c) 2013-present Cole Bemis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-->
