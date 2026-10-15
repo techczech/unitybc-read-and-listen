@@ -17,7 +17,8 @@ for route in routes:
         assert 'provenance' not in unit
         for track in unit['tracks'].values(): assert (root/track.lstrip('/')).is_file()
         for pair in unit['interpreterPairs']:
-            for lang,span in pair.items():
+            for lang in unit['tracks']:
+                span=pair[lang]
                 assert 0<=span['charStart']<span['charEnd']<=len(unit['text'][lang])
                 assert span['start']<span['end']
     for ref in re.findall(r'(?:src|href)="(/[^"?#]*)',body):

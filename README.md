@@ -23,15 +23,28 @@ python3 scripts/build-unitybc-companion.py
 python3 -m http.server 8000
 ```
 
-Open http://localhost:8000/. Use HTTP rather than opening HTML from disk because the website uses shared assets and root-relative links. The earlier offline single-file delivery is a separate format.
+Open http://localhost:8000/. Use HTTP rather than opening HTML from disk because the website uses shared assets and root-relative links. For an offline attachment, use the generator below; it packages this same reader.
 
 ## Edit or add material
 
 `source/material-<language>-<document>.md` holds canonical JSON-compatible YAML frontmatter. It contains fixed text, structured questionnaire options, sentence character/time offsets, explicit English/translation passage pairing and audio URLs. The generated HTML is not the editable source of truth. Do not edit translated text without checking its recording, timestamps and passage mapping. No runtime translation service or API key is involved.
 
-`source/reader-*.js` contains the established reader behaviour. The build adapts its audio loader to external MP3s and emits the shared `assets/reader.js`. `assets/styles-reader.css` preserves the original reader foundation; `assets/styles-companion.css` supplies the approved white/navy/magenta website design. `source/template-unitybc-reader.html` is the shared document structure. The build validates placeholder replacement and produces 15 language/document routes.
+`source/reader-*.js` contains the established reader behaviour. The media adapter resolves either external MP3s or embedded audio; the build emits the shared `assets/reader.js`. `assets/styles-reader.css` preserves the original reader foundation; `assets/styles-companion.css` supplies the approved white/navy/magenta website design. `source/template-unitybc-reader.md` is the shared document structure. The build validates placeholder replacement and produces 15 language/document routes.
 
 Add a language by providing its material sources with the same schema, accurate audio/timings and explicit source-passage pairing, then add its native-script label to the build’s `LANGUAGES` map. Verify the language with a human reviewer before describing it as approved.
+
+## Single HTML attachments
+
+The website and attachments share the questionnaire renderer, player, icons, styles and Markdown template. No separate player implementation is maintained. `source/companion-copy.md` supplies the shell and packaging interface copy.
+
+```sh
+python3 scripts/build-unitybc-attachment.py --language bn --material pis
+python3 scripts/build-unitybc-attachment.py --all
+```
+
+Files appear in ignored `attachments/`. Open the resulting HTML directly from disk, or attach it to an email. Each file includes that document's English and translated recordings; English-only files include English audio only. No server, external assets or provider calls are needed. Optional flags include `--view side`, `--listen both`, `--section`, `--pair`, `--speed 1.25`, `--focus` and `--pause-after-segment`.
+
+Visitors can also choose **Embed → Download single HTML** to package their current reader configuration. Notes and questionnaire answers are excluded. This downloads only the selected document, rather than all languages. Typical raw sizes are 0.5–0.9 MB for questionnaire examples, 0.8–1.7 MB for summaries and 6.4–13.8 MB for participant information; ZIP compression can reduce email attachment size without changing the audio.
 
 ## Delivery size and privacy
 
@@ -41,7 +54,7 @@ The audio manifest contains 80 distinct MP3 files totalling about 29.5 MB, dedup
 
 Run the Python build, then `python3 scripts/package-unitybc-site.py` to create the allowlisted `dist/` website. Deploy with `wrangler pages deploy dist --project-name unitybc-read-and-listen --branch main` using your own Cloudflare login. There are no deployment credentials in this repository. The initial deployment uses the CLI; GitHub pushes do not automatically publish. A team-owned Git integration can be configured later without changing the reader. The `_headers` file controls Content Security Policy, allowed iframe parents and caching of fingerprinted audio. Source, tests and local verification outputs stay outside the deployed folder.
 
-Append `?embed=1` to any reader page. The approved parent is `https://www.ceu.ox.ac.uk`, alongside this companion and its separate cross-origin embed demonstration. The parent site also needs to permit the iframe origin. The [embed guide](https://unitybc-read-and-listen.pages.dev/embed-guide.html) includes a fixed-height snippet and optional origin-checked resize helper. Installation in the actual Oxford website is a separate step.
+Append `?embed=1` to any reader page. The approved parent is `https://www.ceu.ox.ac.uk`, alongside this companion and its separate cross-origin embed demonstration. The parent site also needs to permit the iframe origin. The [embed guide](https://unitybc-read-and-listen.pages.dev/embed-guide.html) includes the selected-configuration snippet and required origin-checked resize helper, which sizes the iframe to its full content. Installation in the actual Oxford website is a separate step.
 
 ## Verification and licensing
 

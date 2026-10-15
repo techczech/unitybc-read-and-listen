@@ -2,17 +2,18 @@
 <a class="back" href="/">← Read and listen</a><h1>Embed the multilingual reader</h1>
 <p>The reader can be displayed as a standalone website or inside a page on the official UnityBC website. The embedded presentation keeps the language choices, documents, notes and playback controls.</p>
 <p><a href="/embed-example.html">See a same-origin embed example</a> or <a href="https://embed-check.unitybc-read-and-listen.pages.dev/embed-example.html">see the cross-origin demonstration</a>.</p>
-<h2>Paste this iframe</h2>
+<h2>Copy your selected reader</h2><p>Choose a document and language, then use Embed beside the language choices. The code preserves the selected section, passage, listening language, display, speed, Focus view and segment pacing. It excludes notes and questionnaire answers. Include both the iframe and its resize script.</p><h2>Default English example</h2>
 <pre><code>&lt;iframe
-  src="https://unitybc-read-and-listen.pages.dev/?embed=1"
+  data-unitybc-reader src="https://unitybc-read-and-listen.pages.dev/?embed=1"
   title="UnityBC study information — read and listen"
-  width="100%" height="800"
-  style="border:0;max-width:100%;"
+  width="100%" height="600" scrolling="no"
+  style="border:0;width:100%;overflow:hidden;"
   loading="lazy"&gt;
 &lt;/iframe&gt;
+&lt;script src="https://unitybc-read-and-listen.pages.dev/assets/embed-parent.js" defer&gt;&lt;/script&gt;
 &lt;a href="https://unitybc-read-and-listen.pages.dev/"&gt;Open the reader in a full page&lt;/a&gt;</code></pre>
 <p>English and the plain language summary are the defaults. For Bengali participant information, use <code>/bn-pis.html?embed=1</code>; Urdu is <code>/ur-pis.html?embed=1</code>, Gujarati <code>/gu-pis.html?embed=1</code> and Czech <code>/cs-pis.html?embed=1</code>.</p>
 <h2>Website configuration</h2><p>The hosting headers permit embedding by <code>https://www.ceu.ox.ac.uk</code> and by the companion’s demonstration origins. Your website administrator must also permit this reader’s origin in the parent website’s iframe policy. We have not installed an iframe in the Oxford website.</p>
-<p>The iframe works with a fixed height and user-initiated playback. The optional <code>assets/embed-parent.js</code> helper accepts only size messages from the iframe’s exact origin and window, and limits the height to 560–900 pixels. It does not read or transmit notes. New parent origins must be added explicitly to both the companion’s HTTP headers and its message allowlist.</p>
+<p>The resize helper is required to avoid scrolling inside the iframe. It measures the full reader content and updates after document, language, section, window size or Focus view changes. Follow reading scrolls the surrounding page. Messages are checked against the exact iframe window and origin; notes are never transmitted. The parent website must allow the helper script. New parent origins must be added explicitly to both the hosting headers and message allowlist. If your content system blocks scripts, use the full-page reader link.</p>
 <p>The demonstration remains labelled as awaiting language review when embedded. Do not remove that notice for participant use until the content and recordings have been approved.</p>
 </main></body></html>

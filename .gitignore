@@ -4,3 +4,4 @@ __pycache__/
 verification-local/
 node_modules/
 dist/
+attachments/

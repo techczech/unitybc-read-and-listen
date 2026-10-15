@@ -9,11 +9,11 @@ window.UnityBCInterpreter=class {
  clear(){clearTimeout(this.timer);this.timer=null;this.token++;}
  persist(){if(!this.waiting&&this.unitId===this.unit().id&&Number.isFinite(this.audio.currentTime))this.position().time=this.audio.currentTime;this.save()}
  pause(){this.persist();this.running=false;this.clear();this.audio.pause();this.onChange()}
- leave(){this.pause();this.waiting=false;this.unitId=null;for(const url of this.urls.values())URL.revokeObjectURL(url);this.urls.clear();}
+ leave(){this.pause();this.waiting=false;this.unitId=null;this.urls.clear();}
  playPause(){if(this.running){this.pause();return}const p=this.position();if(p.segmentEnded&&!p.done){p.pair++;p.phase=0;p.time=null;p.segmentEnded=false}if(p.done){p.pair=0;p.phase=0;p.time=null;p.done=false}this.go(p.pair,p.phase,true,p.time)}
  go(pair,phase=0,autoplay=true,resume=null){
  this.clear();const token=this.token;this.running=false;this.audio.pause();this.waiting=false;const p=this.position();p.pair=Math.max(0,Math.min(this.pairs().length-1,pair));p.phase=phase;p.done=false;p.segmentEnded=false;this.unitId=this.unit().id;const lang=this.order()[phase],s=this.segment();if(!s)return;
- const key=this.unitId+':'+lang;if(!this.urls.has(key))this.urls.set(key,URL.createObjectURL(new Blob([Uint8Array.from(atob(this.unit().tracks[lang]),c=>c.charCodeAt(0))],{type:'audio/mpeg'})));
+ const key=this.unitId+':'+lang;if(!this.urls.has(key))this.urls.set(key,window.UnityBCMedia.resolve(this.unit().tracks[lang]));
  p.time=resume===null?s.start:Math.max(s.start,Math.min(s.end,resume));this.onTrack(key);this.onChange();const targetTime=p.time;const ready=()=>{if(token!==this.token)return;this.audio.currentTime=targetTime;this.audio.playbackRate=this.state.speed;this.running=autoplay;this.save();this.onChange();if(autoplay)this.audio.play().then(()=>{if(token===this.token)this.arm()}).catch(()=>{if(token===this.token){this.running=false;this.onChange()}})};
  const url=this.urls.get(key);if(this.audio.src===url&&this.audio.readyState>=1)ready();else{this.audio.onloadedmetadata=ready;this.audio.src=url;this.audio.load()}
  }

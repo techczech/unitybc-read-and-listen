@@ -1,3 +1,7 @@
+---
+{"title":"UnityBC shared reader template"}
+---
+
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>UnityBC</title><style>{{STYLE}}</style></head><body class="reading">
 <header><strong>UnityBC</strong><span data-page-title></span><label><span data-i18n="uiLanguage"></span><select data-ui-language><option value="en">English</option></select></label></header>
 <p class="preview" data-i18n="preview"></p><main><div class="reader-shell"><nav class="section-rail"><h2 data-rail-title></h2><div data-rail-sections></div></nav><div class="reader-main"><nav class="part-nav"><button data-prev data-i18n="previousShort"></button><details class="section-menu" data-sections><summary data-section-summary></summary><div class="section-list" data-section-list></div></details><select data-unit-select hidden aria-label="Section"></select><button data-next data-i18n="nextShort"></button></nav>
