@@ -54,7 +54,7 @@ The audio manifest contains 80 distinct MP3 files totalling about 29.5 MB, dedup
 
 Run the Python build, then `python3 scripts/package-unitybc-site.py` to create the allowlisted `dist/` website. Deploy with `wrangler pages deploy dist --project-name unitybc-read-and-listen --branch main` using your own Cloudflare login. There are no deployment credentials in this repository. The initial deployment uses the CLI; GitHub pushes do not automatically publish. A team-owned Git integration can be configured later without changing the reader. The `_headers` file controls Content Security Policy, allowed iframe parents and caching of fingerprinted audio. Source, tests and local verification outputs stay outside the deployed folder.
 
-Append `?embed=1` to any reader page. The approved parent is `https://www.ceu.ox.ac.uk`, alongside this companion and its separate cross-origin embed demonstration. The parent site also needs to permit the iframe origin. The [embed guide](https://unitybc-read-and-listen.pages.dev/embed-guide.html) includes the selected-configuration snippet and required origin-checked resize helper, which sizes the iframe to its full content. Installation in the actual Oxford website is a separate step.
+Append `?embed=1` to any reader page. Any website may embed the reader (`frame-ancestors *`, since 23 November 2026, so the Haiku editor and preview can be tested). The parent site also needs to permit the iframe origin. The [embed guide](https://unitybc-read-and-listen.pages.dev/embed-guide.html) includes the selected-configuration snippet and required origin-checked resize helper, which sizes the iframe to its full content. Installation in the actual Oxford website is a separate step.
 
 ## Verification and licensing
 

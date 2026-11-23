@@ -48,10 +48,10 @@
   }catch{status.textContent=copy.downloadError;}finally{button.disabled=false;}
  };
  if(!embedded||window.parent===window)return;
- const parents=new Set(['https://www.ceu.ox.ac.uk','https://embed-check.unitybc-read-and-listen.pages.dev',location.origin]);let parentOrigin=null;
+ let parentOrigin=null;
  window.UnityBCFollowTarget=rect=>{if(parentOrigin)window.parent.postMessage({type:'unitybc-reader-focus',top:rect.top+scrollY,bottom:rect.bottom+scrollY},parentOrigin);};
  let frame=null,last=0;const root=document.querySelector('[data-document-root]');
  const measure=()=>{if(!parentOrigin||frame!==null)return;frame=requestAnimationFrame(()=>{frame=null;const height=Math.ceil(root.getBoundingClientRect().height)+16;if(height!==last){last=height;window.parent.postMessage({type:'unitybc-reader-height',height},parentOrigin);}});};
  new ResizeObserver(measure).observe(root);window.addEventListener('resize',measure);document.fonts.ready.then(measure);
- window.addEventListener('message',e=>{if(e.source===window.parent&&parents.has(e.origin)&&e.data?.type==='unitybc-reader-measure'){parentOrigin=e.origin;last=0;measure();}});measure();
+ window.addEventListener('message',e=>{if(e.source===window.parent&&e.data?.type==='unitybc-reader-measure'){parentOrigin=e.origin;last=0;measure();}});measure();
 })();
